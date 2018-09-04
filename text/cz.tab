@@ -1,0 +1,106 @@
+################################################################################
+#                                                                              #
+#                Simutrans Scenario Specific Translation File                  #
+#                           Scenario: pak128.britain                           #
+#                             Language: cz Cestina                             #
+#                             Encoding: ISO-8859-2                             #
+#                            Font : prop-latin2.fnt                            #
+#                           Date Created: 14.03 2010                           #
+#                                                                              #
+#                                   authors:                                   #
+#                              Frank Penz - FrankP                             #
+#                                    note:                                     #
+#                                    - JOHNY                                   #
+#                                    note:                                     #
+#                        Václav Macùrek - VaclavMacurek                        #
+#                                    note:                                     #
+#                                   - hernajs                                  #
+#                                    note:                                     #
+#                              Tomá¹ Kube¹ - napik                             #
+#                                    note:                                     #
+#                          Markus Pristovsek - prissi                          #
+#                                    note:                                     #
+#                            Oliver Mayer - rakishly                           #
+#                                    note:                                     #
+#                         Tomá¹ Vrbický - vrbicky_tomas                        #
+#                     note: Don´thurry up! Death is faster.                    #
+#                            Vladimír Slávik - vsys                            #
+#                             note: Vladimír Slávik                            #
+#                                                                              #
+################################################################################
+#____________________________________bridge_____________________________________
+#____________________________________bridge_____________________________________
+BrickAqueduct
+Cihelný akvadukt
+BrickViaduct
+Cihelný ¾eleznièní most
+BrickViaductRoad
+Cihelný silnièní most
+PowerBridge
+Most pro dráty vysokého napìtí
+WoodenTrestle
+Døevìný ¾eleznièní most
+#___________________________________building____________________________________
+#___________________________________building____________________________________
+00_CITY
+Radnice
+01_CITY
+Radnice
+02_CITY
+Radnice
+03_CITY
+Radnice
+04_CITY
+Radnice
+#__________________________________dummy_info___________________________________
+#__________________________________dummy_info___________________________________
+#____________________________________factory____________________________________
+#____________________________________factory____________________________________
+#_____________________________________good______________________________________
+#_____________________________________good______________________________________
+#_________________________________program_text__________________________________
+#_________________________________program_text__________________________________
+#___________________________________roadsign____________________________________
+#___________________________________roadsign____________________________________
+ChooseSignals
+Návìstidlo volby stanièní koleje
+Classic_ChooseSignals_right
+Návìstidlo volby stanièní koleje
+Classic_LongSignals_right
+Návìstidlo úseku s více zastávkami
+Classic_preSignals_right
+Návìstidlo vlakové cesty
+Classic_Signals_right
+Návìstidlo tra»ového úseku
+Early_ChooseSignals_right
+Návìstidlo volby stanièní koleje
+Early_LongSignals_right
+Návìstí úseku s více zastávkami
+Early_preSignals_right
+Návìstí vlakové cesty
+Early_Signals_right
+Návìstí tra»ového bloku
+EndofChooseSignal
+Návìstí zákazu volby stanièní koleje
+LongSignals
+Návìstidlo úseku s více zastávkami
+two-aspect-colour-light-choose
+Návìstidlo volby stanièní koleje
+Modern_EndofChooseSignal
+Návìstidlo zákazu volby stanièní koleje
+Modern_LongSignals_right
+Návìstidlo úseku s více zastávkami
+two-aspect-colour-light-distant
+Návìstidlo vlakové cesty
+two-aspect-colour-light-stop
+Návìstidlo tra»ového bloku
+preSignals
+Návìstidlo vlakové cesty
+Signals
+Návìstidlo tra»ového bloku
+traffic_light
+Semafory
+#____________________________________vehicle____________________________________
+#____________________________________vehicle____________________________________
+#__________________________________way-object___________________________________
+#__________________________________way-object___________________________________

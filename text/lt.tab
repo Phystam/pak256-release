@@ -1,0 +1,194 @@
+§################################################################################
+#                                                                              #
+#                Simutrans Scenario Specific Translation File                  #
+#                           Scenario: pak128.britain                           #
+#                            Language: lt Lithuanian                           #
+#                                Encoding: UTF-8                               #
+#                                Font : cyr.bdf                                #
+#                            Date Created: 4.12 2010                           #
+#                                                                              #
+#                                   authors:                                   #
+#                                    - Dwachs                                  #
+#                                    note:                                     #
+#                              Frank Penz - FrankP                             #
+#                                    note:                                     #
+#                                  - enternald                                 #
+#     note: Need more lt translators. Eiti į http://simutrans-germany.com/     #
+#                          Markus Pristovsek - prissi                          #
+#                                    note:                                     #
+#                                                                              #
+################################################################################
+#____________________________________bridge_____________________________________
+#____________________________________bridge_____________________________________
+BrickAqueduct
+Plytinis akvedukas
+BrickViaduct
+Plytinis geležinkelio viadukas
+BrickViaductCobbles
+Blokelių tiltas
+BrickViaductRoad
+plytinis tiltas (asfalto danga)
+PowerBridge
+Aukštos įtampos elektros tiltas
+WoodenTrestle
+Medinis tiltas
+#___________________________________building____________________________________
+#___________________________________building____________________________________
+1950sStationBuilding
+1950-ųjų keleivių terminalas
+1950sStationBuildingEntrance
+1950-ųjų stoties įėjimas
+#__________________________________dummy_info___________________________________
+#__________________________________dummy_info___________________________________
+#____________________________________factory____________________________________
+#____________________________________factory____________________________________
+Dairy
+Pieninė
+#_____________________________________good______________________________________
+#_____________________________________good______________________________________
+Autos
+mašinos
+beer
+alus
+Bretter
+lentos
+Bucher
+knygos
+canned_food
+konservai
+Cement
+cementas
+Chemicals
+chemikalai
+Concrete
+betonas
+corn
+kukurūzai
+cotton
+medvilnė
+Eisenerz
+geležies rūda
+electronics
+elektronika
+Ethanol
+etanolis
+fertilizer
+trąšos
+fish
+žuvis
+flour
+miltai
+food
+maistas
+Gasoline
+benzinas
+glass
+stiklas
+goods_
+prekės
+grain
+grūdai
+Holz
+mediena
+Kohle
+anglis
+meat
+mėsa
+milk
+pienas
+Moebel
+baldai
+None
+joks (-ia)
+Oel
+nafta
+Papier
+popierius
+Passagiere
+Keleiviai
+Plastik
+plastikas
+Post
+paštas
+Sand
+smėlis
+Stahl
+plienas
+Stone
+akmuo
+textile
+tekstilė
+waste
+šiukšlės
+wool
+vilna
+#_________________________________program_text__________________________________
+#_________________________________program_text__________________________________
+CATEGORY_01
+prekės
+CATEGORY_02
+birūs kroviniai
+CATEGORY_03
+Nafta/benzinas
+CATEGORY_04
+Šaldyti produktai
+CATEGORY_06
+Ilgi kroviniai
+#___________________________________roadsign____________________________________
+#___________________________________roadsign____________________________________
+ChooseSignals
+Rinktis platformą
+Classic_ChooseSignals_right
+Rinktis platformą
+Classic_LongSignals_right
+Ilgo bloko signalas
+Classic_preSignals_right
+Presignalas
+Classic_Signals_right
+Signalas
+Early_ChooseSignals_right
+Senas platformos pasirinkimo ženklas
+Early_LongSignals_right
+Ilgo bloko signalai
+Early_preSignals_right
+Presignalai
+Early_Signals_right
+Signalai (seni)
+LongSignals
+Ilgo bloko signalas
+two-aspect-colour-light-choose
+Platformos pasirinkimo signalas
+Modern_LongSignals_right
+Ilgo bloko signalas
+two-aspect-colour-light-distant
+Presignalas
+two-aspect-colour-light-stop
+Signalas
+NoEntry
+Vienpusis eismas ženklas
+preSignals
+Pre-signalai (dviems blokams)
+Signals
+Signalas
+traffic_light
+Šviesoforai
+#____________________________________vehicle____________________________________
+#____________________________________vehicle____________________________________
+#______________________________________way______________________________________
+#______________________________________way______________________________________
+hr-asphalt-road-medium
+Asfalto kelias
+city_road
+Gatvės kelias
+cobblestone_road
+Tašytų akmenų kelias
+dirt_road
+Grunto dangos kelias
+Powerline
+Elektros linija
+River2
+Šaltinis
+taxiway
+Periferinis takas
+#__________________________________way-object___________________________________
+#__________________________________way-object___________________________________

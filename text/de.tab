@@ -1,0 +1,164 @@
+################################################################################
+#                                                                              #
+#                Simutrans Scenario Specific Translation File                  #
+#                           Scenario: pak128.britain                           #
+#                             Language: de Deutsch                             #
+#                             Encoding: ISO-8859-1                             #
+#                            Font : Prop-Latin1.bdf                            #
+#                           Date Created: 14.03 2010                           #
+#                                                                              #
+#                                   authors:                                   #
+#                            Alexander Brose - AlexB                           #
+#                                    note:                                     #
+#                         Klaus Thenmayer - Bitfreezer                         #
+#                                    note:                                     #
+#                                  - Christian                                 #
+#                                    note:                                     #
+#                                   - Combuijs                                 #
+#                                    note:                                     #
+#                             Michael Hohl - Cruzer                            #
+#                       note: Administrator pak192.comic                       #
+#                             Dirk W. - DirrrtyDirk                            #
+#                                    note:                                     #
+#                                    - Dwachs                                  #
+#                                    note:                                     #
+#                            Christian W. - Eps-Omo                            #
+#                                    note:                                     #
+#                                   - Florian                                  #
+#                                    note:                                     #
+#                              Frank Penz - FrankP                             #
+#                                    note:                                     #
+#                                    - GerdW                                   #
+#                                    note:                                     #
+#                         Roman Schwörer - Gotthardlok                         #
+#                                    note:                                     #
+#                           Hansjörg Malthaner - Hajo                          #
+#                                    note:                                     #
+#                              Jaroslaw - Jaroslaw                             #
+#                                    note:                                     #
+#                             Marcus Haupt - Marcus                            #
+#note: if I´m not available by email to proximity.de try mail@marcus-haupt.de (#
+#                        Constantin Grabowski - Moistboy                       #
+#                                    note:                                     #
+#                                 compo - compo                                #
+#                                    note:                                     #
+#                            Günter Beine - gebeine                            #
+#                        note: maintainer pak128.german                        #
+#                            Jonas Bushart - jonasbb                           #
+#                        note: developer SimuTranslator                        #
+#                              Markus Rex - msrex                              #
+#                                    note:                                     #
+#                          Markus Pristovsek - prissi                          #
+#                                    note:                                     #
+#                            Oliver Mayer - rakishly                           #
+#                                    note:                                     #
+#                               Sven Osada - sojo                              #
+#                         note: maintainer pak96.comic                         #
+#                           Werner Brandt - wernieman                          #
+#                             note: Nightly creator                            #
+#                           Michael Olbricht - whoami                          #
+#                                    note:                                     #
+#                                                                              #
+################################################################################
+#____________________________________bridge_____________________________________
+#____________________________________bridge_____________________________________
+PowerBridge
+Hochspannungsleitung
+#___________________________________building____________________________________
+#___________________________________building____________________________________
+00_CITY
+Gemeindehalle
+01_CITY
+Gemeindehalle
+02_CITY
+Stadthalle
+03_CITY
+Stadthalle
+04_CITY
+Stadthalle
+KG_COM_1970_0
+Bürogebäude
+KG_RES_1920_00
+Vorstadtwohnung
+KG_RES_80_00
+Kleine Vorstadtwohnung
+KG_RES_80_01
+Vorstadtwohnung
+KG_RES_80_02
+Wohnungsblock
+#__________________________________dummy_info___________________________________
+#__________________________________dummy_info___________________________________
+#____________________________________factory____________________________________
+#____________________________________factory____________________________________
+GrainMill
+Getreidemühle
+IronOreMine
+Eisenerz Mine
+#_____________________________________good______________________________________
+#_____________________________________good______________________________________
+#_________________________________program_text__________________________________
+#_________________________________program_text__________________________________
+#___________________________________roadsign____________________________________
+#___________________________________roadsign____________________________________
+ChooseSign
+Wegwahlschlid
+ChooseSignals
+Wegwahlsignal
+Early_ChooseSignals_right
+Wegwahlsignal
+Early_LongSignals_right
+Langblocksignal
+Early_preSignals_right
+Zwei-Block Signal
+Early_Signals_right
+Signal
+EndofChooseSignal
+Gleiswahlsignal Ende
+two-aspect-colour-light-choose
+Gleiswahlsignal
+Modern_EndofChooseSignal
+Gleiswahlsignal Ende
+Modern_LongSignals_right
+Langblocksignal
+two-aspect-colour-light-distant
+Vorsignal
+two-aspect-colour-light-stop
+Signal
+OneWay
+Einweg Signal
+Signals
+Signal
+#_____________________________________tree______________________________________
+#_____________________________________tree______________________________________
+EnglishOak
+Englische Eiche
+#____________________________________tunnel_____________________________________
+#____________________________________tunnel_____________________________________
+CanalTunnel
+Kanaltunnel
+#____________________________________vehicle____________________________________
+#____________________________________vehicle____________________________________
+Tram-Horses
+Pferdegespann
+#______________________________________way______________________________________
+#______________________________________way______________________________________
+hr-asphalt-road-medium
+Asphaltstrasse
+Canal
+Kanal
+city_road
+Stadtstrasse
+cobblestone_road
+Pflasterstrasse
+Powerline
+Hochspannungsleitungsbrücke
+tgv
+Hochgeschwindigkeitsgleis
+TramTrack
+Tram Gleise
+#__________________________________way-object___________________________________
+#__________________________________way-object___________________________________
+TramElectrification
+Tram Oberleitung
+TrollyBusElectrification
+Trolleybus Oberleitung

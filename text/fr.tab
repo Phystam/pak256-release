@@ -1,0 +1,116 @@
+################################################################################
+#                                                                              #
+#                Simutrans Scenario Specific Translation File                  #
+#                           Scenario: pak128.britain                           #
+#                             Language: fr Francais                            #
+#                             Encoding: ISO-8859-1                             #
+#                            Font : Prop-Latin1.bdf                            #
+#                           Date Created: 13.03 2010                           #
+#                                                                              #
+#                                   authors:                                   #
+#                                  - Christophe                                #
+#                                    note:                                     #
+#                              Frank Penz - FrankP                             #
+#                                    note:                                     #
+#                         Roman Schwörer - Gotthardlok                         #
+#                                    note:                                     #
+#                           Sava Bogdanets - Sava2004                          #
+#                                    note:                                     #
+#                          Jean Beaudet - cagliostro_2                         #
+#                                    note:                                     #
+#                                  - coincoin42                                #
+#                                    note:                                     #
+#                            Luc Mallet - luc.mallet                           #
+#                                    note:                                     #
+#                          Markus Pristovsek - prissi                          #
+#                                    note:                                     #
+#                                                                              #
+################################################################################
+#____________________________________bridge_____________________________________
+#____________________________________bridge_____________________________________
+#___________________________________building____________________________________
+#___________________________________building____________________________________
+#__________________________________dummy_info___________________________________
+#__________________________________dummy_info___________________________________
+#____________________________________factory____________________________________
+#____________________________________factory____________________________________
+#_____________________________________good______________________________________
+#_____________________________________good______________________________________
+Autos
+Voitures
+beer
+Bière
+Bretter
+Planches
+Bucher
+Livres
+canned_food
+Conserves
+Cement
+Ciment
+Chemicals
+Produits chimiques
+Concrete
+Béton
+corn
+grain
+cotton
+Coton
+Eisenerz
+Minerai
+electronics
+Pièces électroniques
+fertilizer
+Fertilisant
+fish
+Poisson
+flour
+Farine
+food
+Plats cuisinés
+Gasoline
+Carburant
+glass
+Verre
+goods_
+denrées
+grain
+Céréales
+Holz
+Bois
+Kohle
+Charbon
+meat
+Viande
+milk
+Lait
+Moebel
+Meuble
+None
+Vide
+Oel
+Pétrole
+Passagiere
+Passagers
+Plastik
+Plastique
+Post
+Message
+Sand
+Sable
+Stahl
+Acier
+Stone
+Pierre
+textile
+Textiles
+waste
+déchets
+wool
+Laine
+#_________________________________program_text__________________________________
+#_________________________________program_text__________________________________
+#____________________________________vehicle____________________________________
+#____________________________________vehicle____________________________________
+#__________________________________way-object___________________________________
+#__________________________________way-object___________________________________

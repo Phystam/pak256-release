@@ -1,0 +1,27 @@
+# 0..8 standard (old) game sounds
+sound[0]=aec-regent-3-ff3170.wav
+sound[1]=leyland-atlantean-ff3170.wav
+sound[2]=bus-volvo-ninebilly.wav
+sound[3]=lwalker-class-40.wav
+sound[4]=lwalker-br-4mt-tank.wav
+
+# hardcoded game sounds
+# do not alter these numbers!
+#cash
+sound[15]=kermite607-coin.wav
+# remover sound
+sound[14]=ohrwurm-demolition.wav
+# - construction on water
+sound[13]=dock.wav
+# - metal construction gets built
+sound[12]=gavel.wav
+# - stone/concrete construction gets built
+# This seems to include raising/lowering of land
+sound[11]=vickyleao1-digging.wav
+# - tool failed
+sound[10]=decembered-brakes.wav
+# - tool selection
+sound[9]=jessepash-switch.wav
+
+# vehicle sounds
+sound[16]=DD51.wav

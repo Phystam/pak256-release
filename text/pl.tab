@@ -1,0 +1,1300 @@
+################################################################################
+#                                                                              #
+#                Simutrans Scenario Specific Translation File                  #
+#                           Scenario: pak128.britain                           #
+#                              Language: pl Polski                             #
+#                             Encoding: ISO-8859-2                             #
+#                            Font : prop-latin2.fnt                            #
+#                           Date Created: 14.03 2010                           #
+#                                                                              #
+#                                   authors:                                   #
+#                              Frank Penz - FrankP                             #
+#                                    note:                                     #
+#                              Jaroslaw - Jaroslaw                             #
+#                                    note:                                     #
+#                                     - Rivo                                   #
+#                                    note:                                     #
+#                          Markus Pristovsek - prissi                          #
+#                                    note:                                     #
+#                                                                              #
+################################################################################
+#____________________________________bridge_____________________________________
+#____________________________________bridge_____________________________________
+#___________________________________building____________________________________
+#___________________________________building____________________________________
+#__________________________________dummy_info___________________________________
+#__________________________________dummy_info___________________________________
+#____________________________________factory____________________________________
+#____________________________________factory____________________________________
+#_____________________________________good______________________________________
+#_____________________________________good______________________________________
+#_________________________________program_text__________________________________
+#_________________________________program_text__________________________________
+#____________________________________vehicle____________________________________
+#____________________________________vehicle____________________________________
+1-Deck-Closed
+Tramwaj jednopiêtrowy
+1-Deck-Trailer
+Jednopiêtrowa doczepka do tramwaju
+2-Deck-Closed
+Dwupiêtrowy tramwaj z dachem
+2-Deck-Open
+Dwupiêtrowy tramwaj bez dachu
+A1Diddler
+A1 "Diddler"
+AECQ2
+AEC Q2
+AECQ4
+AEC Q4
+AECRegalT
+AEC Regal
+AECRegentST
+AEC Regent ST
+AECReliance
+AEC Reliance
+AECRenownLT
+AEC Renown LT
+AECSwift
+AEC Swift
+Air Braked Tanker (TTA)
+Cysterna BR TTA
+AustinMaestroCool
+Austin Maestro (mro¿onki)
+AustinMaestroPiece
+Austin Maestro (porcjowane)
+AustinMaestroPost
+Austin Maestro (poczta)
+AustinMorrisEACool
+Austin Morris EA (mro¿onki)
+AustinMorrisEAPiece
+Austin Morris EA (porcjowane)
+AustinMorrisEAPost
+Austin Morris EA (poczta)
+AustinSevenCool
+Austin Seven (mro¿onki)
+AustinSevenPiece
+Austin Seven (porcjowane)
+AustinSevenPost
+Austin Seven (poczta)
+Autic-4_Car_Transporter(Front)
+Laweta Autic (przód)
+Autic-4_Car_Transporter(Rear)
+Laweta Autic (ty³)
+Blackpool-Balloon
+Blackpool Balloon
+Blackpool-Brush
+Blackpool Brush
+Blackpool-Centenary
+Blackpool Centenary
+Blackpool-Coronation
+Blackpool Coronation
+Blackpool-Dreadnought
+Blackpool Dreadnought
+Blackpool-Jubilee
+Blackpool Jubilee
+Blackpool-Millenium
+Blackpool Millenium
+Blackpool-Original
+Blackpool Original
+Blackpool-ProgressTwin-Power
+Blackpool Progress Twin
+Blackpool-ProgressTwin-Trailer
+Blackpool Progress Twin (doczepka)
+Blackpool-Standard
+Blackpool Standard
+BlackwallFrigateBulk
+Fregata Blackwall (sypkie)
+BlackwallFrigateLong
+Fregata Blackwall (d³ugie)
+BlackwallFrigatePiece
+Fregata Blackwall (porcjowane)
+BoatHorsesSingle
+Pojedynczy koñ
+Bogie Tanker(TEA)
+Cysterna BR TEA
+BR-104Front
+BR Class 104 (SZT)
+BR-104Middle
+BR Class 104 (SZT) (¶rodek)
+BR-104Rear
+BR Class 104 (SZT) (ty³)
+BR-121
+BR Class 121 (SZT)
+BR-142Front(Regional)
+BR Class 142 "Pacer" (SZT)
+BR-142Rear(Regional)
+BR Class 142 "Pacer" (SZT) (ty³)
+BR-153(Regional)
+BR Class 153 "Super-Sprinter" (SZT)
+BR-156Front(Regional)
+BR Class 156 "Super-Sprinter" (SZT)
+BR-156Rear(Regional)
+BR Class 156 "Super-Sprinter" (SZT) (ty³)
+BR-158Front(Regional)
+BR Class 158 "Express Sprinter" (SZT)
+BR-158Middle(Regional)
+BR Class 158 "Express Sprinter" (SZT) (¶rodek)
+BR-158Rear(Regional)
+BR Class 158 "Express Sprinter" (EZT) (ty³)
+BR-165Front
+BR Class 165 "Network Turbo" (SZT)
+BR-165Middle
+BR Class 165 "Network Turbo" (SZT) (¶rodek)
+BR-165Rear
+BR Class 165 "Network Turbo" (SZT) (ty³)
+BR-170Front
+BR Class 170 "Turbostar" (SZT)
+BR-170Middle
+BR Class 170 "Turbostar" (SZT) (¶rodek)
+BR-170Rear
+BR Class 170 "Turbostar" (SZT) (ty³)
+BR-180Front
+BR Class 180 "Adelante"
+BR-180Middle
+BR Class 180 "Adelante" (¶rodek)
+BR-180Rear
+BR Class 180 "Adelante" (ty³)
+BR-205Front
+BR Class 205 (SEZT)
+BR-205Middle
+BR Class 205 (SEZT) (¶rodek)
+BR-205Rear
+BR Class 205 (SEZT) (ty³)
+BR-220Front(Virgin)
+BR Class 220 "Voyager"
+BR-220Middle(Virgin)
+BR Class 220 "Voyager" (¶rodek)
+BR-220Rear(Virgin)
+BR Class 220 "Voyager" (ty³)
+BR-251FirstParlour
+BR Class 251 "Blue Pullman" (salonik klasy 1.)
+BR-251Front
+BR Class 251 "Blue Pullman"
+BR-251Rear
+BR Class 251 "Blue Pullman" (tylni wagon)
+BR-251SecondParlourFront
+BR Class 251 "Blue Pullman" (przedni salonik klasy 2.)
+BR-251SecondParlourRear
+BR Class 251 "Blue Pullman" (tylni salonik klasy 2.)
+BR-303Front
+BR Class 303 (EZT)
+BR-303Pantograph
+BR Class 303 (EZT) (pantograf)
+BR-303Rear
+BR Class 303 (EZT) (ty³)
+BR-309-1Front
+BR Class 309/1 (dwuwagonowy) (EZT)
+BR-309-2Front
+BR Class 309/1 (czterowagonowy) (EZT)
+BR-309Middle
+BR Class 309 (EZT) (¶rodkowa naczepa)
+BR-309Power
+BR Class 309 (EZT) (wagon silnikowy)
+BR-309Rear
+BR Class 309 (EZT) (ty³)
+BR-313Front
+BR Class 313 (EZT)
+BR-313Pantograph
+BR Class 313 (EZT) (pantograf)
+BR-313Rear
+BR Class 313 (EZT) (ty³)
+BR-319Engine(NSE)
+BR Class 319 (EZT) (silnik)
+BR-319Front(NSE)
+BR Class 319 (EZT)
+BR-319Pantograph(NSE)
+BR Class 319 (EZT) (pantograf)
+BR-319Rear(NSE)
+BR Class 319 (EZT) (ty³)
+BR-365Front(NSE)
+BR Class 365 "Networker Express" (EZT)
+BR-365Middle(NSE)
+BR Class 365 "Networker Express" (EZT) (¶rodek)
+BR-365Power(NSE)
+BR Class 365 "Networker Express" (EZT) (w. silnikowy)
+BR-365Rear(NSE)
+BR Class 365 "Networker Express" (EZT) (ty³)
+BR-370Buffet(IC)
+BR Class 370 APT (bufet)
+BR-370Coach(IC)
+BR Class 370 APT (pasa¿erski)
+BR-370FrontCab(IC)
+BR Class 370 APT
+BR-370FrontPower(IC)
+BR Class 370 APT (przedni wagon silnikowy)
+BR-370RearCab(IC)
+BR Class 370 APT (tylni wagon)
+BR-370RearPower(IC)
+BR Class 370 APT (tylni wagon silnikowy)
+BR-370Restaurant(IC)
+BR Class 370 APT (restauracyjny)
+BR-373Coach
+BR Class 373 "Eurostar" (pasa¿erski)
+BR-373FrontCab
+BR Class 373 "Eurostar"
+BR-373FrontPower
+BR Class 373 "Eurostar" (przedni wagon silnikowy)
+BR-373RearCab
+BR Class 373 "Eurostar" (tylni wagon)
+BR-373RearPower
+BR Class 373 "Eurostar" (tylni wagon silnikowy)
+BR-375Front
+BR Class 375 "Electrostar" (EZT)
+BR-375Middle(SE)
+BR Class 375 "Electrostar" (EZT) (¶rodek)
+BR-375Rear
+BR Class 375 "Electrostar" (EZT) (ty³)
+BR-378Front
+BR London Overground Class 378 (EZT)
+BR-378Middle
+BR London Overground Class 378 (EZT) (¶rodek)
+BR-378Rear
+BR London Overground Class 378 (EZT) (ty³)
+BR-390Coach(Virgin)
+BR Class 390 "Pendolino" (pasa¿erski bez napêdu)
+BR-390FrontCab(Virgin)
+BR Class 390 "Pendolino"
+BR-390FrontCoach(Virgin)
+BR Class 390 "Pendolino" (przedni wagon)
+BR-390FrontPantograph(Virgin)
+BR Class 390 "Pendolino" (przedni pantograf)
+BR-390PoweredCoach(Virgin)
+BR Class 390 "Pendolino" (pasa¿erski z napêdem)
+BR-390RearCab(Virgin)
+BR Class 390 "Pendolino" (tylni wagon)
+BR-390RearCoach(Virgin)
+BR Class 390 "Pendolino" (tylni pasa¿erski)
+BR-390RearPantograph(Virgin)
+BR Class 390 "Pendolino" (tylni pantograf)
+BR-395Front
+BR Class 395 "Javelin"
+BR-395Middle
+BR Class 395 "Javelin" (¶rodek)
+BR-395Rear
+BR Class 395 "Javelin" (ty³)
+BR-410[CEP]Brake
+BR Class 410 "4Cep" (EZT) (¶rodkowy hamulec)
+BR-410[CEP]Front
+BR Class 410 "4Cep" (EZT)
+BR-410[CEP]Middle
+BR Class 410 "4Cep" (EZT) (¶rodek)
+BR-410[CEP]Rear
+BR Class 410 "4Cep" (EZT) (ty³)
+BR-414[HAP]Front
+BR Class 414 "2Hap" (EZT)
+BR-414[HAP]Rear
+BR Class 414 "2Hap" (EZT) (ty³)
+BR-419[MLV]
+BR Class 419 MLV
+BR-442-Front
+BR Class 442
+BR-442-Middle1
+BR Class 442 (¶rodek)
+BR-442-Middle2
+BR Class 442 (¶rodek)
+BR-442-Middle3
+BR Class 442 (¶rodek)
+BR-442-Rear
+BR Class 442 (ty³)
+BR-465Front(NSE)
+BR Class 465 "Networker" (EZT)
+BR-465Middle(NSE)
+BR Class 465 "Networker" (EZT) (¶rodek)
+BR-465Rear(NSE)
+BR Class 465 "Networker" (EZT) (ty³)
+BR-489[GLV]
+BR Class 489 GLV\n
+BR-499[TLV]
+BR Class 499 TLV
+BR-4MT-Tank
+BR Standard Class 4MT 2-6-4T
+BR-7MT-Tender
+Standardowy tender BR
+BR-7MT
+BR Standard Class 7MT "Britannia" 4-6-2
+BR-8P
+BR Standard Class 8P 4-6-2
+BR-9F-Tender
+BR Standard Class 9F (tender)
+BR-9F
+BR Standard Class 9F 2-10-0
+BR-Class20
+BR Class 20
+BR-Class25
+BR Class 25
+BR-Class30
+BR Class 30
+BR-Class31-1
+BR Class 31/1
+BR-Class35
+BR Class 35 "Hymek"
+BR-Class37
+BR Class 37
+BR-Class40
+BR Class 40
+BR-Class43(Intercity)
+BR Class 43 "HST 125"
+BR-Class43Rear(Intercity)
+BR Class 43 "HST 125" (ty³)
+BR-Class47
+BR Class 47
+BR-Class52
+BR Class 52 "Western"
+BR-Class55
+BR Class 55 "Deltic"
+BR-Class56
+BR Class 56
+BR-Class58
+BR Class 58
+BR-Class66
+BR Class 66
+BR-Class67
+BR Class 67
+BR-Class71
+BR Class 71
+BR-Class73(Intercity)
+BR Class 73
+BR-Class81(Electric-Blue)
+BR Class 81
+BR-Class86(Rail-Blue)
+BR Class 86
+BR-Class87
+BR Class 87
+BR-Class90(Intercity)
+BR Class 90
+BR-Class91(Intercity)
+BR Class 91 "225"
+BR-Class92
+BR Class 92
+BR-Mk1-BC(Blue-Grey)
+Wagon pasa¿erki BR Mk.1 (hamulce)
+BR-Mk1-BC(Crimson-Cream)
+Wagon pasa¿erki BR Mk.1 (hamulce)
+BR-Mk1-BC(Maroon)
+Wagon pasa¿erki BR Mk.1 (hamulce)
+BR-Mk1-BG(Blue-Grey)
+Brankard BR Mk. 1
+BR-Mk1-BG(Crimson-Cream)
+Brankard BR Mk. 1
+BR-Mk1-BG(Maroon)
+Brankard BR Mk. 1
+BR-Mk1-BG(RoyalMail)
+Brankard BR Mk. 1
+BR-Mk1-GUV(Rail-Blue)
+Wagon pocztowy BR Mk. 1 (GUV)
+BR-Mk1-POS(RoyalMail)
+Wagon pocztowy BR Mk. 1
+BR-Mk1-RBR(Blue-Grey)
+Odnowiony wagon restauracyjny BR Mk. 1
+BR-Mk1-RBR(Crimson-Cream)
+Wagon restauracyjny BR Mk. 1
+BR-Mk1-RBR(Maroon)
+Wagon restauracyjny BR Mk. 1
+BR-Mk1-TO(Blue-Grey)
+Bezprzedzia³owy wagon pasa¿erski BR Mk. 1 
+BR-Mk1-TO(Crimson-Cream)
+Bezprzedzia³owy wagon pasa¿erski BR Mk. 1 
+BR-Mk1-TO(Maroon)
+Bezprzedzia³owy wagon pasa¿erski BR Mk. 1 
+BR-Mk1-TPO(RoyalMail)
+Poczta na kó³kach BR Mk. 1
+BR-Mk2-DBSO(Intercity)
+BR Mk 2
+BR-Mk2-RFB(Intercity)
+Wagon restauracyjny BR Mk. 2d
+BR-Mk2-TO(Intercity)
+Bezprzedzia³owy wagon pasa¿erski BR Mk. 2d
+BR-Mk2a-BSO(Blue-Grey)
+Bezprzedzia³owy wagon pasa¿erski BR Mk. 2a (hamulce)
+BR-Mk2a-RMB(Blue-Grey)
+BR Mk. 2a z minibufetem
+BR-Mk2a-TSO(Blue-Grey)
+Bezprzedzia³owy wagon pasa¿erski BR Mk. 2a
+BR-Mk3-TO(Intercity)
+BR Mk. 3 - zwyk³y wagon
+BR-Mk3-TRB(Intercity)
+BR Mk. 3 - wagon restauracyjny
+BR-Mk3a-TO(Intercity)
+BR Mk. 3a - zwyk³y wagon
+BR-BR-Mk3a-TRB
+BR Mk. 3a - wagon restauracyjny
+BR-Mk4-DVT(Intercity)
+BR Mk. 4 - wagon sterowniczy
+BR-Mk4-RSB(Intercity)
+BR Mk. 4 - wagon restauracyjny
+BR-Mk4-TSO(Intercity)
+BR Mk. 4 - zwyk³y wagon
+BrakeBR
+Standardowy brankard BR 7t
+BrakeD16
+Brankard 4t
+BrakeD93
+Brankard 7t
+BrakeGWR
+Brankard "ropucha" GWR 7t
+BrakeLMS
+Brankard LMS 7t
+BrakeLNER
+Brankard LNER 7t
+BrakeSR
+Po³udnowy brankard
+BrigBulk
+Bryg (towary sypkie)
+BrigCool
+Bryg (mro¿onki)
+BrigLong
+Bryg (d³ugie towary)
+BrigPiece
+Bryg (towary porcjowane)
+BTypeDouble
+B-Type (dwupiêtrowy)
+BTypeSingle
+B-Type (jednopiêtrowy)
+BuildersYard1750
+Zak³ad budowlany
+Bulk Hopper(HAA)
+Wêglarka BR HAA
+Bulk Hopper(HTA)
+Wêglarka BR HTA
+Bulk16T
+Weglarka 16t
+Bulk2T
+Wêglarka 2t
+Bulk3T
+Wêglarka 3t
+Bulk5T
+Wêglarka 5t
+Bulk8T
+Wêglarka 8t
+BulkRCH10T
+Wêglarka 10t RCH
+BulkRCH12T
+Wêglarka 12t RCH
+CarFactory1970
+Fabryka samochodów
+CartBulk
+Wózek-wêglarka
+CartCool
+Wózek-ch³odnia
+Cartic-4_Car_Transporter(Front)
+Cartic Car Transporter (przód)
+Cartic-4_Car_Transporter(Middle1)
+Cartic Car Transporter (¶rodek)
+Cartic-4_Car_Transporter(Middle2)
+Cartic Car Transporter (¶rodek)
+Cartic-4_Car_Transporter(Rear)
+Cartic Car Transporter (ty³)
+CartLong
+Wózek na d³ugie towary
+CartMail
+Wózek na pocztê
+CartPiece
+Wózek na towary porcjowane
+CC-Clerestory-Brake
+Czekoladowo-kremowy wagon osobowy GWR + hamulce
+CC-Clerestory-Coach
+Czekoladowo-kremowy wagon osobowy GWR
+CC-Clerestory-Dining
+Czekoladowo-kremowy wagon barowy GWR
+CC-Clerestory-Mail
+Czekoladow-kremowy wagon pocztowy GWR
+CC-Clerestory-Parcel-Brake
+Czekoladowo-kremowy wagon na paczki GWR
+CC-Clerestory-TPO
+Czekoladowo-kremowa poczta na kó³kach GWR
+ClanLineSteamerBulk
+Parowiec towarowy Clan Line (sypkie)
+ClanLineSteamerCool
+Parowiec towarowy Clan Line (mro¿onki)
+ClanLineSteamerLong
+Parowiec towarowy Clan Line (d³ugie)
+ClanLineSteamerOil
+Parowiec towarowy Clan Line (p³yny)
+ClanLineSteamerPiece
+Parowiec towarowy Clan Line (t. porcjowane)
+ClipperBulk
+Kliper (sypkie)
+ClipperLong
+Kliper (d³ugie)
+ClipperPiece
+Kliper (porcjowane)
+ClydeSteamer
+Parowiec Clyde
+Cool16T
+Wagon-ch³odnia 16t
+CoolContainer
+Wagon na konterery-ch³odnie FAA
+CoolD32
+Wagon-ch³odnia 8t
+CoolD88
+Wagon-ch³odnia 12t
+CoolEarly1
+Wagon na jedzenie
+CoolEarly2
+Ma³y wagon na jedzenie
+CoolEarly3
+Wagon na jedzenie
+CoolZSX
+Wagon-ch³odnia BR
+DAFCFArtic
+DAF CF
+DAFCFArticMail
+DAF CF (poczta)
+DAFCFRigidBulk
+DAF CF Artic (sypkie)
+DAFCFRigidFluid
+DAF CF Artic (oleje)
+DAFCFRigidLong
+DAF CF Artic (d³ugie)
+DAFLFBulk
+DAF LF (sypkie)
+DAFLFCool
+DAF LF (ch³odnia)
+DAFLFLivestock
+DAF LF (¿ywiec)
+DAFLFLong
+DAF LF (d³ugie)
+DAFLFPiece
+DAF LF (porcjowane)
+DAFLFPost
+DAF LF (poczta)
+DAFXFArtic
+DAF XF
+DAFXFArticMail
+DAF XF (poczta)
+DaimlerFleetline
+Daimler Fleetline
+DennisDart
+Dennis Dart
+DennisDominator
+Dennis Dominator
+DennisDominatorTrolley
+Dennis Dominator (trolejbus)
+DennisEnviro400
+Dennis Enviro400
+DieselBargeBulk
+Barka spalinowa (sypkie)
+DieselBargeCool
+Barka spalinowa (ch³odnia)
+DieselBargeLong
+Barka spalinowa (d³ugie)
+DieselBargeOil
+Barka spalinowa (p³yny)
+DieselBargePiece
+Barka spalinowa (porcjowane)
+DLR-B07Front
+Docklands Light Railway B07 (przód)
+DLR-B07Rear
+Docklands Light Railway B07 (ty³)
+DLR-B92Front
+Docklands Light Railway B92 (przód)
+DLR-B92Rear
+Docklands Light Railway B92 (ty³)
+DLR-P86Front
+Docklands Light Railway P86 (przód)
+DLR-P86Rear
+Docklands Light Railway P86 (ty³)
+Dogger
+Kuter rybacki
+EagleTrailerBulk
+Przyczepa Eagle (sypkie)
+EagleTrailerCool
+Przyczepa Eagle (mro¿onki)
+EagleTrailerFluid
+Przyczepa Eagle (cysterna)
+EagleTrailerLivestock
+Przyczepa Eagle (¿ywiec)
+EagleTrailerLong
+Przyczepa Eagle (d³ugie)
+EagleTrailerPiece
+Przyczepa Eagle (porcjowane)
+EastIndiamanBulk
+East Indiaman (sypkie)
+EastIndiamanLong
+East Indiaman (d³ugie)
+EastIndiamanPiece
+East Indiaman (porcjowane)
+Fifie
+Szkocki kuter rybacki
+FishingGround1910
+£owisko
+Fishmongers1945
+Sprzedawca ryb
+FodenCompoundBulk
+Foden Compound (sypkie)
+FodenCompoundCool
+Foden Compound (mro¿onki)
+FodenCompoundLivestock
+Foden Compound (¿ywiec)
+FodenCompoundLong
+Foden Compound (d³ugie)
+FodenCompoundPiece
+Foden Compound (porcjowane)
+FordEscortCool
+Ford Escort (mro¿onki)
+FordEscortPiece
+Ford Escort (porcjowane)
+FordEscortPost
+Ford Escort (poczta)
+FordTransitConnectCool
+Ford Transit Connect (mro¿onki)
+FordTransitConnectPiece
+Ford Transit Connect (porcjowane)
+FordTransitConnectPost
+Ford Transit Connect (poczta)
+FordTransitCool
+Ford Transit (mro¿onki)
+FordTransitPiece
+Ford Transit Van (porcjowane)
+FordTransitPost
+Ford Transit (poczta)
+GER-Claud-Hamilton-Tender
+GER Class S46 "Claud Hamilton" 4-4-0 (tender)
+GER-Claud-Hamilton
+GER Class S46 "Claud Hamilton" 4-4-0
+GNR-4Wheel-Brake
+Wagon pasa¿erski 2-osiowy GWR + hamulce
+GNR-4Wheel-Composite
+Wagon pasa¿erski dwuosiowy GNR
+GNR-4Wheel-Mail
+Wagon pocztowy dwuosiowy GNR
+GNR-6Wheel-First
+3-osiowy wagon pasa¿erski GNR
+GNR-6Wheel-Guard
+3-osiowy wagon pas¿erski GNR (hamulce)
+GNR-6Wheel-Mail
+3-osiowy wagon pocztowy GNR
+GNR-C1
+GNR Class C1 4-4-2
+GNR-C1-Tender
+GNR Class C1 (tender)
+GNR-Stirling8Foot
+GNR Stirling Single 4-2-2
+GNR-Stirling8Foot-Tender
+GNR Stirling Single (tender)
+guy-special
+Guy Special
+GuyArab
+Guy Arab
+GWR-1400Tank
+GWR 1400 Class 0-4-2T
+GWR-2800-Tender
+GWR 2800 Class 2-8-0 (tender)
+GWR-2800
+GWR 2800 Class 2-8-0
+GWR-Autocoach
+Wagon pasa¿erski GWR
+GWR-Bulldog-Tender
+GWR "Bulldog" Class 4-4-0 (tender)
+GWR-Bulldog
+GWR "Bulldog" Class 4-4-0
+GWR-Churchward-Star
+GWR "Star" Class 4-6-0
+GWR-Churchward-Star-Tender
+GWR "Star" Class (tender)
+GWR-Droplight-Brake(Mahogany)
+Brankard GWR Droplight
+GWR-Droplight-Dining(Mahogany)
+Wagon barowy GWR Droplight
+GWR-Droplight-Third(Mahogany)
+Wagon pasa¿erski GWR Droplight
+GWR-Express-Brake
+Wagon pospieszny GWR + hamulce
+GWR-Express-Coach
+Wagon pospieszny GWR
+GWR-Express-Dining
+Wagon pospieszny GWR z barem
+GWR-Express-Mail
+Pospieszny wagon pocztowy GWR
+GWR-Express-Parcel-Brake
+Pospieszny wagon pocztowy GWR + hamulce
+GWR-Express-TPO
+Poczta na ko³ach GWR
+GWR-Gloucester-Parcel-Railcar
+Wagon na paczki GWR Gloucester
+GWR-Gloucester-Railcar
+Wagon pasa¿erski GWR Gloucester
+GWR-King
+GWR 6600 "King" Class 4-6-0
+GWR-King-Tender
+GWR 6600 "King" Class 4-6-0 (tender)
+GWR-PannierTank
+GWR Pannier Tank 0-6-0T
+GWR-ParkRoyal-Railcar
+Wagon pasa¿erski GWR Park Royal
+GWR-Prairie-Tank
+GWR 3100 Class "Prairie Tank" 2-6-2T
+GWR-Swindon-TwinsetFront
+Podwójny wagon GWR Swindon
+GWR-Swindon-TwinsetRear
+Podwójny wagon GWR Swindon (ty³)
+HackneyCarriage
+Wagon pasa¿erski Hackney
+HandysizeBulk
+Drobnicowiec Handysize (sypkie)
+HandysizeCool
+Drobnicowiec Handysize (mro¿onki)
+HandysizeLong
+Kontenerowiec Handysize (d³ugie)
+HandysizeOil
+Tankowiec Handysize (p³yny)
+HandysizePiece
+Drobnicowiec Handysize (porcjowane)
+HeavyRoadLocomotive
+Ciê¿ka lokomobila parowa
+HorseBargeBulk
+Barka bez napêdu (sypkie)
+HorseBargeCool
+Barka bez napêdu (mro¿onki)
+HorseBargeLong
+Barka bez napêdu (d³ugie)
+HorseBargePiece
+Barka bez napêdu (porcjowane)
+HR-Jones-Goods-Tender
+HR Jones Goods 4-6-0 (tender)
+HR-Jones-Goods
+HR Jones Goods 4-6-0
+HumberKeelBulk
+Humber Keel (sypkie)
+HumberKeelCool
+Humber Keel (mro¿onki)
+HumberKeelLong
+Humber Keel (d³ugie)
+HumberKeelPiece
+Humber Keel (porcjowane)
+JennyLind
+LBSCR "Jenny Lind" 2-2-2
+JennyLind-Tender
+LBSCR "Jenny Lind" 2-2-2 (tender)
+KTypeDouble
+K-Type
+Large-2-Deck-Trailer
+Du¿y dwupiêtrowy wagon tramwajowy bez napêdu
+LargeArticTrailerBulk
+Du¿a naczepa (sypkie)
+LargeArticTrailerCars
+Du¿a naczepa (auta)
+LargeArticTrailerCool
+Du¿a naczepa (mro¿onki)
+LargeArticTrailerFluid
+Du¿a naczepa (p³yny)
+LargeArticTrailerLivestock
+Du¿a naczepa (¿ywiec)
+LargeArticTrailerLong
+Du¿a naczepa (d³ugie)
+LargeArticTrailerMail
+Du¿a naczepa (poczta)
+LargeArticTrailerPiece
+Du¿a naczepa (porcjowane)
+LBSCR-4Wheel-Brake-rear
+Dwuosiowy brankard LBSCR
+LBSCR-4Wheel-First
+Dwuosiowy wagon pasa¿erski LBSCR
+LBSCR-A1
+LBSCR Class A1 "Terrier" 0-6-0T
+LBSCR-B1-Gladstone
+LBSCR Class B1 "Gladstone" 0-4-2
+LBSCR-B1-Gladstone-Tender
+LBSCR Class B1 "Gladstone" 0-4-2 (tender)
+LBSCR-L
+LBSCR Class L "Rememberance" 4-6-4T
+Leyland_Cub(LT-Green)
+Leyland Cub
+Leyland_National_11(LC)
+Leyland National
+LeylandAtlantean
+Leyland Atlantean
+LeylandCometBulk
+Leyland Comet (sypkie)
+LeylandCometCars
+Leyland Comet (auta)
+LeylandCometCool
+Leyland Comet (mro¿onki)
+LeylandCometFluid
+Leyland Comet (p³yny)
+LeylandCometLivestock
+Leyland Comet (¿ywiec)
+LeylandCometLong
+Leyland Comet (d³ugie)
+LeylandCometPiece
+Leyland Comet (porcjowane)
+LeylandDAF200Cool
+Leyland DAF 200 (mro¿onki)
+LeylandDAF200Piece
+Leyland DAF 200 (porcjowane)
+LeylandDAF200Post
+Leyland DAF 200 (poczta)
+LeylandDAF65Bulk
+Leyland DAF 65 (sypkie)
+LeylandDAF65Cool
+Leyland DAF 65 (mro¿onki)
+LeylandDAF65Livestock
+Leyland DAF 65 (¿ywiec)
+LeylandDAF65Long
+Leyland DAF 65 (d³ugie)
+LeylandDAF65Piece
+Leyland DAF 65 (porcjowane)
+LeylandDAF65Post
+Leyland DAF 65 (poczta)
+LeylandDAF85Artic
+Leyland DAF 85
+LeylandDAF85ArticMail
+Leyland DAF 85 (poczta)
+LeylandDAF85RigidBulk
+Leyland DAF 85 (sypkie)
+LeylandDAF85RigidFluid
+Leyland DAF 85 (p³yny)
+LeylandDAF85RigidLong
+Leyland DAF 85 (d³ugie)
+LeylandDAF95Artic
+Leyland DAF 95
+LeylandDAF95ArticMail
+Leyland DAF 95 (poczta)
+LeylandGBulk
+Leyland G (sypkie)
+LeylandGCool
+Leyland G (mro¿onki)
+LeylandGLivestock
+Leyland G (¿ywiec)
+LeylandGLong
+Leyland G (d³ugie)
+LeylandGPiece
+Leyland G (porcjowane)
+LeylandGPost
+Leyland G (poczta)
+LeylandK2
+Leyland K2
+LeylandLeopard
+Leyland Leopard
+LeylandLynx
+Leyland Lynx
+LeylandOlympian
+Leyland Olympian
+LeylandOlympianCoach
+Leyland Olympian (miêdzymiastowe)
+LeylandRoadrunnerBulk
+Leyland Roadrunner (sypkie)
+LeylandRoadrunnerCool
+Leyland Roadrunner (mro¿onki)
+LeylandRoadrunnerLivestock
+Leyland Roadrunner (¿ywiec)
+LeylandRoadrunnerLong
+Leyland Roadrunner (d³ugie)
+LeylandRoadrunnerPiece
+Leyland Roadrunner (porcjowane)
+LeylandRoadrunnerPost
+Leyland Roadrunner (poczta)
+LeylandSherpaCool
+Leyland Sherpa (mro¿onki)
+LeylandSherpaPiece
+Leyland Sherpa (porcjowane)
+LeylandSherpaPost
+Leyland Sherpa (poczta)
+LeylandT45ConstructorBulk
+Leyland T45 Constructor (sypkie)
+LeylandT45ConstructorFluid
+Leyland T45 Constructor (p³yny)
+LeylandT45ConstructorLong
+Leyland T45 Constructor (d³ugie)
+LeylandT45Roadtrain
+Leyland T45
+LeylandT45RoadtrainMail
+Leyland T45 (poczta)
+LeylandTiger
+Leyland Tiger
+LeylandTitanB15
+Leyland Titan
+LightRoadLocomotive
+Lekka lokomobila
+Livestock16T
+Wagon na ¿ywiec 16t
+LivestockD21
+Wagon na ¿ywiec 8t
+LivestockD25
+Wagon na ¿ywiec 12t
+LivestockDrover
+Stado ¿ywca
+LivestockEarly1
+Wagon na ¿ywiec
+LivestockEarly2
+Ma³y wagon na ¿ywiec
+LivestockEarly3
+Wagon na ¿ywiec
+LMR-4Wheel-First
+Dwuosiowy wagon pasa¿erski LMR (1. klasa)
+LMR-4Wheel-Open-Coach
+Bezprzedzia³owy wagon pasa¿erski LMR (3. klasa)
+LMR-4Wheel-TPO
+Dwuosiowa poczta na kó³kach LMR
+LMR-Lion
+LMR "Lion" 0-4-2
+LMR-Patentee
+LMR "Patentee" 2-2-2
+LMR-Patentee-Tender
+LMR "Patentee" 2-2-2 (tender)
+LMR-Planet
+LMR "Planet" 2-2-0
+LMR-Planet-Tender
+LMR "Planet" (tender)
+LMR-Rocket
+LMR "Rocket" 0-2-2
+LMR-Rocket-Tender
+LMR "Rocket" (tender)
+LMS-10000
+LMS 10000 Class
+LMS-3F-Jinty
+LMS Class 3F "Jinty" 0-6-0T
+LMS-4F-Tender
+LMS Class 4F 0-6-0 (tender)
+LMS-4F
+LMS Class 4F 0-6-0
+LMS-502Front
+LMS Class 502 (EZT)
+LMS-502Middle
+LMS Class 502 (EZT) (¶rodek)
+LMS-502Rear
+LMS Class 502 (EZT) (ty³)
+LMS-Coronation-BFK(Maroon)
+Wagon pasa¿erski LMS "Coronation Scot" (hamulec z przodu)
+LMS-Coronation-BTK(Maroon)
+Wagon pasa¿erski LMS "Coronation Scot" (hamulec z ty³u)
+LMS-Coronation-FK(Maroon)
+Wagon pasa¿erski LMS "Coronation Scot" (1. klasa)
+LMS-Coronation-TO(Maroon)
+Wagon pasa¿erski LMS "Coronation Scot" (trzecia klasa)
+LMS-open
+Wagon pasa¿erski LMS
+LMS-diner
+Wagon barowy LMS
+LMS-full-brake
+Wagon pocztowy LMS + hamulce
+LMS-Garratt-Front
+LMS Garratt 2-6-0+0-6-2
+LMS-Garratt-Middle
+LMS Garratt 2-6-0+0-6-2 (kocio³ parowy)
+LMS-Garratt-Rear
+LMS Garratt 2-6-0+0-6-2 (ty³)
+LMS-Mail
+WAgon pocztowy LMS
+LMS-Patriot-Tender
+LMS Class 5XP "Patriot" 4-6-0 (tender)
+LMS-Patriot
+LMS Class 5XP "Patriot" 4-6-0
+LMS-Princess-Royal-Tender
+LMS Class 7P "Princess Royal" (tender)
+LMS-Princess-Royal
+LMS Class 7P "Princess Royal"
+LMS-Stanier-5MT-Tender
+LMS Class 5MT "Black Five" (tender)
+LMS-Stanier-5MT
+LMS Class 5MT "Black Five" 4-6-0
+LMS-Stanier-7P-Tender
+LMS Class 8P "Princess Coronation" 4-6-2 (tender)
+LMS-Stanier-7P
+LMS Class 8P "Princess Coronation" 4-6-2
+LMS-Stanier-8F-Tender
+LMS Class 8F (tender)
+LMS-Stanier-8F
+LMS Class 8F 2-8-0
+LMS-TPO
+Poczta na kó³kach LMS
+LNER-A1-Tender(Green)
+LNER Class A1/A3 (tender)
+LNER-A1(Green)
+LNER Class A1/A3 4-6-2
+LNER-A4-Tender(Blue)
+LNER Class A4 (tender)
+LNER-A4(Blue)
+LNER Class A4 4-6-2
+LNER-B17-Tender
+LNER Class B17 "Footballer" 4-6-0 (tender)
+LNER-B17
+LNER Class B17 "Footballer" 4-6-0
+LNER-B17-5-Tender
+LNER Class B17 4-6-0, op³ywowy (tender)
+LNER-B17-5
+LNER Class B17 4-6-0, op³ywowy
+LNER-ClassEM1
+LNER Class EM1 Bo-Bo
+LNER-ClassEM2
+LNER/BR Class EM2 Co-Co
+LNER-Coronation-Brake-Third-Triple(front)
+Wagon pasa¿erski LNER "Coronation" (przednia trójka)
+LNER-Coronation-Brake-Third-Triple(middle)
+Wagon pasa¿erski LNER "Coronation" (przednia trójka)
+LNER-Coronation-Brake-Third-Triple(rear)
+Wagon pasa¿erski LNER "Coronation" (przednia trójka)
+LNER-Coronation-Brake-Third-Twin(front)
+Wagon pasa¿erski LNER "Coronation" (przednia dwójka)
+LNER-Coronation-Brake-Third-Twin(rear)
+Wagon pasa¿erski LNER "Coronation" (przednia dwójka)
+LNER-Coronation-Observation
+Wagon pasa¿erski LNER "Coronation" z punktem obserwacyjnym
+LNER-Coronation-RearBrake-Third-Twin(front)
+Wagon pasa¿erski LNER "Coronation" (tylna dwójka)
+LNER-Coronation-RearBrake-Third-Twin(rear)
+Wagon pasa¿erski LNER "Coronation" (tylna dwójka)
+LNER-Coronation-Restaurant-Triple(front)
+Wagon pasa¿erski LNER "Coronation" (trójka restauracyjna)
+LNER-Coronation-Restaurant-Triple(middle)
+Wagon pasa¿erski LNER "Coronation" (trójka restauracyjna)
+LNER-Coronation-Restaurant-Triple(rear)
+Wagon pasa¿erski LNER "Coronation" (trójka restauracyjna)
+LNER-Gresley-Express-Brake(Teak)
+Ekspresowy wagon pasa¿erski LNER (hamulec, teczyna)
+LNER-Gresley-Express-Coach(Teak)
+Ekspresowy wagon pasa¿erski LNER (teczyna)
+LNER-Gresley-Express-Dining(Teak)
+Wagon restauracyjny LNER (teczyna)
+LNER-Gresley-Express-Mail(Teak)
+Wagon pocztowy LNER (teczyna)
+LNER-Gresley-Express-Parcel-Brake(Teak)
+Wagon na paczki LNER (teczyna)
+LNER-Gresley-Express-TPO(Teak)
+Poczta na kó³kach LNER
+LNER-J94
+WD/LNER Class J94 0-6-0ST
+LNER-P2-Tender
+LNER Class P2 2-8-2 (tender)
+LNER-P2
+LNER Class P2 2-8-2
+LNER-V2-Tender
+LNER Class V2 (tender)
+LNER-V2
+LNER Class V2 2-6-2
+4-wheel-1850s-brake
+Dwuosiowy wagon pasa¿erski LNWR (hamulec)
+4-wheel-1850s
+Dwuosiowy wagon pasa¿erski LNWR
+4-wheel-1850s-mail
+Dwuosiowy wagon pocztowy LNWR
+LNWR-6Wheel-non-lav
+Trójosiowy wagon pasa¿erski LNWR
+LNWR-6Wheel-Guard
+Trójosiowy wagon pasa¿erski LNWR (hamulec)
+LNWR-6Wheel-Mail
+Trójosiowy wagon pocztowy LNWR
+LNWR-AClass-Tender
+LNWR A Class 0-8-0 (tender)
+LNWR-AClass
+LNWR A Class 0-8-0
+LNWR-Bloomer-Tender
+LNWR "Bloomer" Class 2-2-2 (tender)
+LNWR-Bloomer
+LNWR "Bloomer" Class 2-2-2
+LNWR-DXgoods-Tender
+LNWR DX Goods 0-6-0 (tender)
+LNWR-DXgoods
+LNWR DX Goods 0-6-0
+LNWR-Jumbo-Tender
+LNWR "Jumbo" Class 2-2-2-0 (tender)
+LNWR-Jumbo
+LNWR "Jumbo" Class 2-2-2-0
+LNWR-PrinceOfWales-Tender
+LNWR "Prince of Wales" Class 4-6-0 (tender)
+LNWR-PrinceOfWales
+LNWR "Prince of Wales" Class 4-6-0
+LNWR-Problem-Tender
+LNWR "Problem" Class 2-2-2 (tender)
+LNWR-Problem
+LNWR "Problem" Class 2-2-2
+Long10T
+Wagon otwarty 10t
+Long12T
+Wagon otwarty 12t
+Long20T
+Wagon otwarty 20t
+Long30T
+Wagon otwarty 30t
+LongD1
+Wagon otwarty 8t
+LongEarly1
+Wagon otwarty
+LongEarly2
+Ma³y wagon otwarty
+LongEarly3
+Wagon otwarty
+LSWR-M7
+LSWR M7 Class 0-4-4T
+LSWR-Third-Brake
+Brankard LSWR
+LSWR-Third-Carriage
+Wagon pasa¿erski LSWR
+LYR-Class25-Tender
+LYR Class 25 0-6-0 (tender)
+LYR-Class25
+LYR Class 25 0-6-0
+MailBike
+Listonosz na rowerze
+MailCoach
+Przyczepa na pocztê
+MaudslayVanBulk
+Maudslay (sypkie)
+MaudslayVanCool
+Maudslay (mro¿onki)
+MaudslayVanLong
+Maudslay (d³ugie)
+MaudslayVanPiece
+Maudslay (porcjowane)
+MaudslayVanPost
+Maudslay (poczta)
+McNamaraDennisVanPost
+McNamara Dennis (poczta)
+MCWQ1
+MCW Q1
+Medium-2-Deck-Trailer
+¦rednia dwupiêtrowa doczepka do tramwaju
+MercedesCitaroG(Front)
+Mercedes Citaro G (przód)
+MercedesCitaroG(Rear)
+Mercedes Citaro G (ty³)
+MercedesCitaroK
+Mercedes Citaro K
+Metrolink-T86(Front)
+Metrolink T86
+Metrolink-T86(Rear)
+Metrolink T86 (ty³)
+met-bogie-third
+Wagon pasa¿erski Metropolitan
+Metropolitan-Class-E
+Metropolitan Class E 0-4-4T
+met-dreadnought-third
+Wagon pasa¿erski Metropolitan "Dreadnought"
+Metropolitan-Motor-Third-Back
+Metropolitan 1907 (ty³)
+Metropolitan-Motor-Third-Front
+Metropolitan 1907
+Metropolitan-Motor-Third-Middle
+Metropolitan 1907 (¶rodek)
+Metropolitan-Vickers
+Metropolitan Vickers
+MorrisEightCool
+Morris Eight (mro¿onki)
+MorrisEightPiece
+Morris Eight (porcjowane)
+MorrisEightPost
+Morris Eight (poczta)
+MorrisFGBulk
+Morris FG (sypkie)
+MorrisFGCool
+Morris FG (mro¿onki)
+MorrisFGLivestock
+Morris FG (¿ywiec)
+MorrisFGLong
+Morris FG (d³ugie)
+MorrisFGPiece
+Morris FG (porcjowane)
+MorrisFGPost
+Morris FG (poczta)
+MorrisJ4Cool
+Morris J4 (mro¿onki)
+MorrisJ4Piece
+Morris J4 (porcjowane)
+MorrisJ4Post
+Morris J4 (poczta)
+MorrisLDCool
+Morris LD (mro¿onki)
+PuffingBilly
+Wylam Colliery "Puffing Billy" 0-4-0
+PuffingBilly-Tender
+Wylam Colliery "Puffing Billy" 0-4-0 (tender)
+RCH-Tanker
+Cysterna RCH
+RF
+AEC Regal IV (RF) (zwyk³y)
+RFCoach
+AEC Regal IV (RF) (autokar)
+RM-325Front(RM)
+Royal Mail Class 325 (EZT)
+RM-325Middle(RM)
+Royal Mail Class 325 (EZT) (¶rodek)
+RM-325Power(RM)
+Royal Mail Class 325 (EZT) (wagon silnikowy)
+RM-325Rear(RM)
+Royal Mail Class 325 (EZT) (ty³)
+RoadHorsesDouble
+Dwa konie
+RoadHorsesSingle
+Pojedynczy koñ
+Routemaster
+AEC Routemaster (zwyk³y)
+RoutemasterLong
+AEC Routemaster (d³ugi)
+RoutemasterLongCoach
+AEC Routemaster (d³ugi, autokar)
+RoutemasterTrolleybus
+Routemaster (trolejbus)
+RT
+RT-Type
+Scammell1955TrailerBulk
+Scammell 1955 (przyczepa na wêgiel)
+Scammell1955TrailerCars
+Scammell 1955 (przyczepa na auta)
+Scammell1955TrailerCool
+Scammell 1955 (przyczepa na mro¿onki)
+Scammell1955TrailerFluid
+Scammell 1955 Trailer (p³yny)
+Scammell1955TrailerLivestock
+Scammell 1955 Trailer (¿ywiec)
+Scammell1955TrailerLong
+Scammell 1955 Trailer (d³ugie)
+Scammell1955TrailerPiece
+Scammell 1955 Trailer (porcjowane)
+ScammellCrusader
+Scammell Crusader
+WrightElectrocity
+Wright Electrocity
+WrightStreetcar(Front)
+Wright Streetcar (przód)
+WrightStreetcar(Rear)
+Wright Streetcar (ty³)
+YorkshireSteamTank
+Yorkshire Steam Tank (p³yny)
+#______________________________________way______________________________________
+#______________________________________way______________________________________
+hr-asphalt-road-medium
+Droga asfaltowa
+Canal
+Kana³
+city_road
+Droga miejska
+cobblestone_road
+Droga brukowana
+cssr
+Stalowe szyny na podk³adach betonowych
+cssri
+Ulepszone stalowe szyny na podk³adach betonowych
+dirt_road
+Droga gruntowa
+GrassRunway
+Trawiasty pas startowy
+GrassTaxiway
+Trawiasty pas do ko³owania
+Powerline
+Linie wysokiego napiêcia
+River0
+Strumieñ (nie do przep³yniêcia)
+River1
+Rzeczka (do przep³yniêcia)
+River2
+Rzeka (do przep³yniêcia)
+River3
+Szeroka rzeka (do przep³yniêcia)
+runway
+Asfaltowy pas startowy
+taxiway
+Asfaltowy pas do ko³owania
+tgv
+Tory dla kolei du¿ych prêdko¶ci
+TramTrack
+Tory tramwajowe
+wrought_iron_improved_track
+Ulepszone tory z kutego ¿elaza
+wrought_iron_track
+Tory z kutego ¿elaza
+wssr
+Stalowe tory na podk³adach drewnianych
+wssri
+Ulepszone stalowe tory na podk³adach drewnianych.
+#__________________________________way-object___________________________________
+#__________________________________way-object___________________________________

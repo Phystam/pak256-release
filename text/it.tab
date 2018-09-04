@@ -1,0 +1,808 @@
+################################################################################
+#                                                                              #
+#                Simutrans Scenario Specific Translation File                  #
+#                           Scenario: pak128.britain                           #
+#                             Language: it Italiano                            #
+#                             Encoding: ISO-8859-1                             #
+#                            Font : Prop-Latin1.bdf                            #
+#                           Date Created: 26.02 2011                           #
+#                                                                              #
+#                                   authors:                                   #
+#                                    - Dwachs                                  #
+#                                    note:                                     #
+#                                   - Fabio85                                  #
+#                                    note:                                     #
+#                              Frank Penz - FrankP                             #
+#                                    note:                                     #
+#                                   - davemds                                  #
+#                                    note:                                     #
+#                                    - milko                                   #
+#                                    note:                                     #
+#                                   - notorius                                 #
+#                                    note:                                     #
+#                          Markus Pristovsek - prissi                          #
+#                                    note:                                     #
+#                                Marco - rabanne                               #
+#                                    note:                                     #
+#                                                                              #
+################################################################################
+#____________________________________bridge_____________________________________
+#____________________________________bridge_____________________________________
+BrickAqueduct
+Acquedotto di mattoni
+BrickViaduct
+Viadotto ferroviario in mattoni
+BrickViaductRoad
+Ponte stradale in mattoni
+PowerBridge
+Elettrodotto ad alta tensione (ponte)
+WoodenTrestle
+Ponte ferroviario di travi di legno
+#___________________________________building____________________________________
+#___________________________________building____________________________________
+00_CITY
+Municipio
+01_CITY
+Municipio
+02_CITY
+Municipio
+03_CITY
+Municipio
+04_CITY
+Municipio
+1950sStationBuilding
+Stazione ferroviaria (1950)
+1950sStationBuildingEntrance
+Ingresso stazione ferroviaria (1950)
+1950sTerminalBuilding
+Terminal ferroviario (1950)
+1950sTerminalBuildingEntrance
+Ingresso terminal ferroviario (1950)
+1980s-Small-Church
+Chiesetta (1980)
+1990s-Small-Library
+Piccola biblioteca (1990)
+AirHangarModern
+Hangar aereo moderno
+AirHangarOld
+Vecchio hangar aereo
+BasicApron
+Fermata aeroporto per imbarco passggeri
+BrickPlatformBuildingTrainStop
+Piattaforma ferroviaria con pensilina in mattoni
+BrickPlatformOverallTrainStop
+Piattaforma ferroviaria in mattoni con copertura
+BrickPlatformTrainStop
+Piattaforma ferroviaria in mattoni
+BulkGoodsBunker
+Deposito merci
+BulkLoadingModern
+Deposito merci moderno con torre di carico
+BulkLoadingOld
+Vecchio deposito merci con torre di carico
+BusStop
+Fermata per bus
+CarYard
+Deposito merci (automobili)
+CoachStable
+Deposito carrozze e animali da trazione
+ConcretePlatformBuildingTrainStop
+Piattaforma ferroviaria con pensilina in calcestruzzo
+ConcretePlatformOverallTrainStop
+Piattaforma ferroviaria in calcestruzzo con copertura
+ConcretePlatformTrainStop
+Piattaforma ferroviaria in calcestruzzo
+ConcreteStationBuildingSmall
+Stazione ferroviaria in calcestruzzo
+ControlTowerModern
+Torre di controllo moderna
+CountryStationBuilding
+Stazione ferroviaria di campagna
+DecoStationBuildingEntrance
+Ingresso stazione ferroviaria in stile art deco
+DecoTerminalBuildingEntrance
+Ingresso terminal ferroviario in stile art deco
+DecoTerminalBuildingTower
+Terminal ferroviario con torre di controllo in stile art deco
+default_name
+Stonehenge
+FluidStorageStation
+Deposito merci (fluidi in cisterne)
+Georgian_Mansion
+Villa gregoriana
+GoodsQuay
+Molo merci
+GoodsShedModern
+Fermata ferroviaria per carico merci con capannone moderno
+GoodsShedOld
+Vecchia fermata ferroviaria per carico merci con capannone
+GoodsSiding
+Fermata ferroviaria per carico merci
+GoodsSidingCrane
+Fermata ferroviaria per carico merci con gru
+GoodsWarehouseModern
+Magazzino merci moderno
+GoodsWarehouseOld
+Vecchio magazzino merci
+Greenhouse
+Giardino botanico
+HarbourPassenger1950s
+Porto passeggeri (1950)
+HarbourPassengerDeco
+Porto passeggeri in stile art deco
+HarbourPassengerModern
+Porto passeggeri moderno
+HarbourPassengerOld
+Vecchio porto passeggeri
+JetwayApron
+Fermata aeroporto per imbarco passggeri con finger
+JH_IND_1750_00
+Magazzino
+JH_IND_1860_00
+Gasometro
+JH_IND_1860_01
+Piccola fabbrica
+JH_IND_60_00
+Depuratore
+JH_IND_80_00
+Magazzino
+JH_RES_1750_00
+Municipio
+JH_RES_70_00
+Casa indipendente
+JH_RES_70_01
+Casa indipendente
+JH_RES_70_02
+Casa indipendente
+JH_RES_70_03
+Bungalow
+KG_COM_00_15
+Uffici
+KG_COM_00_16
+Pub
+KG_COM_00_17
+Blocco di uffici
+KG_COM_00_18
+Blocco di uffici
+KG_COM_00_19
+Negozi e uffici
+KG_COM_1880_0
+Negozio vittoriano ad angolo
+KG_COM_1880_1
+Negozi vittoriani a piano terra
+KG_COM_1880_2
+Negozi vittoriani a piano terra
+KG_COM_1970_0
+Unità d'uffici
+KG_RES_00_13
+Case vittoriane semi-indipendenti
+KG_RES_00_14
+Case semi-indipendenti
+KG_RES_00_15
+Case vittoriane semi-indipendenti
+KG_RES_00_16
+Casa di campagna semi-indipendente
+KG_RES_00_17
+Blocco di appartamenti
+KG_RES_02_17
+Villette
+KG_RES_04_01
+Casa indipendente
+KG_RES_04_02
+Casa di città
+Knight-Monument
+Statua di un cavaliere
+Large_Football_Ground
+Campo da calcio grande
+LivestockPen
+Deposito merci (bestiame)
+LoadingBay
+Piazzola di carico con cassetta della posta
+ModernBoatyard
+Cantiere navale moderno
+ModernBusShelter
+Fermata bus con pensilina moderna
+ModernBusTerminal
+Terminal per bus moderno
+ModernCargoStop
+Piazzola di carico merci moderna
+ModernGoodsHarbour
+Porto merci moderno
+ModernPassengerQuay
+Molo passeggeri per canali moderno
+ModernPostOffice
+Ufficio postale moderno
+ModernRoadDepot
+Deposito automezzi moderno
+ModernStationBuilding
+Stazione ferroviaria moderna
+ModernStationBuildingEntrance
+Entrata per stazione ferroviaria moderna
+ModernTrainDepot
+Deposito treni moderno (tutti i tipi di trazione moderni)
+ModernTramDepot
+Deposito tram moderno
+Nelson-Column
+Monumento dedicato all'ammiraglio Nelson
+OldBoatyard
+Vecchio cantiere navale
+OldBusShelter
+Vecchia fermata bus con pensilina
+OldBusTerminal
+Vecchio terminal per bus
+OldCargoStop
+Vecchia piazzola di carico merci
+OldGoodsHarbour
+Vecchio porto merci
+OldPassengerQuay
+Vecchio molo passeggeri per canali
+OldPostOffice
+Vecchio ufficio postale
+OldRoadDepot
+Vecchio deposito automezzi
+OldRoadDepot2
+Vecchio deposito automezzi
+OldTrainDepot
+Vecchio deposito treni (vapore)
+OldTramDepot
+Vecchio deposito tram
+Small_Cricket_Ground
+Campo da cricket
+Small_Football_Ground
+Campo da calcio piccolo
+Small_Rugby_Ground
+Campo da rugby piccolo
+StationStoneBuilding
+Stazione ferroviaria in pietra
+TerminalModernBuilding
+Terminal aereo moderno
+TerminalModernBuildingEntrance
+Entrata per terminal aereo moderno
+War-Memorial
+Memoriale della guerra
+woodenPlatformOverallTrainStop
+Piattaforma ferroviaria in legno con copertura
+WoodenPlatformTrainStop
+Piattaforma ferroviaria in legno
+#__________________________________dummy_info___________________________________
+#__________________________________dummy_info___________________________________
+#____________________________________factory____________________________________
+#____________________________________factory____________________________________
+ArableFarm1750
+Fattoria agricola (1750)
+ArableFarm1840
+Fattoria agricola (1840)
+ArableFarm1910
+Fattoria agricola (1910)
+ArableFarm1945
+Fattoria agricola (1945)
+ArableFarm1975
+Fattoria agricola (1975)
+Bakery1750
+Panificio (1750)
+Bakery1840
+Panificio (1840)
+Bakery1910
+Panificio (1910)
+Bakery1945
+Panificio (1945)
+Bakery1975
+Panificio (1975)
+Bookshop1860
+Libreria (1860)
+Bookshop1920
+Libreria (1920)
+Bookshop1950
+Libreria (1950)
+Bookshop1970
+Libreria (1970)
+Brewery1750
+Fabbrica birra (1750)
+Brewery1840
+Fabbrica birra (1840)
+Brewery1910
+Fabbrica birra (1910)
+Brewery1945
+Fabbrica birra (1945)
+Brewery1975
+Fabbrica birra (1975)
+Brickworks1800
+Fornace (1800)
+Brickworks1850
+Fornace (1850)
+Brickworks1905
+Fornace (1905)
+Brickworks1960
+Fornace (1960)
+Brickworks1985
+Fornace (1985)
+Butchery1820
+Macello (1820)
+Butchery1840
+Macello (1840)
+Butchery1910
+Macello (1910)
+Butchery1945
+Macello (1945)
+CarDealership1910
+Concessionaria automobili (1910)
+CarDealership1925
+Concessionaria automobili (1925)
+CarDealership1950
+Concessionaria automobili (1950)
+CarDealership1970
+Concessionaria automobili (1970)
+CarFactory1910
+Fabbrica automobili (1910)
+CarFactory1925
+Fabbrica automobili (1925)
+CarFactory1950
+Fabbrica automobili (1950)
+CarFactory1970
+Fabbrica automobili (1970)
+CattleFarm1750
+Fattoria bovini (1750)
+CattleFarm1840
+Fattoria bovini (1840)
+CattleFarm1910
+Fattoria bovini (1910)
+CattleFarm1945
+Fattoria bovini (1945)
+CattleFarm1975
+Fattoria bovini (1975)
+CementWorks1800
+Cementificio (1800)
+CementWorks1850
+Cementificio (1850)
+CementWorks1905
+Cementificio (1905)
+CementWorks1960
+Cementificio (1960)
+CementWorks1985
+Cementificio (1985)
+Chemist1860
+Farmacia (1860)
+Chemist1955
+Farmacia (1955)
+Chemist1975
+Farmacia (1975)
+ChinaShop1750
+Negozio oggetti in ceramica (1750)
+ChinaShop1850
+Negozio oggetti in ceramica (1850)
+ChinaShop1905
+Negozio oggetti in ceramica (1905)
+ClayPit1750
+Cava di argilla (1750)
+ClayPit1850
+Cava di argilla (1850)
+ClayPit1905
+Cava di argilla (1905)
+ClayPit1960
+Cava di argilla (1960)
+ClayPit1985
+Cava di argilla (1985)
+ClothesShop1750
+Negozio di abbigliamento (1750)
+ClothesShop1840
+Negozio di abbigliamento (1840)
+ClothesShop1910
+Negozio di abbigliamento (1910)
+ClothesShop1945
+Negozio di abbigliamento (1945)
+CoalMine1750
+Miniera di carbone (1750)
+CoalMine1850
+Miniera di carbone (1850)
+CoalMine1920
+Miniera di carbone (1920)
+CoalMine1950
+Miniera di carbone (1950)
+CoalMine1970
+Miniera di carbone (1970)
+CoalPowerStation1910kraftwerk
+Centrale elettrica a carbone (1910)
+CoalPowerStation1920kraftwerk
+Centrale elettrica a carbone (1920)
+CoalPowerStation1955kraftwerk
+Centrale elettrica a carbone (1955)
+CoalPowerStation1970kraftwerk
+Centrale elettrica a carbone (1970)
+CoalYard1750
+Commerciante di carbone (1750)
+CoalYard1850
+Commerciante di carbone (1850)
+CoalYard1920
+Commerciante di carbone (1920)
+Dairy
+Latteria
+Dairy1750
+Latteria (1750)
+Dairy1840
+Latteria (1840)
+Dairy1910
+Latteria (1910)
+Dairy1945
+Latteria (1945)
+Dairy1975
+Latteria (1975)
+DepartmentStore1907
+Grande magazzino (1907)
+DepartmentStore1935
+Grande magazzino (1935)
+DepartmentStore1960
+Grande magazzino (1960)
+DepartmentStore1990
+Grande magazzino (1990)
+FishingGround1750
+Zona di pesca (1750)
+FishingGround1840
+Zona di pesca (1840)
+FishingGround1910
+Zona di pesca (1910)
+FishingGround1945
+Zona di pesca (1945)
+FishingGround1975
+Zona di pesca (1975)
+Fishmongers1820
+Commerciante di pesce (1820)
+Fishmongers1840
+Commerciante di pesce (1840)
+Fishmongers1910
+Commerciante di pesce (1910)
+Fishmongers1945
+Commerciante di pesce (1945)
+ForestSawmill1750
+Segheria (1750)
+ForestSawmill1850
+Segheria (1850)
+ForestSawmill1920
+Segheria (1920)
+ForestSawmill1950
+Segheria (1950)
+ForestSawmill1970
+Segheria (1970)
+FurnitureFactory1750
+Mobilificio (1750)
+FurnitureFactory1850
+Mobilificio (1850)
+FurnitureFactory1920
+Mobilificio (1920)
+FurnitureFactory1950
+Mobilificio (1950)
+FurnitureFactory1970
+Mobilificio (1970)
+FurnitureShop1750
+Negozio di mobili (1750)
+FurnitureShop1850
+Negozio di mobili (1850)
+FurnitureShop1920
+Negozio di mobili (1920)
+FurnitureShop1950
+Negozio di mobili (1950)
+GrainFarm1750
+Campo di grano (1750)
+GrainFarm1840
+Campo di grano (1840)
+GrainFarm1910
+Campo di grano (1910)
+GrainFarm1945
+Campo di grano (1945)
+GrainFarm1975
+Campo di grano (1975)
+GrainMill
+Mulino
+GrainMill1750
+Mulino (1750)
+GrainMill1840
+Mulino (1840)
+GrainMill1910
+Mulino (1910)
+GrainMill1945
+Mulino (1945)
+GrainMill1975
+Mulino (1975)
+Greengrocers1820
+Fruttivendolo (1820)
+Greengrocers1840
+Fruttivendolo (1840)
+Greengrocers1910
+Fruttivendolo (1910)
+Greengrocers1945
+Fruttivendolo (1945)
+HardwareFactory1790
+Fabbrica utensili (1790)
+HardwareFactory1850
+Fabbrica utensili (1850)
+HardwareFactory1920
+Fabbrica utensili (1920)
+HardwareFactory1950
+Fabbrica utensili (1950)
+HardwareShop1790
+Rivendita di utensili (1790)
+HardwareShop1850
+Rivendita di utensili (1850)
+HardwareShop1920
+Rivendita di utensili (1920)
+IronOreMine
+Miniera di ferro
+IronOreMine1750
+Miniera di ferro (1750)
+IronOreMine1850
+Miniera di ferro (1850)
+IronOreMine1920
+Miniera di ferro (1920)
+IronOreMine1950
+Miniera di ferro (1950)
+IronOreMine1970
+Miniera di ferro (1970)
+Newsagent1860
+Edicola (1860)
+Newsagent1920
+Edicola (1920)
+Newsagent1950
+Edicola (1950)
+Newsagent1970
+Edicola (1970)
+OilPowerStation1950kraftwerk
+Centrale elettrica ad olio combustibile (1950)
+OilPowerStation1970kraftwerk
+Centrale elettrica ad olio combustibile (1970)
+OilRefinery
+Raffineria
+OilRefinery1910
+Raffineria (1910)
+OilRefinery1925
+Raffineria (1925)
+OilRefinery1955
+Raffineria (1955)
+OilRefinery1975
+Raffineria (1975)
+OilRig1955
+Piattaforma petrolifera (1955)
+OilRig1975
+Piattaforma petrolifera (1975)
+OilWell1910
+Pozzo di petrolio (1910)
+OilWell1925
+Pozzo di petrolio (1925)
+OilWell1955
+Pozzo di petrolio (1955)
+Orchard1750
+Frutteto (1750)
+Orchard1840
+Frutteto (1840)
+Orchard1910
+Frutteto (1910)
+Orchard1945
+Frutteto (1945)
+Orchard1975
+Frutteto (1975)
+PaperMill1860
+Cartiera (1860)
+PaperMill1920
+Cartiera (1920)
+PaperMill1950
+Cartiera (1950)
+PaperMill1970
+Cartiera (1970)
+#_____________________________________good______________________________________
+#_____________________________________good______________________________________
+Autos
+automobili
+beer
+birra
+Bretter
+tavole
+bricks
+mattoni
+Bucher
+libri
+canned_food
+cibo in scatola
+Cement
+cemento
+Chemicals
+prodotti chimici
+china
+porcellana
+cider
+sidro
+clay
+argilla
+Eisenerz
+ferro
+fish
+pesce
+flour
+farina
+FreshFish
+pesce fresco
+fruit
+frutta
+FuelOil
+olio combustibile
+Gasoline
+benzina
+grain
+grano
+Kohle
+carbone
+livestock
+bestiame
+meat
+carne
+milk
+latte
+Moebel
+mobili
+newspaper
+giornali
+None
+nessuno
+Oel
+petrolio
+Papier
+carta
+Passagiere
+passeggeri
+pharmaceuticals
+farmaceutici
+Plastik
+plastica
+Post
+posta
+Stahl
+acciaio
+Stone
+pietra
+textile
+tessuti
+vegetables
+verdura
+wool
+lana
+#_________________________________program_text__________________________________
+#_________________________________program_text__________________________________
+CATEGORY_01
+merci a pezzi
+CATEGORY_02
+merci alla rinfusa
+CATEGORY_03
+carburante/petrolio
+CATEGORY_04
+merci raffreddate
+CATEGORY_06
+assi/travi
+#___________________________________roadsign____________________________________
+#___________________________________roadsign____________________________________
+ChooseSign
+Segnale di scelta fermata
+ChooseSignals
+Segnale di scelta piattaforma
+Classic_ChooseSignals_right
+Segnale ferroviario di scelta piattaforma classico
+Classic_LongSignals_right
+Segnale ferroviario di tratta impegnata classico
+Classic_preSignals_right
+Pre-segnale ferroviario classico
+Classic_Signals_right
+Segnale ferroviario base classico
+Early_ChooseSignals_right
+Segnale ferroviario di scelta piattaforma antico
+Early_LongSignals_right
+Segnale ferroviario di tratta impegnata antico
+Early_preSignals_right
+Pre-segnale ferroviario antico
+Early_Signals_right
+Segnale ferroviario base antico
+EndofChooseSignal
+Segnale ferroviario di fine scelta piattaforma
+LongSignals
+Segnale ferroviario di tratta impegnata
+two-aspect-colour-light-choose
+Segnale ferroviario di scelta piattaforma moderno
+Modern_EndofChooseSignal
+Segnale ferroviario di fine scelta piattaforma moderno
+Modern_LongSignals_right
+Segnale ferroviario di tratta impegnata moderno
+two-aspect-colour-light-distant
+Pre-segnale ferroviario moderno
+two-aspect-colour-light-stop
+Segnale ferroviario base moderno
+MotorwaySign
+Strada per soli autoveicoli
+NoEntry
+Divieto di accesso
+OneWay
+Senso unico
+preSignals
+Pre-segnale ferroviario
+PrivateRoad
+Strada riservata
+Signals
+Segnale ferroviario base
+traffic_light
+Semaforo stradale
+#_____________________________________tree______________________________________
+#_____________________________________tree______________________________________
+EnglishOak
+Farnia (quercia)
+NorwaySpruce
+Abete rosso
+#____________________________________tunnel_____________________________________
+#____________________________________tunnel_____________________________________
+CanalTunnel
+Tunnel per canali
+RailTunnelBrick
+Tunnel ferroviario di mattoni
+RailTunnelConcrete
+Tunnel ferroviario di calcestruzzo
+RailTunnelStone
+Tunnel ferroviario di pietra
+RoadTunnelBrick
+Tunnel stradale di mattoni
+RoadTunnelConcrete
+Tunnel stradale di calcestruzzo
+RoadTunnelStone
+Tunnel stradale di pietra
+#____________________________________vehicle____________________________________
+#____________________________________vehicle____________________________________
+#______________________________________way______________________________________
+#______________________________________way______________________________________
+hr-asphalt-road-medium
+Strada asfaltata
+Canal
+Canale
+city_road
+Strada urbana
+cobblestone_road
+Strada ciotolata
+cssr
+Binari ferroviari con traversine in calcestruzzo
+cssri
+Binari ferroviari con traversine in calcestruzzo migliorati
+dirt_road
+Strada sterrata
+GrassRunway
+Pista di decollo sterrata
+GrassTaxiway
+Pista di rullaggio sterrata
+Powerline
+Elttrodotto ad alta tensione
+River0
+Torrente (non navigabile)
+River1
+Piccolo fiume (non navigabile)
+River2
+Fiume (navigabile)
+River3
+Fiume ampio (navigabile)
+runway
+Pista di decollo
+taxiway
+Pista di rullaggio
+tgv
+Binari ferroviari ad alta velocità
+TramTrack
+Binari tram
+wrought_iron_improved_track
+Binari ferroviari in acciaio migliorati
+wrought_iron_track
+Binari ferroviari in acciaio
+wssr
+Binari ferroviari con traversine in legno
+wssri
+Binari ferroviari con traversine in legno migliorati
+#__________________________________way-object___________________________________
+#__________________________________way-object___________________________________
+ACHighSpeedCatenary
+AC catenaria aerea alta velocità
+DCRailCatenary
+DC catenaria aerea
+DCThirdRail
+DC terzo binario
+TramElectrification
+Catenaria aerea per tram
+TrollyBusElectrification
+Catenaria aerea per filobus

@@ -1,0 +1,115 @@
+§#
+east
+東
+west
+西
+south
+南
+north
+北
+p_class[0]
+一般席相当
+p_class[1]
+自由席相当
+p_class[2]
+指定席相当
+p_class[3]
+グリーン席相当
+p_class[4]
+ファーストクラス相当
+m_class[0]
+はがき
+m_class[1]
+小包
+# m_class[2]
+# 一般書留
+# m_class[3]
+# 簡易書留
+set overtaking mode
+追い越しモードの設定
+halt mode
+停車場ロータリー
+oneway
+一方通行
+twoway
+対面通行
+only loading convoi
+停車中の車両のみ追越許可(対面)
+prohibited
+追越不可(対面)
+inverted
+反対車線通行(対面)
+Prohibitive 2-0
+併用軌道
+Prohibitive 2-1
+地下鉄
+Prohibitive 2-2
+低圧直流電化 750V
+Prohibitive 2-3
+直流電化 1500V
+Prohibitive 2-4
+交流電化 20000V
+Prohibitive 2-5
+高圧交流電化 25000V
+Permissive 2-0
+狭軌
+Permissive 2-1
+馬車軌
+Permissive 2-2
+標準軌
+Permissive 2-3
+架線
+Permissive 2-4
+第三軌条
+boxes
+箱
+bags
+袋
+bundles
+袋
+special freight
+専用貨物
+CATEGORY_01
+混載貨物
+CATEGORY_02
+冷蔵貨物
+CATEGORY_03
+ばら積み貨物
+Track
+線路
+Bridge/Tunnel
+橋とトンネル
+Track object
+架線
+Signal
+信号
+Platform/Station/Depot
+駅施設
+Road
+道路・高架道路
+Road object
+トロリー架線・市道化防止柵
+Sign
+標識・信号
+Stop/Building/Depot
+停留所等設備
+Canal
+運河
+Port/Shipyard
+港湾設備
+Taxiway/Runway
+誘導路・滑走路
+Sign
+標識
+Apron/Airport
+空港設備
+GENERALTOOLS
+マップ操作ツール
+view masked ribi
+道路の接続方向を表示する
+Sign/Signal
+道路標識・道路信号機
+Catering level:
+車内サービスレベル:
+Clear
+取消
