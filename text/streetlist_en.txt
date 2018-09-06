@@ -1,3 +1,4 @@
+#north tama
 %1$s Hibarigaoka %2$s
 %1$s Hibarigaoka-kita %2$s
 %1$s Shimo-Hoya %2$s
@@ -120,3 +121,259 @@
 %1$s Higashi-Izumi %2$s
 %1$s Nishi-Nogawa %2$s
 %1$s Higashi-Nogawa %2$s
+#famous station name
+#Yamanote line
+%1$s Kanda %2$s
+%1$s Akihabara %2$s
+%1$s Okachi-machi %2$s
+%1$s Ueno %2$s
+%1$s Uguisudani %2$s
+%1$s Nippori %2$s
+%1$s Nishi-Nippori %2$s
+%1$s Tabata %2$s
+%1$s Komagome %2$s
+%1$s Sugamo %2$s
+%1$s Ohtsuka %2$s
+%1$s Ikebukuro %2$s
+%1$s Mejiro %2$s
+%1$s Takadanobaba %2$s
+%1$s Shin-Ohkubo %2$s
+%1$s Shinjuku %2$s
+%1$s Yoyogi %2$s
+%1$s Harajuku %2$s
+%1$s Shibuya %2$s
+%1$s Ebisu %2$s
+%1$s Meguro %2$s
+%1$s Gotanda %2$s
+%1$s Ohsaki %2$s
+%1$s Shinagawa %2$s
+%1$s Tamachi %2$s
+%1$s Hamamatsu-cho %2$s
+%1$s Shimbashi %2$s
+%1$s Yuraku-cho %2$s
+#chuo line
+%1$s Ochanomizu %2$s
+%1$s Suidoh-bashi %2$s
+%1$s Iida-bashi %2$s
+%1$s Ichigaya %2$s
+%1$s Yotsuya %2$s
+%1$s Shinano-machi %2$s
+%1$s Sendagaya %2$s
+%1$s Ohkubo %2$s
+%1$s Higashi-Nakano %2$s
+%1$s Nakano %2$s
+%1$s Koenji %2$s
+%1$s Asagaya %2$s
+%1$s Ogikubo %2$s
+%1$s Mitaka %2$s
+%1$s Koganei %2$s
+%1$s Higashi-Koganei %2$s
+%1$s Kokubunji %2$s
+%1$s Nishi-Kokubunji %2$s
+%1$s Kunitachi %2$s
+%1$s Tachikawa %2$s
+%1$s Hino %2$s
+%1$s Toyoda %2$s
+%1$s Hachioji %2$s
+%1$s Nishi-Hachioji %2$s
+%1$s Takao %2$s
+#Sakyo line
+%1$s Itabashi %2$s
+%1$s Jujo %2$s
+%1$s Akabane %2$s
+%1$s Kita-Akabane %2$s
+%1$s Ukima-Funado %2$s
+#Utsunomiya line
+%1$s Oku %2$s
+#Keihin-tohoku line
+%1$s Kamata %2$s
+%1$s Ohmori %2$s
+%1$s Oi-machi %2$s
+%1$s Kami-Nakazato %2$s
+%1$s Oji %2$s
+%1$s Higashi-Jujo %2$s
+#Joban line
+%1$s Mikawashima %2$s
+%1$s Minami-Senju %2$s
+%1$s Kita-Senju %2$s
+%1$s Ayase %2$s
+%1$s Kameari %2$s
+%1$s Kanamachi %2$s
+
+#Sobu line
+%1$s Asakusa-bashi %2$s
+%1$s Ryogoku %2$s
+%1$s Kinshi-cho %2$s
+%1$s Kameido %2$s
+%1$s Hirai %2$s
+%1$s Shin-Koiwa %2$s
+%1$s Koiwa %2$s
+#Keiyo line
+%1$s Hatchohbori %2$s
+%1$s Etchujima %2$s
+%1$s Shiomi %2$s
+%1$s Shin-Kiba %2$s
+#Yokosuka line
+%1$s Nishi-Oi %2$s
+#Tokyo metro
+#Ginza line
+%1$s Omotesando %2$s
+%1$s Akasaka-mitsuke %2$s
+%1$s Toranomon %2$s
+%1$s Ginza %2$s
+%1$s Kyobashi %2$s
+%1$s Nihonbashi %2$s
+%1$s Suehiro-cho %2$s
+%1$s Inari-cho %2$s
+%1$s Tawara-machi %2$s
+%1$s Asakusa %2$s
+#Marunouchi line
+%1$s Minami-Asagaya %2$s
+%1$s Shin-Koenji %2$s
+%1$s Higashi-Koenji %2$s
+%1$s Shin-Nakano %2$s
+%1$s Sakaue %2$s
+%1$s Hohnan-cho %2$s
+%1$s Kasumigaseki %2$s
+%1$s Ote-machi %2$s
+%1$s Awaji-cho %2$s
+%1$s Hongo %2$s
+%1$s Myogadani %2$s
+%1$s Shin-Otsuka %2$s
+#Hibiya
+%1$s Naka-Meguro %2$s
+%1$s Hiro'o %2$s
+%1$s Roppongi %2$s
+%1$s Kamiya-cho %2$s
+%1$s Hibiya %2$s
+%1$s Higashi-Ginza %2$s
+%1$s Tsukiji %2$s
+%1$s Kayaba-cho %2$s
+%1$s Ningyo-cho %2$s
+%1$s Kodemma-cho %2$s
+%1$s Naka-Okachi-machi %2$s
+%1$s Iriya %2$s
+%1$s Minowa %2$s
+#Tozai
+%1$s Ochiai %2$s
+%1$s Waseda %2$s
+%1$s Kagurazaka %2$s
+%1$s Kudan-shita %2$s
+%1$s Takebashi %2$s
+%1$s Kiba %2$s
+%1$s Tohyoh-cho %2$s
+%1$s Minami-Sunamachi %2$s
+%1$s Nishi-Kasai %2$s
+%1$s Kasai %2$s
+#Chiyoda
+%1$s Uehara %2$s
+%1$s Nogizaka %2$s
+%1$s Akasaka %2$s
+%1$s Niju-bashi %2$s
+%1$s Shin-Ochanomizu %2$s
+%1$s Yushima %2$s
+%1$s Nezu %2$s
+%1$s Sendagi %2$s
+%1$s Machiya %2$s
+%1$s Kita-Ayase %2$s
+#Yurakucho
+%1$s Narimasu %2$s
+%1$s Akatsuka %2$s
+%1$s Heiwadai %2$s
+%1$s Hikawadai %2$s
+%1$s Kotake-Mukaihara %2$s
+%1$s Senkawa %2$s
+%1$s Kaname-cho %2$s
+%1$s Gokokuji %2$s
+%1$s Edogawa-bashi %2$s
+%1$s Kohji-machi %2$s
+%1$s Sakuradamon %2$s
+%1$s Shintomi-cho %2$s
+%1$s Tsukishima %2$s
+%1$s Toyosu %2$s
+%1$s Tatsumi %2$s
+#Hanzomon
+%1$s Hanzomon %2$s
+%1$s Jimbo-cho %2$s
+%1$s Suitengu %2$s
+%1$s Kiyosumi-Shirakawa %2$s
+%1$s Sumiyoshi %2$s
+%1$s Oshiage %2$s
+#Namboku
+%1$s Shirokanedai %2$s
+%1$s Shirokane-Takanawa %2$s
+%1$s Azabu-juban %2$s
+%1$s Hon-Komagome %2$s
+%1$s Nishigahara %2$s
+%1$s Oji-Kamiya %2$s
+%1$s Shimo %2$s
+%1$s Akabane-Iwabuchi %2$s
+#Fukutoshin
+%1$s Zohshigaya %2$s
+%1$s Higashi-Shinjuku %2$s
+%1$s Kitasando %2$s
+#Toei
+#Asakusa
+%1$s Nishi-Magome %2$s
+%1$s Magome %2$s
+%1$s Nakanobu %2$s
+%1$s Togoshi %2$s
+%1$s Takanawadai %2$s
+%1$s Sengakuji %2$s
+%1$s Mita %2$s
+%1$s Daimon %2$s
+%1$s Takara-cho %2$s
+%1$s Kuramae %2$s
+%1$s Honjo %2$s
+%1$s Agatsuma-bashi %2$s
+#Mita
+%1$s Onarimon %2$s
+%1$s Uchi-saiwai-cho %2$s
+%1$s Hakusan %2$s
+%1$s Sengoku %2$s
+%1$s Nishi-Sugamo %2$s
+%1$s Shin-Itabashi %2$s
+%1$s Moto-Hasunuma %2$s
+%1$s Shimura %2$s
+%1$s Hasune %2$s
+%1$s Nishidai %2$s
+%1$s Takashimadaira %2$s
+%1$s Shin-Takashimadaira %2$s
+%1$s Nishi-Takashimadaira %2$s
+#Shinjuku
+%1$s Akebono-bashi %2$s
+%1$s Ogawa-machi %2$s
+%1$s Hama-cho %2$s
+%1$s Morishita %2$s
+%1$s Kikukawa %2$s
+%1$s Nishi-Ohjima %2$s
+%1$s Ohjima %2$s
+%1$s Higashi-Ohjima %2$s
+%1$s Funabori %2$s
+%1$s Ichinoe %2$s
+%1$s Mizue %2$s
+%1$s Shinozaki %2$s
+#Oedo
+%1$s Wakamatsu-Kawada %2$s
+%1$s Ushigome %2$s
+%1$s Yanagi-cho %2$s
+%1$s Kachidoki %2$s
+%1$s Shiodome %2$s
+%1$s Akabane-bashi %2$s
+%1$s Nakai %2$s
+%1$s Minami-Nagasaki %2$s
+%1$s Shin-Egota %2$s
+%1$s Nerima %2$s
+%1$s Kasuga-cho %2$s
+%1$s Hikarigaoka %2$s
+#Arakawa
+%1$s Omokage-bashi %2$s
+%1$s Mukaihara %2$s
+%1$s Shinden %2$s
+%1$s Koshin-zuka %2$s
+%1$s Takinogawa %2$s
+%1$s Asukayama %2$s
+%1$s Kajiwara %2$s
+%1$s Odai %2$s
+%1$s Arakawa %2$s
+%1$s Minowa-bashi %2$s
