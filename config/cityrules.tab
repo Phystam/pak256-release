@@ -43,21 +43,21 @@ bridge_success_percentage = 20
 
 # avoid building next to industry
 res_start_score = 0
-res_near_ind = -6
+res_near_ind = -8
 res_near_com = 0
-res_near_res = 6
+res_near_res = 8
 
 # everywhere is good, next to com best
-com_start_score = -5
-com_near_ind = 3
+com_start_score = -10
+com_near_ind = 1
 com_near_com = 8
-com_near_res = 3
+com_near_res = 1
 
 # next to res means expensive filters and no truck after 10 pm => avoid this ...
 ind_start_score = 0
 ind_near_ind = 8
 ind_near_com = 0
-ind_near_res = -6
+ind_near_res = -8
 
 
 #

@@ -44,13 +44,15 @@ Prohibitive 2-0
 Prohibitive 2-1
 地下鉄
 Prohibitive 2-2
-低圧直流電化 750V
+直流電化 600V
 Prohibitive 2-3
-直流電化 1500V
+直流電化 750V
 Prohibitive 2-4
-交流電化 20000V
+直流電化 1500V
 Prohibitive 2-5
-高圧交流電化 25000V
+交流電化 20kV
+Prohibitive 2-6
+交流電化 25kV
 Permissive 2-0
 狭軌
 Permissive 2-1
@@ -60,7 +62,43 @@ Permissive 2-2
 Permissive 2-3
 架線
 Permissive 2-4
-第三軌条
+第三軌条 直流電化 600V
+Permissive 2-5
+第三軌条 直流電化 750V
+Permissive 2-6
+ケーブルカー
+Permissive 2-7
+鉄輪式リニアモーター
+ Prohibitive 2-0
+ 併用軌道
+ Prohibitive 2-1
+ 地下鉄
+ Prohibitive 2-2
+ 直流電化 600V
+ Prohibitive 2-3
+ 直流電化 750V
+ Prohibitive 2-4
+ 直流電化 1500V
+ Prohibitive 2-5
+ 交流電化 20kV
+ Prohibitive 2-6
+ 交流電化 25kV
+ Permissive 2-0
+ 狭軌
+ Permissive 2-1
+ 馬車軌
+ Permissive 2-2
+ 標準軌
+ Permissive 2-3
+ 架線
+ Permissive 2-4
+ 第三軌条 直流電化 600V
+ Permissive 2-5
+ 第三軌条 直流電化 750V
+ Permissive 2-6
+ ケーブルカー
+ Permissive 2-7
+ 鉄輪式リニアモーター
 boxes
 箱
 bags
@@ -113,3 +151,5 @@ Catering level:
 車内サービスレベル:
 Clear
 取消
+MAY USE: 
+通行可能: 

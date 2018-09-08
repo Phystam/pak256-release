@@ -22,13 +22,15 @@ Tram track
 Prohibitive 2-1
 Subway
 Prohibitive 2-2
-Low-Voltage DC 750V
+DC 600V
 Prohibitive 2-3
-DC 1500V
+DC 750V
 Prohibitive 2-4
-AC 20000V
+DC 1500V
 Prohibitive 2-5
-High-Voltage DC 25kV
+AC 20kV
+Prohibitive 2-6
+AC 25kV
 Permissive 2-0
 1067mm gauge (3ft 6in)
 Permissive 2-1
@@ -38,7 +40,40 @@ Standard gauge
 Permissive 2-3
 Catenary
 Permissive 2-4
-3rd rail
+3rd rail DC 600V
+Permissive 2-5
+3rd rail DC 750V
+#constraint with space
+ Prohibitive 2-0
+ Tram
+ Prohibitive 2-1
+ Subway
+ Prohibitive 2-2
+ DC 600V
+ Prohibitive 2-3
+ DC 750V
+ Prohibitive 2-4
+ DC 1500V
+ Prohibitive 2-5
+ AC 20kV
+ Prohibitive 2-6
+ AC 25kV
+ Permissive 2-0
+ 1067mm gauge (3ft 6in)
+ Permissive 2-1
+ 1372mm gauge (4ft 6in)
+ Permissive 2-2
+ Standard gauge (4ft 8 1/2in)
+ Permissive 2-3
+ Catenary
+ Permissive 2-4
+ 3rd rail 600V
+ Permissive 2-5
+ 3rd rail 750V
+ Permissive 2-6
+ Cable car
+ Permissive 2-7
+ Linear motor
 special freight
 専用貨物
 CATEGORY_01

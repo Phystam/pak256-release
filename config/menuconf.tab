@@ -107,7 +107,7 @@ general_tool[32]=15,11,,
 general_tool[33]=16,1,11,
 general_tool[34]=,,11,
 general_tool[35]=17,,11,^K
-general_tool[41]=18,,,\
+general_tool[41]=18,16,11,\
 # SECOND SECTION: simple tools
 # since these tools act immeadiately
 # they have only an icon assigned
