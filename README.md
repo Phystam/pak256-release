@@ -21,7 +21,7 @@ Permissions beyond the scope of this license may be available at Twitter:@pak256
 
 ---
 ## 更新履歴/History
-Sep. 9 2018: ver 1.0.0リリース / ver 1.0.0 release
+**Sep. 9 2018: ver 1.0.0リリース / ver 1.0.0 release**
 
 1. 車両/vehicle
 - キハ40形/diesel kiha40
