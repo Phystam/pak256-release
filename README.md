@@ -21,7 +21,7 @@ Permissions beyond the scope of this license may be available at Twitter:@pak256
 
 ---
 ## デモ映像/Demo play
-<https://www.youtube.com/watch?v=iYPsDjS_8-Q>
+[![Demo play](https://img.youtube.com/vi/iYPsDjS_8-Q/0.jpg)](https://www.youtube.com/watch?v=iYPsDjS_8-Q)
 ---
 ## 更新履歴/History
 **Sep. 9 2018: ver 1.0.0リリース / ver 1.0.0 release**
