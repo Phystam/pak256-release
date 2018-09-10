@@ -5,7 +5,7 @@ Pak256-Ex release
 Simutrans-Extended対応パックセットpak256-Exをダウンロードいただきありがとうございます。
 このパックセットは九龍会(九龍/ふぃすたむ/五番星/さちばさち) 作『pak256-Ex』はクリエイティブ・コモンズ 表示 - 非営利 - 継承 4.0 国際 ライセンスで提供されています。
 このライセンスで許諾される範囲を超えた利用の可能性については以下のアドレスもご覧下さい。 Twitter:@pak256ex
-詳細についてはwiki(http://www.pak256.simutrans.info/)を御覧ください。
+詳細についてはwiki( http://www.pak256.simutrans.info/ )を御覧ください。
 
 ---
 ## Pak256-Ex
@@ -19,6 +19,9 @@ license:
 Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
 Permissions beyond the scope of this license may be available at Twitter:@pak256ex.
 
+---
+## デモ映像/Demo play
+<https://www.youtube.com/watch?v=iYPsDjS_8-Q>
 ---
 ## 更新履歴/History
 **Sep. 9 2018: ver 1.0.0リリース / ver 1.0.0 release**
