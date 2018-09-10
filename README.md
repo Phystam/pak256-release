@@ -24,7 +24,9 @@ Permissions beyond the scope of this license may be available at @pak256ex.
 ---
 ## 履歴/History
 Sep. 9 2018: ver 1.0.0リリース / ver 1.0.0 release
+
 *車両/vehicle
+
 **キハ40形/diesel kiha40
 **DD51形ディーゼル機関車/diesel locomotive DD51
 **一部の60系客車/Passenger car 60 series (partially)
@@ -38,12 +40,16 @@ Sep. 9 2018: ver 1.0.0リリース / ver 1.0.0 release
 **スバル・サンバー550軽トラ/Light truck Subaru sambar van 550 (Rice, Post)
 **FRP漁船/Fisher ship
 **高速船第三かもめ/High-speed ship Kamome No.3
+
 *市内建築物
+
 **田んぼ/Rice field
 **農家/Farmer house(Red,Blue,Green)
 **公営住宅/Apartment complex
 **村役場/Village hall
+
 *ユーザー建築物
+
 **バス車庫/Bus depot
 **機関庫/Locomotive depot
 **造船所/Small Shipyard
