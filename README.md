@@ -26,23 +26,20 @@ Permissions beyond the scope of this license may be available at @pak256ex.
 Sep. 9 2018: ver 1.0.0リリース / ver 1.0.0 release
 
 * 車両/vehicle
-
-**キハ40形/diesel kiha40
-**DD51形ディーゼル機関車/diesel locomotive DD51
-**一部の60系客車/Passenger car 60 series (partially)
-**一部の20系客車/Passenger car 20 series (partially)
-**セキ3000形石炭車/Coal car seki3000
-**ワム80000形有蓋車/box car wamu80000
-**レム5000形冷蔵車/Cold car remu5000
-**ヨ5000形車掌車/Brake car yo5000
-**三菱MP117Mバス/Bus Mitsubishi MP117M for 3 colors
-**日産ディーゼルTW50トラック/Truck Nissan diesel TW50
-**スバル・サンバー550軽トラ/Light truck Subaru sambar van 550 (Rice, Post)
-**FRP漁船/Fisher ship
-**高速船第三かもめ/High-speed ship Kamome No.3
-
+** キハ40形/diesel kiha40
+** DD51形ディーゼル機関車/diesel locomotive DD51
+** 一部の60系客車/Passenger car 60 series (partially)
+** 一部の20系客車/Passenger car 20 series (partially)
+** セキ3000形石炭車/Coal car seki3000
+** ワム80000形有蓋車/box car wamu80000
+** レム5000形冷蔵車/Cold car remu5000
+** ヨ5000形車掌車/Brake car yo5000
+** 三菱MP117Mバス/Bus Mitsubishi MP117M for 3 colors
+** 日産ディーゼルTW50トラック/Truck Nissan diesel TW50
+** スバル・サンバー550軽トラ/Light truck Subaru sambar van 550 (Rice, Post)
+** FRP漁船/Fisher ship
+** 高速船第三かもめ/High-speed ship Kamome No.3
 * 市内建築物
-
 **田んぼ/Rice field
 **農家/Farmer house(Red,Blue,Green)
 **公営住宅/Apartment complex
