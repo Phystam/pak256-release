@@ -7,6 +7,7 @@ Simutrans-Extended対応パックセットpak256-Exをダウンロードいた�
 このライセンスで許諾される範囲を超えた利用の可能性については以下のアドレスもご覧下さい。 Twitter:@pak256ex
 詳細についてはwiki( http://www.pak256.simutrans.info/ )を御覧ください。
 
+Special thanks: ラスさん(ケヤキ、ハゼノキ), 久留里さん(アイコンデザイン)  
 ---
 ## Pak256-Ex
 
@@ -19,6 +20,7 @@ license:
 Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
 Permissions beyond the scope of this license may be available at Twitter:@pak256ex.
 
+Special thanks: Lus(Zelkova, wax tree), Kuururi Ahojanen(icon design)  
 ---
 ## デモ映像/Demo play
 [![Demo play](https://img.youtube.com/vi/iYPsDjS_8-Q/0.jpg)](https://www.youtube.com/watch?v=iYPsDjS_8-Q)
