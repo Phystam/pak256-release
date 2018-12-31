@@ -4,9 +4,13 @@
 # created by Phystam (@Phystam_hnew)     #
 #------------------------------------------#
 building_road_depot_car-depot
-Old depot
+Bus depot
 building_track_depot_locomotive-depot
 Locomotive depot
+building_track_depot_tram-depot
+Tram depot
+building_monorail_depot_monorail-depot
+Monorail depot
 building_smallshipyard
 Small Shipyard
 building_tow_townhall-1875
@@ -15,6 +19,8 @@ building_ind_ricefield
 rice field (ind)
 building_com_ricefield
 rice field (com)
+building_com_ricefield
+rice field (res)
 building_citybuilding_farmers_house_A01
 farmers' house with red tin roof
 building_citybuilding_farmers_house_A02
@@ -23,5 +29,27 @@ building_citybuilding_farmers_house_A03
 farmers' house with green tin roof
 building_citybuilding_apartment_complex_A01
 Apartment complex
+building_citybuilding_wooden_commercial_A
+Wooden commercial buildings A
+building_citybuilding_wooden_hotel_A
+Wooden hotel
+building_citybuilding_city_bank_branch
+City bank branch
+building_cur_kobe15th
+Foreigner resident
+building_cur_ikegami-hoto
+Buddhism tower of Ikegami Hommonji temple
+building_cur_hokkiji-pagoda
+Three stored pagoda of Hokkiji temple
+building_cur_Hagi_Reverberatory_furnace
+Hagi reverberatory furnace
 building_hq_lv1
 Single-storied HQ
+
+
+
+
+
+
+
+

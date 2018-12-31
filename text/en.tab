@@ -17,6 +17,8 @@ m_class[0]
 Mail
 m_class[1]
 Parcel
+######################## 鉄道についての
+######################## way_constraint
 Prohibitive 2-0
 Tram track
 Prohibitive 2-1
@@ -31,6 +33,8 @@ Prohibitive 2-5
 AC 20kV
 Prohibitive 2-6
 AC 25kV
+Prohibitive 2-7
+Funicular
 Permissive 2-0
 1067mm gauge (3ft 6in)
 Permissive 2-1
@@ -43,9 +47,12 @@ Permissive 2-4
 3rd rail DC 600V
 Permissive 2-5
 3rd rail DC 750V
-#constraint with space
+Permissive 2-6
+Funicular
+Permissive 2-7
+*not used*
  Prohibitive 2-0
- Tram
+ Tram track
  Prohibitive 2-1
  Subway
  Prohibitive 2-2
@@ -58,24 +65,157 @@ Permissive 2-5
  AC 20kV
  Prohibitive 2-6
  AC 25kV
+ Prohibitive 2-7
+ Funicular
  Permissive 2-0
  1067mm gauge (3ft 6in)
  Permissive 2-1
  1372mm gauge (4ft 6in)
  Permissive 2-2
- Standard gauge (4ft 8 1/2in)
+ Standard gauge
  Permissive 2-3
  Catenary
  Permissive 2-4
- 3rd rail 600V
+ 3rd rail DC 600V
  Permissive 2-5
- 3rd rail 750V
+ 3rd rail DC 750V
  Permissive 2-6
- Cable car
+ Funicular
  Permissive 2-7
- Linear motor
-special freight
-専用貨物
+ *not used*
+######################## モノレールについての
+######################## way_constraint
+Prohibitive 5-0
+Straddle monorail
+Prohibitive 5-1
+Suspension monorail
+Prohibitive 5-2
+Automated guideway transit track
+Prohibitive 5-3
+Cable car
+Prohibitive 5-4
+*not used*
+Prohibitive 5-5
+*not used*
+Prohibitive 5-6
+*not used*
+Prohibitive 5-7
+*not used*
+Permissive 5-0
+Straddle monorail
+Permissive 5-1
+Suspension monorail
+Permissive 5-2
+Automated guideway transit track
+Permissive 5-3
+Cable car
+Permissive 5-4
+*not used*
+Permissive 5-5
+*not used*
+Permissive 5-6
+*not used*
+Permissive 5-7
+*not used*
+ Prohibitive 5-0
+ Straddle monorail
+ Prohibitive 5-1
+ Suspension monorail
+ Prohibitive 5-2
+ Automated guideway transit track
+ Prohibitive 5-3
+ Cable car
+ Prohibitive 5-4
+ *not used*
+ Prohibitive 5-5
+ *not used*
+ Prohibitive 5-6
+ *not used*
+ Prohibitive 5-7
+ *not used*
+ Permissive 5-0
+ Straddle monorail
+ Permissive 5-1
+ Suspension monorail
+ Permissive 5-2
+ Automated guideway transit track
+ Permissive 5-3
+ Cable car
+ Permissive 5-4
+ *not used*
+ Permissive 5-5
+ *not used*
+ Permissive 5-6
+ *not used*
+ Permissive 5-7
+ *not used*
+######################## 路面電車についての
+######################## way_constraint
+Prohibitive 7-0
+Tram track
+Prohibitive 7-1
+Subway
+Prohibitive 7-2
+DC 600V
+Prohibitive 7-3
+DC 750V
+Prohibitive 7-4
+DC 1500V
+Prohibitive 7-5
+AC 20kV
+Prohibitive 7-6
+AC 25kV
+Prohibitive 7-7
+Funicular
+Permissive 7-0
+1067mm gauge (3ft 6in)
+Permissive 7-1
+1372mm gauge (4ft 6in)
+Permissive 7-2
+Standard gauge
+Permissive 7-3
+Catenary
+Permissive 7-4
+3rd rail DC 600V
+Permissive 7-5
+3rd rail DC 750V
+Permissive 7-6
+Funicular
+Permissive 7-7
+*not used*
+ Prohibitive 7-0
+ Tram track
+ Prohibitive 7-1
+ Subway
+ Prohibitive 7-2
+ DC 600V
+ Prohibitive 7-3
+ DC 750V
+ Prohibitive 7-4
+ DC 1500V
+ Prohibitive 7-5
+ AC 20kV
+ Prohibitive 7-6
+ AC 25kV
+ Prohibitive 7-7
+ Funicular
+ Permissive 7-0
+ 1067mm gauge (3ft 6in)
+ Permissive 7-1
+ 1372mm gauge (4ft 6in)
+ Permissive 7-2
+ Standard gauge
+ Permissive 7-3
+ Catenary
+ Permissive 7-4
+ 3rd rail DC 600V
+ Permissive 7-5
+ 3rd rail DC 750V
+ Permissive 7-6
+ Funicular
+ Permissive 7-7
+ *not used*
+###############################################
 CATEGORY_01
 Mixed cargo
 CATEGORY_02
@@ -83,6 +223,6 @@ Cold cargo
 CATEGORY_03
 Bulk cargo
 GENERALTOOLS
-Map control tool
+Map control tools
 view masked ribi
 Display road connection arrows

@@ -1,4 +1,6 @@
 §#
+!1_DEPOT_REACHED
+車庫に着きました。
 east
 東
 west
@@ -39,6 +41,8 @@ prohibited
 追越不可(対面)
 inverted
 反対車線通行(対面)
+######################## 鉄道についての
+######################## way_constraint
 Prohibitive 2-0
 併用軌道
 Prohibitive 2-1
@@ -98,6 +102,130 @@ Permissive 2-7
  Permissive 2-6
  ケーブルカー
  Permissive 2-7
+ 鉄輪式リニアモーター
+######################## モノレールについての
+######################## way_constraint
+Prohibitive 5-0
+未定
+Prohibitive 5-1
+未定
+Prohibitive 5-2
+未定
+Prohibitive 5-3
+未定
+Prohibitive 5-4
+未定
+Prohibitive 5-5
+未定
+Prohibitive 5-6
+未定
+Permissive 5-0
+跨座式モノレール
+Permissive 5-1
+懸垂式モノレール
+Permissive 5-2
+ゴムタイヤ式案内軌条
+Permissive 5-3
+ロープウェイ
+Permissive 5-4
+未定
+Permissive 5-5
+未定
+Permissive 5-6
+未定
+Permissive 5-7
+未定
+ Prohibitive 5-0
+ 跨座式モノレール
+ Prohibitive 5-1
+ 懸垂式モノレール
+ Prohibitive 5-2
+ ゴムタイヤ式案内軌条
+ Prohibitive 5-3
+ ロープウェイ
+ Prohibitive 5-4
+ 未定
+ Prohibitive 5-5
+ 未定
+ Prohibitive 5-6
+ 未定
+ Permissive 5-0
+ 未定
+ Permissive 5-1
+ 未定
+ Permissive 5-2
+ 未定
+ Permissive 5-3
+ 未定
+ Permissive 5-4
+ 未定
+ Permissive 5-5
+ 未定
+ Permissive 5-6
+ 未定
+ Permissive 5-7
+ 未定
+######################## 路面電車についての
+######################## way_constraint
+Prohibitive 7-0
+併用軌道
+Prohibitive 7-1
+地下鉄
+Prohibitive 7-2
+直流電化 600V
+Prohibitive 7-3
+直流電化 750V
+Prohibitive 7-4
+直流電化 1500V
+Prohibitive 7-5
+交流電化 20kV
+Prohibitive 7-6
+交流電化 25kV
+Permissive 7-0
+狭軌
+Permissive 7-1
+馬車軌
+Permissive 7-2
+標準軌
+Permissive 7-3
+架線
+Permissive 7-4
+第三軌条 直流電化 600V
+Permissive 7-5
+第三軌条 直流電化 750V
+Permissive 7-6
+ケーブルカー
+Permissive 7-7
+鉄輪式リニアモーター
+ Prohibitive 7-0
+ 併用軌道
+ Prohibitive 7-1
+ 地下鉄
+ Prohibitive 7-2
+ 直流電化 600V
+ Prohibitive 7-3
+ 直流電化 750V
+ Prohibitive 7-4
+ 直流電化 1500V
+ Prohibitive 7-5
+ 交流電化 20kV
+ Prohibitive 7-6
+ 交流電化 25kV
+ Permissive 7-0
+ 狭軌
+ Permissive 7-1
+ 馬車軌
+ Permissive 7-2
+ 標準軌
+ Permissive 7-3
+ 架線
+ Permissive 7-4
+ 第三軌条 直流電化 600V
+ Permissive 7-5
+ 第三軌条 直流電化 750V
+ Permissive 7-6
+ ケーブルカー
+ Permissive 7-7
  鉄輪式リニアモーター
 boxes
 箱

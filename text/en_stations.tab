@@ -27,6 +27,12 @@ platform_temporary_platform_front
 Temporary platform (Exit front)
 platform_temporary_platform_back
 Temporary platform (Exit back)
+platform_tram_stop_oneside
+Tram stop oneside
+platform_tram_stop_bothside
+Tram stop bothside
+platform_monorail-station-osaka
+Monorail station
 station_small_wooden_station1
 Small wooden station No.1
 station_small_postoffice1

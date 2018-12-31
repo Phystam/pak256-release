@@ -278,10 +278,9 @@ house_21.chance = -2
 # . . . . .
 # . . n . .
 # . . h . .
-# . . s . .
+# . s s s .
 house_22 = ..... ..... ..n.. ..h.. ..s..
 house_22.chance = -2
-
 
 #### R O A D S ####
 

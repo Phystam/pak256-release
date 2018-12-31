@@ -18,7 +18,11 @@ Subaru Sambar 550
 vehicle_road_fusou_fu
 Mitsubishi Fuso FU
 jnr_kiha40
-JNR kiha 40 series [Passenger]
+JNR kiha 40 series #500 [Passenger]
+jnr_kiha58-back
+JNR kiha 58 series (front) [Passenger]
+jnr_kiha58-front
+JNR kiha 58 series (front) [Passenger]
 jnr_dd51
 JNR DD51 series #500 [Diesel locomotive]
 jnr_wamu80000
@@ -41,6 +45,16 @@ jnr_nahanefu22_front
 "JNR nahanefu 22 series (front) [2nd class sleeper
 jnr_oyu61
 JNR oyu 61 series [Travelling post office]
+nagoya_2000
+Nagoya city tram 2000 series
+tokyomonorail_500_front
+Tokyo monorail 500 series (front)
+tokyomonorail_500_back
+Tokyo monorail 500 series (back)
+tokyomonorail_600_front
+Tokyo monorail 600 series (front)
+tokyomonorail_600_back
+Tokyo monorail 600 series (back)
 vehicle_arp3
 FRP fishing boat
 vehicle_kamome_no3

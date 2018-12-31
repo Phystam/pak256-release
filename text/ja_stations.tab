@@ -27,6 +27,12 @@ platform_temporary_platform_front
 仮乗降場(出入口手前側)
 platform_temporary_platform_back
 仮乗降場(出入口奥側)
+platform_tram_stop_oneside
+市電停留所(片側)
+platform_tram_stop_bothside
+市電停留所(両側)
+platform_monorail-station-osaka
+モノレール駅
 station_small_wooden_station1
 小型木造標準駅舎1
 station_small_postoffice1

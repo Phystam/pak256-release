@@ -17,9 +17,13 @@ way_track_narrow-track_elevated
 コンクリート高架の狭軌線路
 way_water_canal
 運河
+way_water_river1
+川1
 way_road_elevated_expway
 コンクリート高架の首都高速道路
 way_road_elevated_expway_diagonal
 コンクリート高架の首都高速道路(対角)
-
-
+way_monorail_trackbed
+モノレール・新交通システム路盤
+way_track_mono-track_elevated
+モノレール・案内軌条式鉄道の橋脚

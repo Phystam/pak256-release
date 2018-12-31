@@ -33,7 +33,15 @@ signal_track_shunt_junctionsignal
 Position light shunt junction signal
 signal_no-entry-sign
 No entry sign (oneway)
+signal_no-entry-sign_monorail
+No entry sign (oneway)
+signal_no-entry-sign_narrowgauge
+No entry sign (oneway)
 signal_end-of-choose-sign
+End of choose sign
+signal_end-of-choose-sign_monorail
+End of choose sign
+signal_end-of-choose-sign_narrowgauge
 End of choose sign
 signal_semaphore_startsignal
 Semaphore starting/home signal
@@ -51,6 +59,10 @@ signal_semaphore_tablet_start
 Semaphore starting signal with tablet server
 signal_semaphore_tablet_catcher
 Tablet receiver
+signal_cab_signal_monorail
+Signalling transponder
+signal_cab_home_signal_monorail
+Signalling transponder (Junction)
 signal_road_roadsignal
 Traffic light signals (horizontal)
 signal_road_oneway

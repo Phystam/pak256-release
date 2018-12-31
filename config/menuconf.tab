@@ -104,7 +104,7 @@ general_tool[28]=12,7,,
 general_tool[30]=13,9,,
 general_tool[31]=14,11,,
 general_tool[32]=15,11,,
-general_tool[33]=16,1,11,
+general_tool[33]=,,11,
 general_tool[34]=,,11,
 general_tool[35]=17,,11,^K
 general_tool[41]=18,16,11,\
@@ -175,6 +175,7 @@ simple_tool[16]=11,R
 #simple_tool[17]=,^Q
 simple_tool[20]=,/
 simple_tool[23]=,^T
+simple_tool[33]=15,B
 simple_tool[34]=14,O
 simple_tool[37]=12,:
 
@@ -221,7 +222,7 @@ dialog_tool[0]=0,?
 dialog_tool[1]=1,Q
 dialog_tool[2]=2,m
 dialog_tool[3]=3,w
-dialog_tool[4]=4,B
+dialog_tool[4]=4,^E
 dialog_tool[5]=5,f
 dialog_tool[6]=6,k
 dialog_tool[7]=7
@@ -233,7 +234,7 @@ dialog_tool[12]=12,^O
 dialog_tool[13]=13,^S
 dialog_tool[14]=14,H
 dialog_tool[15]=15,V
-dialog_tool[16]=16,T
+dialog_tool[16]=16,Z
 dialog_tool[17]=17,G
 dialog_tool[18]=18,F
 dialog_tool[19]=19,A
@@ -479,7 +480,7 @@ toolbar[12][7]=simple_tool[15],46,+,I
 toolbar[12][8]=simple_tool[15],47,-,D
 toolbar[12][9]=simple_tool[15]
 toolbar[12][10]=general_tool[7]
-
+toolbar[12][11]=simple_tool[33]
 ########## PART 2 Railway and Tram WayTools #############
 
 toolbar[13][0]=-,120,, #Railway Icon 1
@@ -489,12 +490,11 @@ toolbar[13][3]=ways(2,0)
 toolbar[13][4]=ways(2,1)
 toolbar[13][5]=-,121,, #Tramway Icon 1
 toolbar[13][6]=-,131,, #Tramway Icon 1
-toolbar[13][7]=general_tool[17],25,j,7 #Remove Way
-toolbar[13][8]=ways(2,7)
-toolbar[13][9]=ways(7,0)
-toolbar[13][10]=ways(7,1)
-toolbar[13][11]=ways(7,7)
-toolbar[13][12]=general_tool[14],,t,2
+toolbar[13][7]=ways(2,7)
+toolbar[13][8]=ways(7,0)
+toolbar[13][9]=ways(7,1)
+toolbar[13][10]=ways(7,7)
+toolbar[13][11]=general_tool[14],,t,2
 
 # waytools 2 (Waytype 2 and 7)
 toolbar[14][0]=-,122,, #Rail & Tram Icon
@@ -561,9 +561,12 @@ toolbar[20][4]=general_tool[18],,,5
 
 # signaltools (Waytype 5)
 toolbar[21][0]=-,124,, #Rail & Tram Icon
-toolbar[21][1]=-,134,, #Signal Icon
-toolbar[21][2]=buildings(70,5)
-toolbar[21][3]=signs(5)
+toolbar[21][1]=-,145,, #Signal box Icon
+toolbar[21][2]=general_tool[41]
+toolbar[21][3]=buildings(70,5)
+toolbar[21][4]=-,124,, #Rail & Tram Icon
+toolbar[21][5]=-,134,, #Signal Icon
+toolbar[21][6]=signs(5)
 
 
 # station tools (Waytype 5)
@@ -642,9 +645,12 @@ toolbar[30][4]=general_tool[18],,,8
 
 # signaltools (Waytype 8)
 toolbar[31][0]=-,126,, #Rail & Tram Icon
-toolbar[31][1]=-,134,, #Signal Icon
-toolbar[31][2]=buildings(70,8)
-toolbar[31][3]=signs(8)
+toolbar[31][1]=-,145,, #Signal box Icon
+toolbar[31][2]=general_tool[41]
+toolbar[31][3]=buildings(70,8)
+toolbar[31][4]=-,126,, #Rail & Tram Icon
+toolbar[31][5]=-,134,, #Signal Icon
+toolbar[31][6]=signs(8)
 
 
 # station tools (Waytype 8)

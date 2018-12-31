@@ -17,9 +17,13 @@ way_track_narrow-track_elevated
 Elevated concrete track (1067mm gauge)
 way_water_canal
 Canal
+way_water_river1
+River1
 way_road_elevated_expway
 """Shutoko"" Metropolitan Expressway (Elevated)"
 way_road_elevated_expway_diagonal
 """Shutoko"" Metropolitan Expressway (Elevated/diagonal)"
-
-
+way_monorail_trackbed
+Monorail trackbed
+way_track_mono-track_elevated
+Monorail elevated track piers
