@@ -28,6 +28,30 @@ Special thanks: Lus(Zelkova, wax tree), Kuururi Ahojanen(icon design)
 [![Demo play](https://img.youtube.com/vi/iYPsDjS_8-Q/0.jpg)](https://www.youtube.com/watch?v=iYPsDjS_8-Q)
 ---
 ## 更新履歴/History
+**Jan. 1 2019: ver 1.1.0リリース / ver 1.1.0 release**
+1. 市電/Tram
+ - 電停/Tram stop
+ - 市電車庫/Tram depot
+ - DC600V架線/DC 600V catenary
+ - 名古屋市電2000形/Nagoya city tram 2000 series
+
+2. モノレール/Monorail
+ - モノレール車庫/Monorail depot
+ - モノレール駅/Monorail station platform
+ - 跨座式モノレール軌道桁/Straddle monorail beam
+ - 東京モノレール500形/Tokyo monorail 500 series
+ - 東京モノレール600形/Tokyo monorail 600 series
+
+
+3. 市内建築物/City buildings
+ - 看板建築の商店/Commercial buildings
+ - 市中銀行支店/City bank branch
+ - 駅前旅館/Japanese style hotel
+ 
+4. 変更・修正/Changes
+ - 車両長さ/Vehicle length
+ - 腕木式信号機グラフィック/Graphics of semaphore signals
+
 **Sep. 9 2018: ver 1.0.0リリース / ver 1.0.0 release**
 
 1. 車両/vehicle
