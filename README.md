@@ -28,6 +28,11 @@ Special thanks: Lus(Zelkova, wax tree), Kuururi Ahojanen(icon design)
 [![Demo play](https://img.youtube.com/vi/iYPsDjS_8-Q/0.jpg)](https://www.youtube.com/watch?v=iYPsDjS_8-Q)
 ---
 ## 更新履歴/History
+**Jan. 12 2019: ver 1.1.1リリース / ver 1.1.1 release**
+1. システム/System
+ - 海岸テクスチャバグ修正/Fixed shore texture bug
+ - 信号アドオン追加・グラフィック変更/Added several signals and changed graphics
+
 **Jan. 1 2019: ver 1.1.0リリース / ver 1.1.0 release**
 1. 市電/Tram
  - 電停/Tram stop
