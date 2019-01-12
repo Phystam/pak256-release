@@ -5,30 +5,28 @@
 #------------------------------------------#
 signal_track_3_aspect_startsignal
 3-aspect starting/home signal
-signal_track_2_aspect_startsignal
-2-aspect starting/home signal (Restricted automatic block system)
-signal_track_4_aspect_startsignal
-4-aspect starting/home signal
-signal_track_shunt_signal
-Position light shunt signal
-signal_track_staff-sign
-Staff exchange position sign
 signal_track_3_aspect_blocksignal
 3-aspect block signal
-signal_track_4_aspect_blocksignal
-4-aspect block signal
 signal_track_3_aspect_calling-on-signal
 3-aspect home signal with call-on signal
-signal_track_4_aspect_calling-on-signal
-4-aspect home signal with call-on signal
-signal_track_2_aspect_distantsignal
-2-aspect distant signal
 signal_track_3_aspect_homesignal
 3-aspect home junction signal
-signal_track_2_aspect_homesignal
-2-aspect home junction signal
+signal_track_4_aspect_startsignal
+4-aspect starting/home signal
+signal_track_4_aspect_blocksignal
+4-aspect block signal
+signal_track_4_aspect_calling-on-signal
+4-aspect home signal with call-on signal
 signal_track_4_aspect_homesignal
 4-aspect home junction signal
+signal_track_2_aspect_startsignal
+2-aspect starting/home signal (Restricted automatic block system)
+signal_track_2_aspect_distantsignal
+2-aspect distant signal
+signal_track_2_aspect_homesignal
+2-aspect home junction signal
+signal_track_shunt_signal
+Position light shunt signal
 signal_track_shunt_junctionsignal
 Position light shunt junction signal
 signal_no-entry-sign
@@ -43,6 +41,8 @@ signal_end-of-choose-sign_monorail
 End of choose sign
 signal_end-of-choose-sign_narrowgauge
 End of choose sign
+signal_slow-sign
+Slow signal (temporary)
 signal_semaphore_startsignal
 Semaphore starting/home signal
 signal_semaphore_homesignal
@@ -53,12 +53,46 @@ signal_semaphore_selective_homedistant
 Semaphore combined junction signal
 signal_semaphore_distant
 Semaphore distant signal
+signal_semaphore_stop_calling-on
+Semaphore home signal with call-on signal
 signal_absolute_color_distant
 Color light distant signal
+signal_absolute_homedistant
+Color light combined signal
+signal_absolute_color_selective_homedistant
+Color light combined junction signal
+signal_absolute_color_stop
+Color light starting/home signal
+signal_absolute_color_homesignal
+Color light home junction signal
+signal_mechanical_shuntsignal
+Mechanical shunt signal
+signal_semaphore_startsignal_narrowgauge
+Semaphore starting/home signal
+signal_semaphore_homesignal_narrowgauge
+Semaphore home junction signal
+signal_semaphore_homedistant_narrowgauge
+Semaphore combined signal
+signal_semaphore_selective_homedistant_narrowgauge
+Semaphore combined junction signal
+signal_semaphore_distant_narrowgauge
+Semaphore distant signal
+signal_absolute_color_distant_narrowgauge
+Color light distant signal
+signal_absolute_color_stop_narrowgauge
+Color light starting/home signal
 signal_semaphore_tablet_start
 Semaphore starting signal with tablet server
 signal_semaphore_tablet_catcher
 Tablet receiver
+signal_track_staff-sign
+Staff exchange position sign
+signal_semaphore_tablet_start_narrowgauge
+Semaphore starting signal with tablet server
+signal_semaphore_tablet_catcher_narrowgauge
+Tablet receiver
+signal_track_staff-sign_narrowgauge
+Staff exchange position sign
 signal_cab_signal_monorail
 Signalling transponder
 signal_cab_home_signal_monorail
@@ -70,4 +104,6 @@ Oneway sign
 signal_road_choose
 Choose sign
 signal_road_cross
-Intersection navigation sign (oneway)
+"Guide sign [Direction
+signal_road_guide_106A
+Guide sign [Direction and distance] 
