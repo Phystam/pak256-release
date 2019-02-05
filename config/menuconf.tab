@@ -625,10 +625,14 @@ toolbar[27][8]=buildings(33,6)
 
 toolbar[28][0]=-,126,, #Railway Icon 1
 toolbar[28][1]=-,130,, #Railway Icon 1
-toolbar[28][2]=general_tool[17],26,,8 #Remove Way
+toolbar[28][2]=general_tool[17],26,J,8 #Remove Way
 toolbar[28][3]=ways(8,0)
 toolbar[28][4]=ways(8,1)
-toolbar[28][5]=general_tool[14],,,8
+toolbar[28][5]=ways(8,7)
+toolbar[28][6]=ways(9,0)
+toolbar[28][7]=ways(9,1)
+toolbar[28][8]=ways(9,7)
+toolbar[28][9]=general_tool[14],,T,8
 
 # waytools 2 (Waytype 8)
 toolbar[29][0]=-,126,, #Rail & Tram Icon
@@ -641,7 +645,7 @@ toolbar[30][0]=-,126,, #Rail & Tram Icon
 toolbar[30][1]=-,133,, #WayObject Icon
 toolbar[30][2]=general_tool[33],22,,8 #Remove Wayobj
 toolbar[30][3]=wayobjs(8)
-toolbar[30][4]=general_tool[18],,,8
+toolbar[30][4]=general_tool[18],,E,8
 
 # signaltools (Waytype 8)
 toolbar[31][0]=-,126,, #Rail & Tram Icon
@@ -685,7 +689,6 @@ toolbar[35][0]=-,127,, #Rail & Tram Icon
 toolbar[35][1]=-,133,, #WayObject Icon
 toolbar[35][2]=general_tool[33],22,,1 #Remove Wayobj
 toolbar[35][3]=wayobjs(1)
-toolbar[35][4]=general_tool[18],,e,2
 
 # signaltools (Waytype 1)
 toolbar[36][0]=-,127,, #Rail & Tram Icon
@@ -741,6 +744,10 @@ toolbar[41][4]=-,129,, #Railway Icon 1
 toolbar[41][5]=-,142,, #Railway Icon 1
 toolbar[41][6]=ways(16,1)
 toolbar[41][7]=general_tool[14],,,16
+toolbar[41][8]=-,129,, #Railway Icon 1
+toolbar[41][9]=-,133,, #wayobj
+toolbar[41][10]=general_tool[33],22,,16 #Remove Wayobj
+toolbar[41][11]=wayobjs(16)
 
 # signaltools (Waytype 1)
 toolbar[42][0]=-,129,, #Rail & Tram Icon
@@ -753,7 +760,7 @@ toolbar[43][0]=-,129,, #Rail & Tram Icon
 toolbar[43][1]=-,140,, #Platform Icon
 toolbar[43][2]=buildings(34,16)
 toolbar[43][3]=buildings(35,16)
-toolbar[43][4]=-,127,, #Rail & Tram Icon
+toolbar[43][4]=-,129,, #Rail & Tram Icon
 toolbar[43][5]=-,137,, #Depot Icon
 toolbar[43][6]=buildings(33,16)
 

@@ -18,13 +18,21 @@ Subaru Sambar 550
 vehicle_road_fusou_fu
 Mitsubishi Fuso FU
 jnr_kiha40
-JNR kiha 40 series #500 [Passenger]
-jnr_kiha58-back
-JNR kiha 58 series (back) [Express]
+JNR DMU kiha 40 series #500 [Local]
 jnr_kiha58-front
-JNR kiha 58 series [Express]
+JNR DMU kiha 58 series [Express]
+jnr_kiha58-back
+JNR DMU kiha 58 series (back) [Express]
+jnr_kiha28-front
+JNR DMU kiha 28 series [Express]
+jnr_kiha28-back
+JNR DMU kiha 28 series (back) [Express]
+jnr_kiyu25-front
+JNR DMU kiyu 25 series [Post]
+jnr_kiyu25-back
+JNR DMU kiyu 25 series (back) [Post]
 jnr_dd51
-JNR DD51 series #500 [Diesel locomotive]
+JNR Diesel locomotive DD51 series #500
 jnr_wamu80000
 JNR wamu 80000 series [Box]
 jnr_remu5000
@@ -61,3 +69,9 @@ vehicle_kamome_no3
 Kamome No.3
 vehicle_air_ys11
 YS-11
+jeffrey_L
+Jeffrey electric locomotive
+atami_sl
+Atami railway 0-4-0T steam locomotive
+okinawa_sl
+Okinawa prefectural railway 0-4-2T steam locomotive

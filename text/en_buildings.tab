@@ -11,8 +11,12 @@ building_track_depot_tram-depot
 Tram depot
 building_monorail_depot_monorail-depot
 Monorail depot
+building_narrowgauge_old-depot
+Narrowgauge wooden depot
 building_smallshipyard
 Small Shipyard
+building_hanger
+Small Hanger
 building_tow_townhall-1875
 Old village hall
 building_ind_ricefield

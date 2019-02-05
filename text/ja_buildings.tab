@@ -11,8 +11,12 @@ building_track_depot_tram-depot
 市電車庫
 building_monorail_depot_monorail-depot
 モノレール車庫
+building_narrowgauge_old-depot
+軽便鉄道簡易車庫
 building_smallshipyard
 造船所(小)
+building_hanger
+格納庫
 building_tow_townhall-1875
 村役場
 building_ind_ricefield

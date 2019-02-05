@@ -19,10 +19,18 @@ vehicle_road_fusou_fu
 三菱ふそうFU
 jnr_kiha40
 国鉄 キハ40形気動車 500番台
+jnr_kiha58-front
+国鉄 キハ58形気動車 [急行型]
 jnr_kiha58-back
 国鉄 キハ58形気動車[後]
-jnr_kiha58-front
-国鉄 キハ58形気動車
+jnr_kiha28-front
+国鉄 キハ28形気動車 [急行型]
+jnr_kiha28-back
+国鉄 キハ28形気動車 [急行型][後]
+jnr_kiyu25-front
+国鉄 キユ25形郵便気動車
+jnr_kiyu25-back
+国鉄 キユ25形郵便気動車[後]
 jnr_dd51
 国鉄 DD51形ディーゼル機関車 500番台
 jnr_wamu80000
@@ -61,3 +69,9 @@ vehicle_kamome_no3
 第三かもめ
 vehicle_air_ys11
 YS-11
+jeffrey_L
+草軽電鉄 デキ12形電気機関車
+atami_sl
+熱海鉄道 0-4-0T 蒸気機関車
+okinawa_sl
+沖縄県営鉄道 0-4-2T 蒸気機関車

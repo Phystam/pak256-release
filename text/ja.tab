@@ -227,6 +227,130 @@ Permissive 7-7
  ケーブルカー
  Permissive 7-7
  鉄輪式リニアモーター
+######################## 軽便鉄道についての
+######################## way_constraint
+Prohibitive 8-0
+併用軌道
+Prohibitive 8-1
+地下鉄
+Prohibitive 8-2
+直流電化 600V
+Prohibitive 8-3
+直流電化 750V
+Prohibitive 8-4
+直流電化 1500V
+Prohibitive 8-5
+交流電化 20kV
+Prohibitive 8-6
+交流電化 25kV
+Permissive 8-0
+762mm軌間
+Permissive 8-1
+馬車軌
+Permissive 8-2
+標準軌
+Permissive 8-3
+架線
+Permissive 8-4
+第三軌条 直流電化 600V
+Permissive 8-5
+第三軌条 直流電化 750V
+Permissive 8-6
+ケーブルカー
+Permissive 8-7
+未定
+ Prohibitive 8-0
+ 併用軌道
+ Prohibitive 8-1
+ 地下鉄
+ Prohibitive 8-2
+ 直流電化 600V
+ Prohibitive 8-3
+ 直流電化 750V
+ Prohibitive 8-4
+ 直流電化 1500V
+ Prohibitive 8-5
+ 交流電化 20kV
+ Prohibitive 8-6
+ 交流電化 25kV
+ Permissive 8-0
+ 762mm軌間o
+ Permissive 8-1
+ 馬車軌
+ Permissive 8-2
+ 標準軌
+ Permissive 8-3
+ 架線
+ Permissive 8-4
+ 第三軌条 直流電化 600V
+ Permissive 8-5
+ 第三軌条 直流電化 750V
+ Permissive 8-6
+ ケーブルカー
+ Permissive 8-7
+ 未定
+######################## 飛行機についての
+######################## way_constraint
+Prohibitive 16-0
+小型機[25m幅滑走路]
+Prohibitive 16-1
+中型機[45m幅滑走路]
+Prohibitive 16-2
+大型機[60m幅滑走路]
+Prohibitive 16-3
+未定
+Prohibitive 16-4
+未定
+Prohibitive 16-5
+未定
+Prohibitive 16-6
+未定
+Permissive 16-0
+未定
+Permissive 16-1
+未定
+Permissive 16-2
+未定
+Permissive 16-3
+未定
+Permissive 16-4
+未定
+Permissive 16-5
+未定
+Permissive 16-6
+未定
+Permissive 16-7
+未定
+ Prohibitive 16-0
+ 小型機[25m幅滑走路]
+ Prohibitive 16-1
+ 中型機[45m幅滑走路]
+ Prohibitive 16-2
+ 大型機[60m幅滑走路]
+ Prohibitive 16-3
+ 未定
+ Prohibitive 16-4
+ 未定
+ Prohibitive 16-5
+ 未定
+ Prohibitive 16-6
+ 未定
+ Permissive 16-0
+ 未定
+ Permissive 16-1
+ 未定
+ Permissive 16-2
+ 未定
+ Permissive 16-3
+ 未定
+ Permissive 16-4
+ 未定
+ Permissive 16-5
+ 未定
+ Permissive 16-6
+ 未定
+ Permissive 16-7
+ 未定
 boxes
 箱
 bags

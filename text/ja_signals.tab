@@ -19,6 +19,12 @@ signal_track_4_aspect_calling-on-signal
 4灯式場内信号機(誘導信号機付き)
 signal_track_4_aspect_homesignal
 4灯式場内多進路信号機
+signal_track_5_aspect_startsignal
+5灯式出発・場内信号機
+signal_track_5_aspect_blocksignal
+5灯式閉塞信号機
+signal_track_5_aspect_homesignal
+5灯式場内多進路信号機
 signal_track_2_aspect_startsignal
 2灯式出発・場内信号機(特殊自動閉塞式(軌道回路検知式))
 signal_track_2_aspect_distantsignal
@@ -79,8 +85,16 @@ signal_semaphore_distant_narrowgauge
 腕木式遠方信号機
 signal_absolute_color_distant_narrowgauge
 色灯式遠方信号機
+signal_absolute_homedistant_narrowgauge
+色灯式場内信号機(通過信号機付き)
+signal_absolute_color_selective_homedistant_narrowgauge
+色灯式場内多進路信号機(通過信号機付き)
 signal_absolute_color_stop_narrowgauge
 色灯式出発・場内信号機
+signal_absolute_color_homesignal_narrowgauge
+色灯式場内多進路信号機
+signal_mechanical_shuntsignal_narrowgauge
+機械式入換信号機
 signal_semaphore_tablet_start
 腕木式出発信号機(タブレット授器付き)
 signal_semaphore_tablet_catcher
@@ -94,16 +108,26 @@ signal_semaphore_tablet_catcher_narrowgauge
 signal_track_staff-sign_narrowgauge
 スタフ交換位置標識
 signal_cab_signal_monorail
-地上整合器
+信号地上整合器
 signal_cab_home_signal_monorail
-地上整合器(多進路)
+信号地上整合器(多進路)
 signal_road_roadsignal
 道路信号(横)
 signal_road_oneway
-一方通行標識
+規制標識 [進入禁止]
+signal_road_oneway2
+規制標識 [一方通行]
 signal_road_choose
-進路振分標識
+停止位置振分標識
+signal_expway_min50
+規制標識 [自動車専用・最低速度50km/h]
 signal_road_cross
 案内標識 [方面、方向及び道路の通称名] (一方通行)
+signal_road_cross_old
+案内標識 [方面、方向及び距離] (一方通行)
 signal_road_guide_106A
 案内標識 [方面及び距離]
+signal_road_national_route
+案内標識 [国道番号]
+signal_navigate-sign
+案内誘導灯(一方通行)
