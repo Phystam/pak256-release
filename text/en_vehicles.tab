@@ -18,13 +18,21 @@ Subaru Sambar 550
 vehicle_road_fusou_fu
 Mitsubishi Fuso FU
 jnr_kiha40
-JNR kiha 40 series #500 [Passenger]
-jnr_kiha58-back
-JNR kiha 58 series (back) [Express]
+JNR DMU kiha 40 series #500 [Local]
 jnr_kiha58-front
-JNR kiha 58 series [Express]
+JNR DMU kiha 58 series [Express]
+jnr_kiha58-back
+JNR DMU kiha 58 series (back) [Express]
+jnr_kiha28-front
+JNR DMU kiha 28 series [Express]
+jnr_kiha28-back
+JNR DMU kiha 28 series (back) [Express]
+jnr_kiyu25-front
+JNR DMU kiyu 25 series [Post]
+jnr_kiyu25-back
+JNR DMU kiyu 25 series (back) [Post]
 jnr_dd51
-JNR DD51 series #500 [Diesel locomotive]
+JNR DL DD51 series #500
 jnr_wamu80000
 JNR wamu 80000 series [Box]
 jnr_remu5000
@@ -48,16 +56,46 @@ JNR oyu 61 series [Travelling post office]
 nagoya_2000
 Nagoya city tram 2000 series
 tokyomonorail_500_front
-Tokyo monorail 500 series (front)
+Tokyo monorail 500 series
 tokyomonorail_500_back
 Tokyo monorail 500 series (back)
 tokyomonorail_600_front
-Tokyo monorail 600 series (front)
+Tokyo monorail 600 series
 tokyomonorail_600_back
 Tokyo monorail 600 series (back)
+tokyomonorail_700mc1_front
+Tokyo monorail 700 series
+tokyomonorail_700mc1_back
+Tokyo monorail 700 series (back)
+tokyomonorail_800_front
+Tokyo monorail 800 series
+tokyomonorail_800_back
+Tokyo monorail 800 series (back)
 vehicle_arp3
 FRP fishing boat
 vehicle_kamome_no3
 Kamome No.3
 vehicle_air_ys11
 YS-11
+jeffrey_L
+Kusakaru electric railway EL deki 12 series
+atami_sl
+Atami railway 0-4-0T SL
+okinawa_sl
+Okinawa prefectural railway SL 0-4-2T
+kato-diesel-P
+Kato works P series DL
+kusakaru-hoha30
+Kusakaru electric railway hoha 30 series [3rd class passenger]
+kusakaru-kowafu30
+Kusakaru electric railway kowafu 30 series [Box]
+kusakaru-hoto100
+Kusakaru electric railway hoto 100 series [Coal]
+kusakaru-to20
+Kusakaru electric railway to 20 series [Coal]
+kusakaru-moha100
+Kusakaru electric railway EMU moha 100 series [3rd class passenger]
+kubiki-hoji3
+Kubiki railway DMU hoji 3 series [3rd class passenger]
+
+

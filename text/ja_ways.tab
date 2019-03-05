@@ -7,6 +7,8 @@ way_road_cityroad
 アスファルトの一般道
 way_road_cityroad_diagonal
 アスファルトの一般道(対角)
+way_road_parking
+コンクリートの駐車場構内
 way_power_powerline
 送電線
 way_tramtrack_narrow
@@ -27,3 +29,17 @@ way_monorail_trackbed
 モノレール・新交通システム路盤
 way_track_mono-track_elevated
 モノレール・案内軌条式鉄道の橋脚
+way_track_narrowgauge-track
+軽便鉄道線路
+way_track_narrowgauge-track-weak
+軽便鉄道線路
+way_track_narrowgauge-track_elevated_concrete
+軽便鉄道高架線路
+way_air_runway_25m_512
+25m幅滑走路
+way_air_apron
+コンクリートエプロン
+way_air_taxiway
+25m幅誘導路
+way_air_apronway
+エプロン誘導路

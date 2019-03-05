@@ -7,6 +7,8 @@ way_road_cityroad
 Asphalt city road
 way_road_cityroad_diagonal
 Asphalt city road (diagonal)
+way_road_parking
+Concrete parking
 way_power_powerline
 Power Line
 way_tramtrack_narrow
@@ -27,3 +29,17 @@ way_monorail_trackbed
 Monorail trackbed
 way_track_mono-track_elevated
 Monorail elevated track piers
+way_track_narrowgauge-track
+Narrowgauge track (762mm gauge)
+way_track_narrowgauge-track-weak
+Narrowgauge track (762mm gauge)
+way_track_narrowgauge-track_elevated_concrete
+Narrowgauge elevated track (762mm gauge)
+way_air_runway_25m_512
+Runway (25m width)
+way_air_apron
+Concrete apron
+way_air_taxiway
+Taxiway
+way_air_apronway
+Apron taxiway

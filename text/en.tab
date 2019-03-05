@@ -215,6 +215,72 @@ Permissive 7-7
  Funicular
  Permissive 7-7
  *not used*
+######################## 路面電車についての
+######################## way_constraint
+Prohibitive 8-0
+Tram track
+Prohibitive 8-1
+Subway
+Prohibitive 8-2
+DC 600V
+Prohibitive 8-3
+DC 750V
+Prohibitive 8-4
+DC 1500V
+Prohibitive 8-5
+AC 20kV
+Prohibitive 8-6
+AC 25kV
+Prohibitive 8-7
+Funicular
+Permissive 8-0
+762mm gauge (2ft 6in)
+Permissive 8-1
+1372mm gauge (4ft 6in)
+Permissive 8-2
+Standard gauge
+Permissive 8-3
+Catenary
+Permissive 8-4
+3rd rail DC 600V
+Permissive 8-5
+3rd rail DC 750V
+Permissive 8-6
+Funicular
+Permissive 8-7
+*not used*
+ Prohibitive 8-0
+ Tram track
+ Prohibitive 8-1
+ Subway
+ Prohibitive 8-2
+ DC 600V
+ Prohibitive 8-3
+ DC 750V
+ Prohibitive 8-4
+ DC 1500V
+ Prohibitive 8-5
+ AC 20kV
+ Prohibitive 8-6
+ AC 25kV
+ Prohibitive 8-7
+ Funicular
+ Permissive 8-0
+ 1067mm gauge (3ft 6in)
+ Permissive 8-1
+ 1372mm gauge (4ft 6in)
+ Permissive 8-2
+ Standard gauge
+ Permissive 8-3
+ Catenary
+ Permissive 8-4
+ 3rd rail DC 600V
+ Permissive 8-5
+ 3rd rail DC 750V
+ Permissive 8-6
+ Funicular
+ Permissive 8-7
+ *not used*
 ###############################################
 CATEGORY_01
 Mixed cargo

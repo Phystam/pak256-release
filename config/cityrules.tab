@@ -18,7 +18,7 @@
 # for pak256 by Phystam/Gobanboshi
 
 # how far cities should be minimum apart (default 16)
-minimum_city_distance = 16
+minimum_city_distance = 20
 
 # at which number of inhabitants we need a new market?
 industry_increase_every = 7500
@@ -42,23 +42,33 @@ bridge_success_percentage = 20
 #
 
 # avoid building next to industry
+#res_start_score = 0
+#res_near_ind = -2
+#res_near_com = 0
+#res_near_res = 6
 res_start_score = 0
 res_near_ind = -8
 res_near_com = 0
 res_near_res = 8
 
 # everywhere is good, next to com best
+#com_start_score = 0
+#com_near_ind = 1
+#com_near_com = 4
+#com_near_res = 1
 com_start_score = -10
 com_near_ind = 1
 com_near_com = 8
 com_near_res = 1
-
 # next to res means expensive filters and no truck after 10 pm => avoid this ...
+#ind_start_score = 0
+#ind_near_ind = 4
+#ind_near_com = 0
+#ind_near_res = -2
 ind_start_score = 0
 ind_near_ind = 8
 ind_near_com = 0
 ind_near_res = -8
-
 
 #
 # now the actual building rules. They can be up to 7x7.

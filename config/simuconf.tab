@@ -11,7 +11,9 @@
 # simutrans/pakfilefolder/config/simuconf.tab
 # ~/simutrans/simuconf.tab (readed a second time, s.a.)
 #
+################################# General gameplay settings ################################
 
+pak_overrides_savegame_settings=1
 
 ################################# General gameplay settings ################################
 
@@ -285,23 +287,23 @@ meters_per_tile = 25
 # reduces to 20% of its maximum at tolerable_comfort_short_minutes, and does not decrease further
 # thereafter. 
 
-# 0:30h
-tolerable_comfort_short_minutes=30
-tolerable_comfort_short=10
+# l:00h, comfort=10 -> min=15
+tolerable_comfort_short_minutes=60
+tolerable_comfort_short=40
 
-# 1:00h
-tolerable_comfort_median_short_minutes=60
-tolerable_comfort_median_short=20
+# 3:00h comfort=10 -> min=30
+tolerable_comfort_median_short_minutes=180
+tolerable_comfort_median_short=80
 
-# 2:30h
-tolerable_comfort_median_median_minutes=150
-tolerable_comfort_median_median=50
+# 6:00h comfort=10 -> min=45
+tolerable_comfort_median_median_minutes=360
+tolerable_comfort_median_median=120
 
-# 6:00h
-tolerable_comfort_median_long_minutes=360
-tolerable_comfort_median_long=120
+# 12:00h comfort=10 -> min=60
+tolerable_comfort_median_long_minutes=720
+tolerable_comfort_median_long=180
 
-# 12:00h
+# 24:00h comfort=10 -> min=120
 tolerable_comfort_long_minutes=720
 tolerable_comfort_long=240
 
@@ -548,7 +550,7 @@ allow_making_public = 0
 # This setting determines whether aircraft can land and take off
 # at airports without control towers. 1 = yes; 0 = no.
 
-allow_airports_without_control_towers = 1
+allow_airports_without_control_towers = 0
 
 # If this is set to 2, single height bridges cannot be built over ways.
 
@@ -688,7 +690,7 @@ cost_depot_air  = 7000
 cost_alter_land=140000
 cost_set_slope=140000
 cost_remove_tree=3000
-cost_buy_land=140000
+cost_buy_land=1400
 cost_multiply_remove_haus=5000
 cost_multiply_remove_field=400000
 
@@ -729,7 +731,7 @@ forge_cost_water =176000
 forge_cost_monorail =70400
 forge_cost_maglev =150800
 forge_cost_tram =35200
-forge_cost_narrowgauge =56320
+forge_cost_narrowgauge =25200
 forge_cost_air = 176000
 
 # The parallel ways forge cost percentage is the percentage of the
@@ -932,7 +934,7 @@ max_diversion_tiles = 16
 # This only applies to roads.
 # 48 km/h = 30mph
 
-town_road_speed_limit = 48
+town_road_speed_limit = 30
 
 ################################ Vehicle settings ##############################
 
@@ -1144,7 +1146,7 @@ river_type[0] = way_water_river1
 river_number = 128
 
 # river min length
-river_min_length = 2
+river_min_length = 16
 
 # river max length
 river_max_length = 4096
@@ -1168,11 +1170,11 @@ forest_base_size = 36
 
 # Map size divisor - smaller it is the larger are individual forests
 # この値を小さくするとそれぞれの森のサイズは大きくなる
-forest_map_size_divisor = 128
+forest_map_size_divisor = 64
 
 # Forest count divisor - smaller it is, the more forest are generated
 # この値が小さくなると、より多くの森が生成される
-forest_count_divisor = 64
+forest_count_divisor = 32
 
 # Forest boundary sharpenss: 0 - perfectly sharp boundaries, 20 - very blurred
 # 森の境界の幅 
@@ -1203,7 +1205,7 @@ no_trees = 0
 
 # if set, no lakes will be created at all
 # 湖を生成しない
-no_lakes = 0
+no_lakes = 1
 
 ################################### Network settings ##############################
 

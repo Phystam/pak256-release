@@ -19,6 +19,12 @@ signal_track_4_aspect_calling-on-signal
 4-aspect home signal with call-on signal
 signal_track_4_aspect_homesignal
 4-aspect home junction signal
+signal_track_5_aspect_startsignal
+5-aspect starting/home signal
+signal_track_5_aspect_blocksignal
+5-aspect block signal
+signal_track_5_aspect_homesignal
+5-aspect home junction signal
 signal_track_2_aspect_startsignal
 2-aspect starting/home signal (Restricted automatic block system)
 signal_track_2_aspect_distantsignal
@@ -29,6 +35,14 @@ signal_track_shunt_signal
 Position light shunt signal
 signal_track_shunt_junctionsignal
 Position light shunt junction signal
+signal_track_3_aspect_startsignal_narrowgauge
+3-aspect starting/home signal
+signal_track_3_aspect_blocksignal_narrowgauge
+3-aspect block signal
+signal_track_3_aspect_calling-on-signal_narrowgauge
+3-aspect home signal with call-on signal
+signal_track_3_aspect_homesignal_narrowgauge
+3-aspect home junction signal
 signal_no-entry-sign
 No entry sign (oneway)
 signal_no-entry-sign_monorail
@@ -79,8 +93,16 @@ signal_semaphore_distant_narrowgauge
 Semaphore distant signal
 signal_absolute_color_distant_narrowgauge
 Color light distant signal
+signal_absolute_homedistant_narrowgauge
+Color light combined signal
+signal_absolute_color_selective_homedistant_narrowgauge
+Color light combined junction signal
 signal_absolute_color_stop_narrowgauge
 Color light starting/home signal
+signal_absolute_color_homesignal_narrowgauge
+Color light home junction signal
+signal_mechanical_shuntsignal_narrowgauge
+Mechanical shunt signal
 signal_semaphore_tablet_start
 Semaphore starting signal with tablet server
 signal_semaphore_tablet_catcher
@@ -97,13 +119,29 @@ signal_cab_signal_monorail
 Signalling transponder
 signal_cab_home_signal_monorail
 Signalling transponder (Junction)
+signal_cab_signal_atc_block
+ATC signalling transponder
 signal_road_roadsignal
-Traffic light signals (horizontal)
+Traffic light (horizontal)
 signal_road_oneway
-Oneway sign
+No entry
+signal_road_caution
+Caution sign
+signal_road_oneway2
+Oneway
+signal_road_oneway3
+Oneway paint
 signal_road_choose
-Choose sign
+Stop choose
+signal_expway_min50
+Motor vehicles only / min. speed limit 50km/h
 signal_road_cross
 "Guide sign [Direction
+signal_road_cross_old
+Guide sign [Direction and distance] (oneway)
 signal_road_guide_106A
 Guide sign [Direction and distance] 
+signal_road_national_route
+Guide sign [National route number] 
+signal_navigate-sign
+Guidance sign (oneway)

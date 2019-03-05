@@ -5,9 +5,19 @@
 #------------------------------------------#
 wayobject_tramcatenary1
 DC 600V tram catenary
+wayobject_narrowgauge-catenary1
+DC 600V narrowgauge catenary
 wayobject_monorail
 Monorail track (ALWEG)
 wayobj_center_pole
 Twoway highway centerline
 wayobj_center_pole_wo_guard
 Twoway highway centerline w/o fence
+wayobj_touchdown-zone-marking-single
+Touchdown zone marking (single)
+wayobj_aiming-point-marking-single
+Aiming point marking (for 25m width)
+wayobj_aiming-point-marking-double
+Touchdown zone marking (double)
+wayobj_runway-center-marking-double
+Runway center marking

@@ -11,6 +11,8 @@ station_road_busstop-post-with-waiting-room
 Regular bus stop and mail post with waiting room [suburban type]
 station_road_truck_parking_area
 Truck parking area
+station_road_truck_parking_area2
+Truck parking area 2
 station_road_truck_yard01
 Truck yard
 platform_countryside_bothside
@@ -21,11 +23,29 @@ platform_countryside_bothside_roof
 Countryside station platform w/ roof bothside
 platform_countryside_oneside_roof
 Countryside station platform w/ roof oneside
+platform_western_bothside_roof
+Western station platform w/ roof bothside
+platform_western_oneside_roof
+Western station platform w/ roof oneside
 platform_storage_track_both_side
 Storage track
 platform_temporary_platform_front
 Temporary platform (Exit front)
 platform_temporary_platform_back
+Temporary platform (Exit back)
+platform_countryside_bothside_narrowgauge
+Countryside station platform w/o roof bothside
+platform_countryside_oneside_narrowgauge
+Countryside station platform w/o roof oneside
+platform_countryside_bothside_roof_narrowgauge
+Countryside station platform w/ roof bothside
+platform_countryside_oneside_roof_narrowgauge
+Countryside station platform w/ roof oneside
+platform_storage_track_both_side_narrowgauge
+Storage track
+platform_temporary_platform_front_narrowgauge
+Temporary platform (Exit front)
+platform_temporary_platform_back_narrowgauge
 Temporary platform (Exit back)
 platform_tram_stop_oneside
 Tram stop oneside
@@ -34,12 +54,30 @@ Tram stop bothside
 platform_monorail-station-osaka
 Monorail station
 station_small_wooden_station1
-Small wooden station No.1
+Small wooden station 1
 station_small_postoffice1
 General post office
+station_medium_postoffice1
+Large general post office
+station_medium_wooden_station1
+Medium wooden station 1
+station_medium_western_station1
+Medium western station 1
 station_large_wooden_station1
-Large wooden station 01
+Large wooden station 1
+station_small_wooden_station1_narrowgauge
+Small wooden station 1
+station_medium_wooden_station1_narrowgauge
+Medium wooden station 1
+air_control_tower1
+Control tower
+air_regional_terminal
+Regional airport terminal w/ control tower
 dock_simgledock
 Port (single slope)
 dock_doubledock
 Port (double slope)
+air_apron_stop
+Apron stop
+air_apron_stop_with_trap1
+Apron stop with trap

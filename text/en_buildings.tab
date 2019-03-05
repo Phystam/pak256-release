@@ -11,15 +11,21 @@ building_track_depot_tram-depot
 Tram depot
 building_monorail_depot_monorail-depot
 Monorail depot
+building_narrowgauge_old-depot
+Narrowgauge wooden depot
 building_smallshipyard
 Small Shipyard
+building_hanger
+Small Hanger
 building_tow_townhall-1875
 Old village hall
+building_tow_townhall-town01
+Modern town hall
 building_ind_ricefield
 rice field (ind)
 building_com_ricefield
 rice field (com)
-building_com_ricefield
+building_res_ricefield
 rice field (res)
 building_citybuilding_farmers_house_A01
 farmers' house with red tin roof
@@ -28,13 +34,21 @@ farmers' house with blue tin roof
 building_citybuilding_farmers_house_A03
 farmers' house with green tin roof
 building_citybuilding_apartment_complex_A01
-Apartment complex
+Apartment complex A
+building_citybuilding_apartment_complex_B01
+Apartment complex B01
+building_citybuilding_apartment_complex_B02
+Apartment complex B02
 building_citybuilding_wooden_commercial_A
 Wooden commercial buildings A
 building_citybuilding_wooden_hotel_A
 Wooden hotel
 building_citybuilding_city_bank_branch
 City bank branch
+building_citybuilding_office_building01
+Nakagawa electric company building
+building_citybuilding_office_building02
+Chikka whisky building
 building_cur_kobe15th
 Foreigner resident
 building_cur_ikegami-hoto
