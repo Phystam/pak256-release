@@ -1143,7 +1143,7 @@ cursor_overlay_color = 20
 river_type[0] = way_water_river1
 
 # The number of rivers
-river_number = 128
+river_number = 2
 
 # river min length
 river_min_length = 16
