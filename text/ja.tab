@@ -355,8 +355,16 @@ boxes
 箱
 bags
 袋
+logs
+本
 bundles
-袋
+束
+quintal
+キンタル
+commuters
+人 通勤者
+visitors
+人 訪問者
 special freight
 専用貨物
 CATEGORY_01
@@ -365,6 +373,10 @@ CATEGORY_02
 冷蔵貨物
 CATEGORY_03
 ばら積み貨物
+CATEGORY_04
+長物貨物
+CATEGORY_05
+液体貨物
 Track
 線路
 Bridge/Tunnel
@@ -405,3 +417,11 @@ Clear
 取消
 \nMAY USE: 
 \n通行可能: 
+Railcar_tab
+気動車
+overtaking
+車線
+Visitors this year:
+今年の訪問者数:
+Commuters this year:
+今年の通勤者数:

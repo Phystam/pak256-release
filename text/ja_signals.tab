@@ -5,18 +5,30 @@
 #------------------------------------------#
 signal_track_3_aspect_startsignal
 3灯式出発・場内信号機
+signal_track_3_aspect_startsignal-underground
+地下用3灯式出発・場内信号機
 signal_track_3_aspect_blocksignal
 3灯式閉塞信号機
 signal_track_3_aspect_calling-on-signal
 3灯式場内信号機(誘導信号機付き)
 signal_track_3_aspect_homesignal
 3灯式場内多進路信号機
+signal_track_semaphore_uq_3_aspect_startsignal
+上向三位式腕木式出発・場内信号機
+signal_track_semaphore_uq_3_aspect_blocksignal
+上向三位式腕木式閉塞信号機
+signal_track_semaphore_uq_2_aspect_distantsignal
+上向二位式腕木式遠方信号機
 signal_track_4_aspect_startsignal
 4灯式出発・場内信号機
+signal_track_4_aspect_startsignal-underground
+地下用4灯式出発・場内信号機
 signal_track_4_aspect_blocksignal
 4灯式閉塞信号機
 signal_track_4_aspect_calling-on-signal
 4灯式場内信号機(誘導信号機付き)
+signal_track_4_aspect_calling-on-signal-underground
+地下用4灯式場内信号機(誘導信号機付き)
 signal_track_4_aspect_homesignal
 4灯式場内多進路信号機
 signal_track_5_aspect_startsignal
@@ -31,6 +43,8 @@ signal_track_2_aspect_distantsignal
 2灯式遠方信号機
 signal_track_2_aspect_homesignal
 2灯式場内多進路信号機
+signal_disc_2_aspect_startsignal
+二位式円板式閉塞信号機
 signal_track_shunt_signal
 灯列式入換信号機
 signal_track_shunt_junctionsignal
@@ -133,6 +147,10 @@ signal_road_oneway3
 指示標示 [進行方向]
 signal_road_choose
 停止位置振分標識
+signal_road_end_of_choose
+停止位置振分終了標識
+signal_private_gate
+門
 signal_expway_min50
 規制標識 [自動車専用・最低速度50km/h]
 signal_road_cross

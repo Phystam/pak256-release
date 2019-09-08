@@ -11,26 +11,102 @@ vehicle_road_mitsubishi-mp117m-jnr
 三菱MP117M 国鉄バス
 vehicle_road_nissan-diesel-tw50
 日産ディーゼルTW50
+vehicle_road_isuzu-tw-wood
+いすゞ TW
 vehicle_road_subaru_sambar-550
 スバルサンバー550
 vehicle_road_subaru_sambar-550-mail
-スバルサンバー550
-vehicle_road_fusou_fu
-三菱ふそうFU
+スバルサンバー550 [郵便]
+vehicle_road_fusou_fu_cool
+三菱ふそうFU [保冷車]
+vehicle_road_fusou_fu_dryvan
+三菱ふそうFU [ドライバン]
 jnr_kiha40
-国鉄 キハ40形気動車 500番台
+国鉄 キハ40形一般型気動車 500番台
 jnr_kiha58-front
-国鉄 キハ58形気動車 [急行型]
+国鉄 キハ58形急行型気動車
 jnr_kiha58-back
-国鉄 キハ58形気動車[後]
+国鉄 キハ58形急行型気動車 [後]
 jnr_kiha28-front
-国鉄 キハ28形気動車 [急行型]
+国鉄 キハ28形急行型気動車
 jnr_kiha28-back
-国鉄 キハ28形気動車 [急行型][後]
+国鉄 キハ28形急行型気動車 [後]
 jnr_kiyu25-front
 国鉄 キユ25形郵便気動車
 jnr_kiyu25-back
-国鉄 キユ25形郵便気動車[後]
+国鉄 キユ25形郵便気動車 [後]
+jnr_kumoha103-front-skyblue
+国鉄 クモハ103形通勤型電車 (スカイブルー)
+jnr_kuha103-front-skyblue
+国鉄 クハ103形通勤型電車 (スカイブルー)
+jnr_kuha103-back-skyblue
+国鉄 クハ103形通勤型電車 (スカイブルー) (後)
+jnr_moha103-skyblue
+国鉄 モハ103形通勤型電車 (スカイブルー)
+jnr_moha102-skyblue
+国鉄 モハ102形通勤型電車 (スカイブルー)
+jnr_saha103-skyblue
+国鉄 サハ103形通勤型電車 (スカイブルー)
+jnr_kumoha103-front-limegreen
+国鉄 クモハ103形通勤型電車 (ウグイス)
+jnr_kuha103-front-limegreen
+国鉄 クハ103形通勤型電車 (ウグイス)
+jnr_kuha103-back-limegreen
+国鉄 クハ103形通勤型電車 (ウグイス) (後)
+jnr_moha103-limegreen
+国鉄 モハ103形通勤型電車 (ウグイス)
+jnr_moha102-limegreen
+国鉄 モハ102形通勤型電車 (ウグイス)
+jnr_saha103-limegreen
+国鉄 サハ103形通勤型電車 (ウグイス)
+jnr_kumoha103-front-canaria
+国鉄 クモハ103形通勤型電車 (カナリア)
+jnr_kuha103-front-canaria
+国鉄 クハ103形通勤型電車 (カナリア)
+jnr_kuha103-back-canaria
+国鉄 クハ103形通勤型電車 (カナリア) (後)
+jnr_moha103-canaria
+国鉄 モハ103形通勤型電車 (カナリア)
+jnr_moha102-canaria
+国鉄 モハ102形通勤型電車 (カナリア)
+jnr_saha103-canaria
+国鉄 サハ103形通勤型電車 (カナリア)
+jnr_kumoha103-front-orange
+国鉄 クモハ103形通勤型電車 (オレンジ)
+jnr_kuha103-front-orange
+国鉄 クハ103形通勤型電車 (オレンジ)
+jnr_kuha103-back-orange
+国鉄 クハ103形通勤型電車 (オレンジ) (後)
+jnr_moha103-orange
+国鉄 モハ103形通勤型電車 (オレンジ)
+jnr_moha102-orange
+国鉄 モハ102形通勤型電車 (オレンジ)
+jnr_saha103-orange
+国鉄 サハ103形通勤型電車 (オレンジ)
+jnr_kumoha103-front-emerald
+国鉄 クモハ103形通勤型電車 (エメラルド)
+jnr_kuha103-front-emerald
+国鉄 クハ103形通勤型電車 (エメラルド)
+jnr_kuha103-back-emerald
+国鉄 クハ103形通勤型電車 (エメラルド) (後)
+jnr_moha103-emerald
+国鉄 モハ103形通勤型電車 (エメラルド)
+jnr_moha102-emerald
+国鉄 モハ102形通勤型電車 (エメラルド)
+jnr_saha103-emerald
+国鉄 サハ103形通勤型電車 (エメラルド)
+jnr_kuha481-300-front
+国鉄 クハ481形特急型電車 300番台
+jnr_kuha481-300-back
+国鉄 クハ481形特急型電車 300番台 [後]
+jnr_moha484-300
+国鉄 モハ484形特急型電車 200番台
+jnr_moha485-300
+国鉄 モハ485形特急型電車 200番台
+jnr_saro481
+国鉄 サロ481形特急型電車 300番台 [グリーン車]
+jnr_sashi481
+国鉄 サシ481形特急型電車 [食堂車]
 jnr_dd51
 国鉄 DD51形ディーゼル機関車 500番台
 jnr_wamu80000
@@ -41,6 +117,8 @@ jnr_yo5000
 国鉄 ヨ5000形貨車 [車掌車]
 jnr_seki3000
 国鉄 セキ3000形貨車 [石炭車]
+jnr_chiki1500
+国鉄 チキ1500形貨車 [長物車]
 jnr_ohafu61
 国鉄 オハフ61形客車 [3等座席緩急車]
 jnr_naha20
@@ -55,22 +133,40 @@ jnr_oyu61
 国鉄 オユ61形客車 [郵便車取扱便]
 nagoya_2000
 名古屋市電 2000形
+tokyomonorail_100_front
+東京モノレール 100形電車
+tokyomonorail_100_back
+東京モノレール 100形電車 (後)
+tokyomonorail_200_100
+東京モノレール 200形電車
+tokyomonorail_200_300_350
+東京モノレール 200形電車
+tokyomonorail_200_350_300
+東京モノレール 200形電車
+tokyomonorail_300_front
+東京モノレール 300形電車
+tokyomonorail_300_back
+東京モノレール 100形電車 (後)
+tokyomonorail_350_front
+東京モノレール 350形電車
+tokyomonorail_350_back
+東京モノレール 350形電車 (後)
 tokyomonorail_500_front
-東京モノレール 500形
+東京モノレール 500形電車
 tokyomonorail_500_back
-東京モノレール 500形 (後)
+東京モノレール 500形電車 (後)
 tokyomonorail_600_front
-東京モノレール 600形
+東京モノレール 600形電車
 tokyomonorail_600_back
-東京モノレール 600形 (後)
+東京モノレール 600形電車 (後)
 tokyomonorail_700mc1_front
-東京モノレール 700形
+東京モノレール 700形電車
 tokyomonorail_700mc1_back
-東京モノレール 700形 (後)
+東京モノレール 700形電車 (後)
 tokyomonorail_800_front
-東京モノレール 800形
+東京モノレール 800形電車
 tokyomonorail_800_back
-東京モノレール 800形 (後)
+東京モノレール 800形電車 (後)
 vehicle_arp3
 FRP漁船
 vehicle_kamome_no3
@@ -84,18 +180,26 @@ atami_sl
 okinawa_sl
 沖縄県営鉄道 0-4-2T 1形 蒸気機関車
 kato-diesel-P
-加藤製作所 P型ディーゼル機関車
+加藤製作所 P型ディーゼル機関車 (水色)
+kato-diesel-P-green
+加藤製作所 P型ディーゼル機関車 (緑色)
 kusakaru-hoha30
 草軽電鉄 ホハ30形客車
 kusakaru-kowafu30
 草軽電鉄 コワフ30形貨車 [有蓋車]
 kusakaru-hoto100
 草軽電鉄 ホト100形貨車 [無蓋車]
+kiso-unzai
+木曽森林鉄道 運材車
 kusakaru-to20
 草軽電鉄 ト20形貨車 [無蓋車]
 kusakaru-moha100
 草軽電鉄 モハ100形電車
 kubiki-hoji3
 頸城鉄道 ホジ3形 ディーゼル気動車
-
-
+citycar_toyota_crown_s5_city
+トヨタクラウンS5 グリーン
+citycar_toyota_crown_s5_police
+トヨタクラウンS5 パトカー
+citycar_toyota_crown_s5_black
+トヨタクラウンS5 ブラック

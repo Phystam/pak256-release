@@ -19,6 +19,18 @@ platform_countryside_bothside
 Countryside station platform w/o roof bothside
 platform_countryside_oneside
 Countryside station platform w/o roof oneside
+platform_countryside_crossing_bothside
+Countryside station platform w/ crossing w/o roof bothside
+platform_countryside_crossing_oneside
+Countryside station platform w/ crossing w/o roof oneside
+platform_modern_bothside
+Countryside station platform w/o roof bothside
+platform_modern_oneside
+Countryside station platform w/o roof oneside
+platform_modern_bothside_roof
+Countryside station platform w/o roof bothside
+platform_modern_oneside_roof
+Countryside station platform w/o roof oneside
 platform_countryside_bothside_roof
 Countryside station platform w/ roof bothside
 platform_countryside_oneside_roof
@@ -37,6 +49,10 @@ platform_countryside_bothside_narrowgauge
 Countryside station platform w/o roof bothside
 platform_countryside_oneside_narrowgauge
 Countryside station platform w/o roof oneside
+platform_countryside_crossing_bothside_narrowgauge
+Countryside station platform w/ crossing w/o roof bothside
+platform_countryside_crossing_oneside_narrowgauge
+Countryside station platform w/ crossing w/o roof oneside
 platform_countryside_bothside_roof_narrowgauge
 Countryside station platform w/ roof bothside
 platform_countryside_oneside_roof_narrowgauge
@@ -56,7 +72,7 @@ Monorail station
 station_small_wooden_station1
 Small wooden station 1
 station_small_postoffice1
-General post office
+General post office 1
 station_medium_postoffice1
 Large general post office
 station_medium_wooden_station1
@@ -65,6 +81,8 @@ station_medium_western_station1
 Medium western station 1
 station_large_wooden_station1
 Large wooden station 1
+station_large_concrete_station1
+Large concrete station 1
 station_small_wooden_station1_narrowgauge
 Small wooden station 1
 station_medium_wooden_station1_narrowgauge

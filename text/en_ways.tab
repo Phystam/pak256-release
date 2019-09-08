@@ -14,7 +14,9 @@ Power Line
 way_tramtrack_narrow
 Tram track (1067mm gauge)
 way_track_narrow-track
-Track (1067mm gauge)
+2nd grade track (1067mm gauge)
+way_track_narrow-track_120
+1st grade track (1067mm gauge)
 way_track_narrow-track_elevated
 Elevated concrete track (1067mm gauge)
 way_water_canal

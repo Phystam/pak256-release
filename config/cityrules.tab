@@ -27,7 +27,7 @@ industry_increase_every = 7500
 # Note: the rougher the desired landscape, the lower that this number should be.
 #
 # With low minimum_building_density, must raise renovation_percentage to avoid sprawl
-renovation_percentage = 40
+renovation_percentage = 30
 
 # cities will not grow further along existing roads, if the buildings density is lower (in percent)
 # It's surprisingly easy to get stuck at 21 with "poorly located" cities full of geographical obstacles
@@ -35,7 +35,7 @@ minimum_building_density = 20
 
 # When a city tries to extend a road along a bridge, it will only succeed this percent of the time
 # (encouraging development in the other directions first)
-bridge_success_percentage = 20
+bridge_success_percentage = 10
 
 #
 # relative affinities for certain building types which can lead to clustering of certain building types
@@ -279,8 +279,8 @@ house_20_chance = -2
 # . n .
 # . h .
 
-house_21= .h. .n. .h.
-house_21.chance = -2
+#house_21= .h. .n. .h.
+#house_21.chance = -2
 
 # “¹˜H‚©‚ç2ƒ}ƒX–Ú‚Ì”­“W
 # extention beyond a building
@@ -289,8 +289,8 @@ house_21.chance = -2
 # . . n . .
 # . . h . .
 # . s s s .
-house_22 = ..... ..... ..n.. ..h.. ..s..
-house_22.chance = -2
+#house_21 = ..... ..... ..n.. ..h.. ..s..
+#house_21.chance = -2
 
 #### R O A D S ####
 

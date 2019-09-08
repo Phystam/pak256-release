@@ -4,35 +4,111 @@
 # created by Phystam (@Phystam_hnew)     #
 #------------------------------------------#
 vehicle_road_mitsubishi-mp117m
-Mitsubishi MP117M noncolored
+Mitsubishi MP117M (noncolored)
 vehicle_road_mitsubishi-mp117m-toei
-Mitsubishi MP117M Tokyo metropolitan
+Mitsubishi MP117M (Tokyo metropolitan)
 vehicle_road_mitsubishi-mp117m-jnr
-Mitsubishi MP117M JNR
+Mitsubishi MP117M (JNR)
 vehicle_road_nissan-diesel-tw50
 Nissan Diesel TW50
+vehicle_road_isuzu-tw-wood
+Isuzu TW
 vehicle_road_subaru_sambar-550
 Subaru Sambar 550
 vehicle_road_subaru_sambar-550-mail
-Subaru Sambar 550
-vehicle_road_fusou_fu
-Mitsubishi Fuso FU
+Subaru Sambar 550 [mail]
+vehicle_road_fusou_fu_cool
+Mitsubishi Fuso FU [Cool]
+vehicle_road_fusou_fu_dryvan
+Mitsubishi Fuso FU [Dry]
 jnr_kiha40
-JNR DMU kiha 40 series #500 [Local]
+JNR General-type DMU kiha 40 series
 jnr_kiha58-front
-JNR DMU kiha 58 series [Express]
+JNR Express-type DMU Express kiha 58 series
 jnr_kiha58-back
-JNR DMU kiha 58 series (back) [Express]
+JNR Express-type DMU Express kiha 58 series (back)
 jnr_kiha28-front
-JNR DMU kiha 28 series [Express]
+JNR Express-type DMU Express kiha 28 series
 jnr_kiha28-back
-JNR DMU kiha 28 series (back) [Express]
+JNR Express-type DMU Express kiha 28 series (back)
 jnr_kiyu25-front
-JNR DMU kiyu 25 series [Post]
+JNR TPO-type DMU kiyu 25 series [Mail]
 jnr_kiyu25-back
-JNR DMU kiyu 25 series (back) [Post]
+JNR TPO-type DMU kiyu 25 series [Mail] (back)
+jnr_kumoha103-front-skyblue
+JNR Commuter-type EMU kumoha 103 series (sky blue)
+jnr_kuha103-front-skyblue
+JNR Commuter-type EMU kumoha 103 series (sky blue)
+jnr_kuha103-back-skyblue
+JNR Commuter-type EMU kumoha 103 series (sky blue) (back)
+jnr_moha103-skyblue
+JNR Commuter-type EMU kumoha 103 series (sky blue)
+jnr_moha102-skyblue
+JNR Commuter-type EMU kumoha 103 series (sky blue)
+jnr_saha103-skyblue
+JNR Commuter-type EMU kumoha 103 series (sky blue)
+jnr_kumoha103-front-limegreen
+JNR Commuter-type EMU kumoha 103 series (lime green)
+jnr_kuha103-front-limegreen
+JNR Commuter-type EMU kumoha 103 series (lime green)
+jnr_kuha103-back-limegreen
+JNR Commuter-type EMU kumoha 103 series (lime green) (back)
+jnr_moha103-limegreen
+JNR Commuter-type EMU kumoha 103 series (lime green)
+jnr_moha102-limegreen
+JNR Commuter-type EMU kumoha 103 series (lime green)
+jnr_saha103-limegreen
+JNR Commuter-type EMU kumoha 103 series (lime green)
+jnr_kumoha103-front-canaria
+JNR Commuter-type EMU kumoha 103 series (canaria)
+jnr_kuha103-front-canaria
+JNR Commuter-type EMU kumoha 103 series (canaria)
+jnr_kuha103-back-canaria
+JNR Commuter-type EMU kumoha 103 series (canaria) (back)
+jnr_moha103-canaria
+JNR Commuter-type EMU kumoha 103 series (canaria)
+jnr_moha102-canaria
+JNR Commuter-type EMU kumoha 103 series (canaria)
+jnr_saha103-canaria
+JNR Commuter-type EMU kumoha 103 series (canaria)
+jnr_kumoha103-front-orange
+JNR Commuter-type EMU kumoha 103 series (orange)
+jnr_kuha103-front-orange
+JNR Commuter-type EMU kumoha 103 series (orange)
+jnr_kuha103-back-orange
+JNR Commuter-type EMU kumoha 103 series (orange) (back)
+jnr_moha103-orange
+JNR Commuter-type EMU kumoha 103 series (orange)
+jnr_moha102-orange
+JNR Commuter-type EMU kumoha 103 series (orange)
+jnr_saha103-orange
+JNR Commuter-type EMU kumoha 103 series (orange)
+jnr_kumoha103-front-emerald
+JNR Commuter-type EMU kumoha 103 series (emerald)
+jnr_kuha103-front-emerald
+JNR Commuter-type EMU kumoha 103 series (emerald)
+jnr_kuha103-back-emerald
+JNR Commuter-type EMU kumoha 103 series (emerald) (back)
+jnr_moha103-emerald
+JNR Commuter-type EMU kumoha 103 series (emerald)
+jnr_moha102-emerald
+JNR Commuter-type EMU kumoha 103 series (emerald)
+jnr_saha103-emerald
+JNR Commuter-type EMU kumoha 103 series (emerald)
+jnr_kuha481-300-front
+JNR InterCity-type EMU kuha 481 series
+jnr_kuha481-300-back
+JNR InterCity-type EMU kuha 481 series (back)
+jnr_moha484-300
+JNR InterCity-type EMU moha 484 series
+jnr_moha485-300
+JNR InterCity-type EMU moha 485 series
+jnr_saro481
+JNR InterCity-type EMU saro 481 series [2nd class]
+jnr_sashi481
+JNR InterCity-type EMU sashi 481 series [catering]
 jnr_dd51
-JNR DL DD51 series #500
+JNR DL DD51 series
 jnr_wamu80000
 JNR wamu 80000 series [Box]
 jnr_remu5000
@@ -41,36 +117,56 @@ jnr_yo5000
 JNR yo 5000 series [Brake]
 jnr_seki3000
 JNR seki 3000 series [Coal]
+jnr_chiki1500
+JNR chiki 1500 series [Long]
 jnr_ohafu61
-"JNR ohafu 61 series [3rd class passenger
+"JNR Carriage ohafu 61 series [3rd class
 jnr_naha20
-JNR naha 20 series [2nd class passenger]
+JNR Carriage naha 20 series [2nd class]
 jnr_nahane20
-JNR nahane 20 series [2nd class sleeper]
+JNR Carriage nahane 20 series [2nd class sleeper]
 jnr_nahanefu22_back
-"JNR nahanefu 22 series (back) [2nd class sleeper
+"JNR Carriage nahanefu 22 series (back) [2nd class sleeper
 jnr_nahanefu22_front
-"JNR nahanefu 22 series (front) [2nd class sleeper
+"JNR Carriage nahanefu 22 series (front) [2nd class sleeper
 jnr_oyu61
-JNR oyu 61 series [Travelling post office]
+JNR TPO Carriage oyu 61 series [Mail]
 nagoya_2000
 Nagoya city tram 2000 series
+tokyomonorail_100_front
+Tokyo monorail EMU 100 series
+tokyomonorail_100_back
+Tokyo monorail EMU 100 series (back)
+tokyomonorail_200_100
+Tokyo monorail EMU 200 series
+tokyomonorail_200_300_350
+Tokyo monorail EMU 200 series
+tokyomonorail_200_350_300
+Tokyo monorail EMU 200 series
+tokyomonorail_300_front
+Tokyo monorail EMU 300 series
+tokyomonorail_300_back
+Tokyo monorail EMU 300 series (back)
+tokyomonorail_350_front
+Tokyo monorail EMU 350 series
+tokyomonorail_350_back
+Tokyo monorail EMU 350 series (back)
 tokyomonorail_500_front
-Tokyo monorail 500 series
+Tokyo monorail EMU 500 series
 tokyomonorail_500_back
-Tokyo monorail 500 series (back)
+Tokyo monorail EMU 500 series (back)
 tokyomonorail_600_front
-Tokyo monorail 600 series
+Tokyo monorail EMU 600 series
 tokyomonorail_600_back
-Tokyo monorail 600 series (back)
+Tokyo monorail EMU 600 series (back)
 tokyomonorail_700mc1_front
-Tokyo monorail 700 series
+Tokyo monorail EMU 700 series
 tokyomonorail_700mc1_back
-Tokyo monorail 700 series (back)
+Tokyo monorail EMU 700 series (back)
 tokyomonorail_800_front
-Tokyo monorail 800 series
+Tokyo monorail EMU 800 series
 tokyomonorail_800_back
-Tokyo monorail 800 series (back)
+Tokyo monorail EMU 800 series (back)
 vehicle_arp3
 FRP fishing boat
 vehicle_kamome_no3
@@ -84,18 +180,26 @@ Atami railway 0-4-0T SL
 okinawa_sl
 Okinawa prefectural railway SL 0-4-2T
 kato-diesel-P
-Kato works P series DL
+Kato works P series DL (skyblue)
+kato-diesel-P-green
+Kato works P series DL (green)
 kusakaru-hoha30
 Kusakaru electric railway hoha 30 series [3rd class passenger]
 kusakaru-kowafu30
 Kusakaru electric railway kowafu 30 series [Box]
 kusakaru-hoto100
 Kusakaru electric railway hoto 100 series [Coal]
+kiso-unzai
+Kiso forest railway Flatcar
 kusakaru-to20
 Kusakaru electric railway to 20 series [Coal]
 kusakaru-moha100
 Kusakaru electric railway EMU moha 100 series [3rd class passenger]
 kubiki-hoji3
 Kubiki railway DMU hoji 3 series [3rd class passenger]
-
-
+citycar_toyota_crown_s5_city
+Toyota crown S5 green
+citycar_toyota_crown_s5_police
+Toyota crown S5 police car
+citycar_toyota_crown_s5_black
+Toyota crown S5 black

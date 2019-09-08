@@ -101,7 +101,7 @@ capital_threshold_size = 50000
 # 小さめに設定しておくとマップ生成時間が短くなる。
 
 
-max_city_size = 5000
+max_city_size = 10000
 max_small_city_size = 1500
 
 # These values represent the rate at which towns grow. The raw growth number is *divided*
@@ -110,9 +110,9 @@ max_small_city_size = 1500
 # 成長率の設定。乗算ではなく除算であることに留意。
 # 長くプレイしたい時はこの値を大きめに設定し、短めにしたいときは小さめに設定すると良い。
 
-growthfactor_villages = 400
-growthfactor_cities = 300
-growthfactor_capitals = 200
+growthfactor_villages = 600
+growthfactor_cities = 500
+growthfactor_capitals = 400
 
 # Enable this to use the old algorithm for city growth from Standard.
 # NOTE: The renovation_percentage in cityrules.tab should be increased if this be done.
@@ -395,7 +395,7 @@ tpo_revenue=300
 # 0<C<32なら、
 
 
-always_prefer_car_percent = 6
+always_prefer_car_percent = 0
 congestion_density_factor = 141
 
 # This setting gives the maximum time that passengers are prepared to wait for their
@@ -790,10 +790,10 @@ speed_bonus_multiplier_percent=100
 # Each of these things can be set independently in the buildings' .dat files, but for older paksets
 # or paksets from Standard, only a "level" will be supplied, so these conversion factors are
 # important in those cases.
-population_per_level = 4
+population_per_level = 8
 visitor_demand_per_level = 4
-jobs_per_level = 3
-mail_per_level = 1
+jobs_per_level = 8
+mail_per_level = 3
 
 # These settings determine the number of passenger trips that each person makes per game month
 # and the number of items of mail that each unit of mail demand produces per month, in 1/100ths.

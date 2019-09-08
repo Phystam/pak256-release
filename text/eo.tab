@@ -1,0 +1,423 @@
+§#
+!1_DEPOT_REACHED
+Atingis veturilejon.
+east
+Oriento
+west
+Okcidento
+south
+Sudo
+north
+Nordo
+p_class[0]
+Ĝenerala klaso
+p_class[1]
+Tria klaso
+p_class[2]
+Dua klaso
+p_class[3]
+Unua klaso
+p_class[4]
+Speciala klaso
+m_class[0]
+Normala poŝtaĵo
+m_class[1]
+Rapida poŝtaĵo
+set overtaking mode
+Agordo de pretervetura reĝimo
+halt mode
+haltejoj
+oneway
+Unudirekto
+twoway
+Dudirekto
+only loading convoi
+Nur sarganta veturilo
+prohibited
+malpermesita
+inverted
+inversa
+######################## 鉄道についての
+######################## way_constraint
+Prohibitive 2-0
+Tramo
+Prohibitive 2-1
+Metroo
+Prohibitive 2-2
+KK 600V
+Prohibitive 2-3
+KK 750V
+Prohibitive 2-4
+KK 1500V
+Prohibitive 2-5
+AK 20kV
+Prohibitive 2-6
+AK 25kV
+Permissive 2-0
+1067mm ŝpuro
+Permissive 2-1
+1372mm ŝpuro
+Permissive 2-2
+1435mm ŝpuro
+Permissive 2-3
+Supertraka kontakta lineo
+Permissive 2-4
+Kontaktrelo KK 600V
+Permissive 2-5
+Kontaktrelo KK 750V
+Permissive 2-6
+Funikularo
+Permissive 2-7
+Linia motoro
+ Prohibitive 2-0
+ Tramo
+ Prohibitive 2-1
+ Metroo
+ Prohibitive 2-2
+ KK 600V
+ Prohibitive 2-3
+ KK 750V
+ Prohibitive 2-4
+ KK 1500V
+ Prohibitive 2-5
+ AK 20kV
+ Prohibitive 2-6
+ AK 25kV
+ Permissive 2-0
+ 1067mm ŝpuro
+ Permissive 2-1
+ 1372mm ŝpuro
+ Permissive 2-2
+ 1435mm ŝpuro
+ Permissive 2-3
+ Supertraka kontakta lineo
+ Permissive 2-4
+ Kontaktrelo KK 600V
+ Permissive 2-5
+ Kontaktrelo KK 750V
+ Permissive 2-6
+ Funikularo
+ Permissive 2-7
+ Linia motoro
+######################## モノレールについての
+######################## way_constraint
+Prohibitive 5-0
+Nedecidata
+Prohibitive 5-1
+Nedecidata
+Prohibitive 5-2
+Nedecidata
+Prohibitive 5-3
+Nedecidata
+Prohibitive 5-4
+Nedecidata
+Prohibitive 5-5
+Nedecidata
+Prohibitive 5-6
+Nedecidata
+Permissive 5-0
+Sidanta unurela fervojo
+Permissive 5-1
+Pendata unurela fervojo
+Permissive 5-2
+ゴムタイヤ式案内軌条
+Permissive 5-3
+ロープウェイ
+Permissive 5-4
+Nedecidata
+Permissive 5-5
+Nedecidata
+Permissive 5-6
+Nedecidata
+Permissive 5-7
+Nedecidata
+ Prohibitive 5-0
+ Sidanta unurela fervojo
+ Prohibitive 5-1
+ Pendata unurela fervojo
+ Prohibitive 5-2
+ ゴムタイヤ式案内軌条
+ Prohibitive 5-3
+ ロープウェイ
+ Prohibitive 5-4
+ Nedecidata
+ Prohibitive 5-5
+ Nedecidata
+ Prohibitive 5-6
+ Nedecidata
+ Permissive 5-0
+ Nedecidata
+ Permissive 5-1
+ Nedecidata
+ Permissive 5-2
+ Nedecidata
+ Permissive 5-3
+ Nedecidata
+ Permissive 5-4
+ Nedecidata
+ Permissive 5-5
+ Nedecidata
+ Permissive 5-6
+ Nedecidata
+ Permissive 5-7
+ Nedecidata
+######################## 路面電車についての
+######################## way_constraint
+Prohibitive 7-0
+Tramo
+Prohibitive 7-1
+Metroo
+Prohibitive 7-2
+KK 600V
+Prohibitive 7-3
+KK 750V
+Prohibitive 7-4
+KK 1500V
+Prohibitive 7-5
+AK 20kV
+Prohibitive 7-6
+AK 25kV
+Permissive 7-0
+1067mm ŝpuro
+Permissive 7-1
+1372mm ŝpuro
+Permissive 7-2
+1435mm ŝpuro
+Permissive 7-3
+Supertraka kontakta lineo
+Permissive 7-4
+Kontaktrelo KK 600V
+Permissive 7-5
+Kontaktrelo KK 750V
+Permissive 7-6
+Funikularo
+Permissive 7-7
+Linia motoro
+ Prohibitive 7-0
+ Tramo
+ Prohibitive 7-1
+ Metroo
+ Prohibitive 7-2
+ KK 600V
+ Prohibitive 7-3
+ KK 750V
+ Prohibitive 7-4
+ KK 1500V
+ Prohibitive 7-5
+ AK 20kV
+ Prohibitive 7-6
+ AK 25kV
+ Permissive 7-0
+ 1067mm ŝpuro
+ Permissive 7-1
+ 1372mm ŝpuro
+ Permissive 7-2
+ 1435mm ŝpuro
+ Permissive 7-3
+ Supertraka kontakta lineo
+ Permissive 7-4
+ Kontaktrelo KK 600V
+ Permissive 7-5
+ Kontaktrelo KK 750V
+ Permissive 7-6
+ Funikularo
+ Permissive 7-7
+ Linia motoro
+######################## 軽便鉄道についての
+######################## way_constraint
+Prohibitive 8-0
+Tramo
+Prohibitive 8-1
+Metroo
+Prohibitive 8-2
+KK 600V
+Prohibitive 8-3
+KK 750V
+Prohibitive 8-4
+KK 1500V
+Prohibitive 8-5
+AK 20kV
+Prohibitive 8-6
+AK 25kV
+Permissive 8-0
+762mm軌間
+Permissive 8-1
+1372mm ŝpuro
+Permissive 8-2
+1435mm ŝpuro
+Permissive 8-3
+Supertraka kontakta lineo
+Permissive 8-4
+Kontaktrelo KK 600V
+Permissive 8-5
+Kontaktrelo KK 750V
+Permissive 8-6
+Funikularo
+Permissive 8-7
+Linia motoro
+ Prohibitive 8-0
+ Tramo
+ Prohibitive 8-1
+ Metroo
+ Prohibitive 8-2
+ KK 600V
+ Prohibitive 8-3
+ KK 750V
+ Prohibitive 8-4
+ KK 1500V
+ Prohibitive 8-5
+ AK 20kV
+ Prohibitive 8-6
+ AK 25kV
+ Permissive 8-0
+ 762mm ŝpuro
+ Permissive 8-1
+ 1372mm ŝpuro
+ Permissive 8-2
+ 1435mm ŝpuro
+ Permissive 8-3
+ Supertraka kontakta lineo
+ Permissive 8-4
+ Kontaktrelo KK 600V
+ Permissive 8-5
+ Kontaktrelo KK 750V
+ Permissive 8-6
+ Funikularo
+ Permissive 8-7
+ Linia motoro
+######################## 飛行機についての
+######################## way_constraint
+Prohibitive 16-0
+小型機[25m幅滑走路]
+Prohibitive 16-1
+中型機[45m幅滑走路]
+Prohibitive 16-2
+大型機[60m幅滑走路]
+Prohibitive 16-3
+Nedecidata
+Prohibitive 16-4
+Nedecidata
+Prohibitive 16-5
+Nedecidata
+Prohibitive 16-6
+Nedecidata
+Permissive 16-0
+Nedecidata
+Permissive 16-1
+Nedecidata
+Permissive 16-2
+Nedecidata
+Permissive 16-3
+Nedecidata
+Permissive 16-4
+Nedecidata
+Permissive 16-5
+Nedecidata
+Permissive 16-6
+Nedecidata
+Permissive 16-7
+Nedecidata
+ Prohibitive 16-0
+ 小型機[25m幅滑走路]
+ Prohibitive 16-1
+ 中型機[45m幅滑走路]
+ Prohibitive 16-2
+ 大型機[60m幅滑走路]
+ Prohibitive 16-3
+ Nedecidata
+ Prohibitive 16-4
+ Nedecidata
+ Prohibitive 16-5
+ Nedecidata
+ Prohibitive 16-6
+ Nedecidata
+ Permissive 16-0
+ Nedecidata
+ Permissive 16-1
+ Nedecidata
+ Permissive 16-2
+ Nedecidata
+ Permissive 16-3
+ Nedecidata
+ Permissive 16-4
+ Nedecidata
+ Permissive 16-5
+ Nedecidata
+ Permissive 16-6
+ Nedecidata
+ Permissive 16-7
+ Nedecidata
+boxes
+kestoj
+bags
+sakoj
+logs
+ŝtipoj
+bundles
+aroj
+quintal
+qvintaloj
+commuters
+vizitadantoj
+visitors
+vizitantoj
+special freight
+Specialaj Ŝarĝoj
+CATEGORY_01
+Normala ŝarĝo
+CATEGORY_02
+Malvarma ŝarĝo
+CATEGORY_03
+Ŝuta ŝarĝo
+CATEGORY_04
+Longa ŝarĝo
+CATEGORY_05
+Likva ŝarĝo
+Track
+Trako
+Bridge/Tunnel
+Ponto/Tunelo
+Track object
+Traka objekto
+Signal
+Signalilo
+Platform/Station/Depot
+Stacio/Stacidomo/Veturilejo
+Road
+Vojo
+Road object
+Voja objekto
+Sign
+Signalo
+Stop/Building/Depot
+Haltejo/Konstruaĵo/Veturilejo
+Canal
+Kanalo
+Port/Shipyard
+Haveno/Veturilejo
+Taxiway/Runway
+Kurejo
+Sign
+Signalo
+Apron/Airport
+Flughaveno
+GENERALTOOLS
+Mapaj manipuliloj
+view masked ribi
+Montri sagojn de vojo
+Sign/Signal
+Signalo
+Catering level:
+Serva nivelo:
+Clear
+Forigi
+\nMAY USE: 
+\nRajtas uzi: 
+Railcar_tab
+Motortrajno
+overtaking
+Preterveturo
+Visitors this year:
+Vizitintoj ĉi-jare:
+Commuters this year:
+Vizitadintoj ĉi-jare:
