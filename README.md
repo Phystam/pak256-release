@@ -3,7 +3,7 @@ Pak256-Ex release
 (English version below)
 
 Simutrans-Extended対応パックセットpak256-Exをダウンロードいただきありがとうございます。
-このパックセットは九龍会(九龍/ふぃすたむ/五番星/さちばさち) 作『pak256-Ex』はクリエイティブ・コモンズ 表示 - 非営利 - 継承 4.0 国際 ライセンスで提供されています。
+このパックセットは九龍会(九龍/ふぃすたむ/五番星/さちばさち/ペルリ摩周丸的な何か/廉) 作『pak256-Ex』はクリエイティブ・コモンズ 表示 - 非営利 - 継承 4.0 国際 ライセンスで提供されています。
 このライセンスで許諾される範囲を超えた利用の可能性については以下のアドレスもご覧下さい。 Twitter:@pak256ex
 詳細についてはwiki( http://www.pak256.simutrans.info/ )を御覧ください。
 
@@ -17,7 +17,7 @@ This is a pakset "pak256-Ex" for Simutrans-Extended.
 Visit our wiki (http://www.pak256.simutrans.info/) for further information.
 
 license:
-"pak256-Ex" by Cowloon Clan(Feiltagelse/Phystam/Gobanboshi/Satiitiban) is licensed under a
+"pak256-Ex" by Cowloon Clan(Feiltagelse/Phystam/Gobanboshi/Satiitiban/zh112d/Ren) is licensed under a
 Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
 Permissions beyond the scope of this license may be available at Twitter:@pak256ex.
 
@@ -28,6 +28,41 @@ Special thanks: Lus(Zelkova, wax tree), Kuururi Ahojanen(icon design)
 [![Demo play](https://img.youtube.com/vi/iYPsDjS_8-Q/0.jpg)](https://www.youtube.com/watch?v=iYPsDjS_8-Q)
 ---
 ## 更新履歴/History
+**Sep. 9 2019: ver 2.0.0リリース / ver 2.0.0 release**
+1. 産業/Industry
+ - 営林署/Forestry office
+ - 製材所/Sawmill
+ - 炭焼き場/Charcoal kiln
+ - 建設会社/Construction company
+ 
+2. その他/Others
+ - 腕木式・円板式自動信号機/Semaphore, disc automatic signals
+
+**Jun. 4 2019: ver 1.3.0リリース / ver 1.3.0 release**
+1. 鉄道車両/Railway vehicles
+ - 国鉄103系電車/JNR EMU 103 series
+ - 国鉄485系特急型電車/JNR EMU 485 intercity series
+
+2. モノレール車両/Railway vehicles
+ - 東京モノレール100形・200形・300形・350形/Tokyo monorail 100, 200, 300, and 350 series
+ 
+3. 建築物/Buildings
+ - 鉄道用コンクリート駅舎/Concrete station buildings
+ 
+**Mar. 4 2019: ver 1.2.0リリース / ver 1.1.1 release**
+1. システム/System
+ - パラメータ調整/change some parameters
+ 
+2. 軽便鉄道/Narrowgauge
+ - 駅舎・ホーム・信号/Station buildings, platform, signals
+ - 草軽電鉄車両/Kusakaru electric railway vehicles
+ - 頸城鉄道車両/Kubiki railway vehicles
+ 
+3. 建築物/Buildings
+ - 中層ビル/Mid-height buildings
+ - 団地/Apartment complex
+ - Lv2町役場/Cityhall Lv2
+ 
 **Jan. 12 2019: ver 1.1.1リリース / ver 1.1.1 release**
 1. システム/System
  - 海岸テクスチャバグ修正/Fixed shore texture bug
