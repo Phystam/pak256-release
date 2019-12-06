@@ -288,20 +288,20 @@ meters_per_tile = 25
 # thereafter. 
 
 # l:00h, comfort=10 -> min=15
-tolerable_comfort_short_minutes=60
-tolerable_comfort_short=40
+tolerable_comfort_short_minutes=0
+tolerable_comfort_short=0
 
 # 3:00h comfort=10 -> min=30
-tolerable_comfort_median_short_minutes=180
-tolerable_comfort_median_short=80
+tolerable_comfort_median_short_minutes=60
+tolerable_comfort_median_short=40
 
 # 6:00h comfort=10 -> min=45
-tolerable_comfort_median_median_minutes=360
-tolerable_comfort_median_median=120
+tolerable_comfort_median_median_minutes=180
+tolerable_comfort_median_median=80
 
 # 12:00h comfort=10 -> min=60
-tolerable_comfort_median_long_minutes=720
-tolerable_comfort_median_long=180
+tolerable_comfort_median_long_minutes=360
+tolerable_comfort_median_long=120
 
 # 24:00h comfort=10 -> min=120
 tolerable_comfort_long_minutes=720
@@ -1134,7 +1134,7 @@ citycar_life = 1375
 # Pak128.Britain default = 158 (yellow)
 # カーソルの半透明色
 cursor_overlay_color = 20
-
+special_color[13]=255,127,63,255,127,63
 ################################### River settings ##################################
 
 # rivers:

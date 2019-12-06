@@ -33,6 +33,26 @@ building_citybuilding_farmers_house_A02
 farmers' house with blue tin roof
 building_citybuilding_farmers_house_A03
 farmers' house with green tin roof
+building_citybuilding_house_A01
+houses A01
+building_citybuilding_house_A02
+houses A02
+building_citybuilding_house_A03
+houses A03
+building_citybuilding_house_A04
+houses A04
+building_citybuilding_house_B01
+houses B01
+building_citybuilding_house_B02
+houses B02
+building_citybuilding_house_C01
+houses C01
+building_citybuilding_house_C02
+houses C02
+building_citybuilding_house_C03
+houses C03
+building_citybuilding_house_C04
+houses C04
 building_citybuilding_apartment_complex_A01
 Apartment complex A
 building_citybuilding_apartment_complex_B01
@@ -55,11 +75,19 @@ building_citybuilding_factory01
 Tomai seiko factory
 building_cur_kobe15th
 Foreigner resident
+building_cur_small-temple
+Small buddhism temple
 building_cur_ikegami-hoto
 Buddhism tower of Ikegami Hommonji temple
 building_cur_hokkiji-pagoda
 Three stored pagoda of Hokkiji temple
 building_cur_Hagi_Reverberatory_furnace
 Hagi reverberatory furnace
+building_cur_Elementary_school01
+Elementary school
+building_cur_inari_shrine
+Inari shrine
+building_cur_koban_and_small_park
+Koban (police office) and children park
 building_hq_lv1
 Single-storied HQ

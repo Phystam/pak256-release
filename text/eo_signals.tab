@@ -43,8 +43,6 @@ signal_track_2_aspect_distantsignal
 
 signal_track_2_aspect_homesignal
 
-signal_disc_2_aspect_startsignal
-
 signal_track_shunt_signal
 
 signal_track_shunt_junctionsignal
@@ -95,6 +93,16 @@ signal_absolute_color_homesignal
 
 signal_mechanical_shuntsignal
 
+signal_disc_2_aspect_startsignal
+
+signal_semaphore_timeinterval_signal
+
+signal_semaphore_timeinterval_station_signal
+
+signal_semaphore_timeinterval_junction_signal
+
+signal_semaphore_timeinterval_distant_signal
+
 signal_semaphore_startsignal_narrowgauge
 
 signal_semaphore_homesignal_narrowgauge
@@ -134,6 +142,12 @@ signal_cab_signal_monorail
 signal_cab_home_signal_monorail
 
 signal_cab_signal_atc_block
+
+signal_cab_signal_atc_home
+
+signal_moving_block_atacs
+
+signal_moving_block_atacs_home
 
 signal_road_roadsignal
 

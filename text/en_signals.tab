@@ -43,8 +43,6 @@ signal_track_2_aspect_distantsignal
 2-aspect distant signal
 signal_track_2_aspect_homesignal
 2-aspect home junction signal
-signal_disc_2_aspect_startsignal
-2-aspect disc block signal
 signal_track_shunt_signal
 Position light shunt signal
 signal_track_shunt_junctionsignal
@@ -95,6 +93,16 @@ signal_absolute_color_homesignal
 Color light home junction signal
 signal_mechanical_shuntsignal
 Mechanical shunt signal
+signal_disc_2_aspect_startsignal
+2-aspect disc block signal
+signal_semaphore_timeinterval_signal
+Semaphore home signal 
+signal_semaphore_timeinterval_station_signal
+Semaphore station singal
+signal_semaphore_timeinterval_junction_signal
+Semaphore home junction singal
+signal_semaphore_timeinterval_distant_signal
+Semaphore distant signal
 signal_semaphore_startsignal_narrowgauge
 Semaphore starting/home signal
 signal_semaphore_homesignal_narrowgauge
@@ -135,6 +143,12 @@ signal_cab_home_signal_monorail
 Signalling transponder (Junction)
 signal_cab_signal_atc_block
 ATC signalling transponder
+signal_cab_signal_atc_home
+ATC signalling transponder (Junction)
+signal_moving_block_atacs
+ATACS wireless transceiver
+signal_moving_block_atacs_home
+ATACS signal transponder (Junction)
 signal_road_roadsignal
 Traffic light (horizontal)
 signal_road_oneway

@@ -28,6 +28,25 @@ Special thanks: Lus(Zelkova, wax tree), Kuururi Ahojanen(icon design)
 [![Demo play](https://img.youtube.com/vi/iYPsDjS_8-Q/0.jpg)](https://www.youtube.com/watch?v=iYPsDjS_8-Q)
 ---
 ## 更新履歴/History
+
+**Dec. 7 2019: ver 2.0.1リリース / ver 2.0.1 release**
+1.建物
+ - 民家A4種、
+ - 民家B2種、
+ - 民家C4種
+ - 小学校
+ - 寺院
+ - 稲荷神社
+ - 交番と児童公園
+ 
+2.車両
+ - キロ28形気動車
+
+3.その他
+ - 特殊発光色(紫)の割当変更
+ - マップ操作ツールバーに「信号扱所の範囲表示」ボタンを追加
+ - 信号機に年代設定を追加(一部)
+
 **Sep. 9 2019: ver 2.0.0リリース / ver 2.0.0 release**
 1. 産業/Industry
  - 営林署/Forestry office

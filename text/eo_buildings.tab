@@ -33,6 +33,26 @@ building_citybuilding_farmers_house_A02
 Blua domo de terkultivistoj
 building_citybuilding_farmers_house_A03
 Verda domo de terkultivistoj
+building_citybuilding_house_A01
+Domoj A01
+building_citybuilding_house_A02
+Domoj A02
+building_citybuilding_house_A03
+Domoj A03
+building_citybuilding_house_A04
+Domoj A04
+building_citybuilding_house_B01
+Domoj B01
+building_citybuilding_house_B02
+Domoj B02
+building_citybuilding_house_C01
+Domoj C01
+building_citybuilding_house_C02
+Domoj C02
+building_citybuilding_house_C03
+Domoj C03
+building_citybuilding_house_C04
+Domoj C04
 building_citybuilding_apartment_complex_A01
 Publika apartamento
 building_citybuilding_apartment_complex_B01
@@ -55,11 +75,19 @@ building_citybuilding_factory01
 Fabriko de Tomaj-Sejko
 building_cur_kobe15th
 Alilandanaj lo?ejoj en Kobeo
+building_cur_small-temple
+Malgranda budhisma templo
 building_cur_ikegami-hoto
 Budhana turo de Ikegami
 building_cur_hokkiji-pagoda
 Budhana turo de Hokki?i
 building_cur_Hagi_Reverberatory_furnace
 Reflekta forno en Hagi
+building_cur_Elementary_school01
+Elementa lernejo
+building_cur_inari_shrine
+Sxintoisma templo
+building_cur_koban_and_small_park
+Koban
 building_hq_lv1
 Unueta?a ?efsidejo

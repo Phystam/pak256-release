@@ -4,11 +4,11 @@
 # created by Phystam (@Phystam_hnew)     #
 #------------------------------------------#
 vehicle_road_mitsubishi-mp117m
-Mitsubishi MP117M (noncolored)
+Mitsubishi MP117M / noncolored
 vehicle_road_mitsubishi-mp117m-toei
-Mitsubishi MP117M (Tokyo metropolitan)
+Mitsubishi MP117M / Tokyo metropolitan color
 vehicle_road_mitsubishi-mp117m-jnr
-Mitsubishi MP117M (JNR)
+Mitsubishi MP117M / JNR color
 vehicle_road_nissan-diesel-tw50
 Nissan Diesel TW50
 vehicle_road_isuzu-tw-wood
@@ -31,70 +31,74 @@ jnr_kiha28-front
 JNR Express-type DMU Express kiha 28 series
 jnr_kiha28-back
 JNR Express-type DMU Express kiha 28 series (back)
+jnr_kiro28
+JNR Express-type DMU Express kiro 28 series [1st class]
+jnr_kiro28-cooler
+ 冷房付き]"
 jnr_kiyu25-front
 JNR TPO-type DMU kiyu 25 series [Mail]
 jnr_kiyu25-back
 JNR TPO-type DMU kiyu 25 series [Mail] (back)
 jnr_kumoha103-front-skyblue
-JNR Commuter-type EMU kumoha 103 series (sky blue)
+JNR Commuter-type EMU kumoha 103 series / sky blue
 jnr_kuha103-front-skyblue
-JNR Commuter-type EMU kumoha 103 series (sky blue)
+JNR Commuter-type EMU kumoha 103 series / sky blue
 jnr_kuha103-back-skyblue
-JNR Commuter-type EMU kumoha 103 series (sky blue) (back)
+JNR Commuter-type EMU kumoha 103 series (back) / sky blue
 jnr_moha103-skyblue
-JNR Commuter-type EMU kumoha 103 series (sky blue)
+JNR Commuter-type EMU kumoha 103 series / sky blue
 jnr_moha102-skyblue
-JNR Commuter-type EMU kumoha 103 series (sky blue)
+JNR Commuter-type EMU kumoha 103 series / sky blue
 jnr_saha103-skyblue
-JNR Commuter-type EMU kumoha 103 series (sky blue)
+JNR Commuter-type EMU kumoha 103 series / sky blue
 jnr_kumoha103-front-limegreen
-JNR Commuter-type EMU kumoha 103 series (lime green)
+JNR Commuter-type EMU kumoha 103 series / lime green
 jnr_kuha103-front-limegreen
-JNR Commuter-type EMU kumoha 103 series (lime green)
+JNR Commuter-type EMU kumoha 103 series / lime green
 jnr_kuha103-back-limegreen
-JNR Commuter-type EMU kumoha 103 series (lime green) (back)
+JNR Commuter-type EMU kumoha 103 series (back) / lime green
 jnr_moha103-limegreen
-JNR Commuter-type EMU kumoha 103 series (lime green)
+JNR Commuter-type EMU kumoha 103 series / lime green
 jnr_moha102-limegreen
-JNR Commuter-type EMU kumoha 103 series (lime green)
+JNR Commuter-type EMU kumoha 103 series / lime green
 jnr_saha103-limegreen
-JNR Commuter-type EMU kumoha 103 series (lime green)
+JNR Commuter-type EMU kumoha 103 series / lime green
 jnr_kumoha103-front-canaria
-JNR Commuter-type EMU kumoha 103 series (canaria)
+JNR Commuter-type EMU kumoha 103 series / canaria
 jnr_kuha103-front-canaria
-JNR Commuter-type EMU kumoha 103 series (canaria)
+JNR Commuter-type EMU kumoha 103 series / canaria
 jnr_kuha103-back-canaria
-JNR Commuter-type EMU kumoha 103 series (canaria) (back)
+JNR Commuter-type EMU kumoha 103 series (back) / canaria
 jnr_moha103-canaria
-JNR Commuter-type EMU kumoha 103 series (canaria)
+JNR Commuter-type EMU kumoha 103 series / canaria
 jnr_moha102-canaria
-JNR Commuter-type EMU kumoha 103 series (canaria)
+JNR Commuter-type EMU kumoha 103 series / canaria
 jnr_saha103-canaria
-JNR Commuter-type EMU kumoha 103 series (canaria)
+JNR Commuter-type EMU kumoha 103 series / canaria
 jnr_kumoha103-front-orange
-JNR Commuter-type EMU kumoha 103 series (orange)
+JNR Commuter-type EMU kumoha 103 series / orange
 jnr_kuha103-front-orange
-JNR Commuter-type EMU kumoha 103 series (orange)
+JNR Commuter-type EMU kumoha 103 series / orange
 jnr_kuha103-back-orange
-JNR Commuter-type EMU kumoha 103 series (orange) (back)
+JNR Commuter-type EMU kumoha 103 series (back) / orange
 jnr_moha103-orange
-JNR Commuter-type EMU kumoha 103 series (orange)
+JNR Commuter-type EMU kumoha 103 series / orange
 jnr_moha102-orange
-JNR Commuter-type EMU kumoha 103 series (orange)
+JNR Commuter-type EMU kumoha 103 series / orange
 jnr_saha103-orange
-JNR Commuter-type EMU kumoha 103 series (orange)
+JNR Commuter-type EMU kumoha 103 series / orange
 jnr_kumoha103-front-emerald
-JNR Commuter-type EMU kumoha 103 series (emerald)
+JNR Commuter-type EMU kumoha 103 series / emerald
 jnr_kuha103-front-emerald
-JNR Commuter-type EMU kumoha 103 series (emerald)
+JNR Commuter-type EMU kumoha 103 series / emerald
 jnr_kuha103-back-emerald
-JNR Commuter-type EMU kumoha 103 series (emerald) (back)
+JNR Commuter-type EMU kumoha 103 series (back) / emerald
 jnr_moha103-emerald
-JNR Commuter-type EMU kumoha 103 series (emerald)
+JNR Commuter-type EMU kumoha 103 series / emerald
 jnr_moha102-emerald
-JNR Commuter-type EMU kumoha 103 series (emerald)
+JNR Commuter-type EMU kumoha 103 series / emerald
 jnr_saha103-emerald
-JNR Commuter-type EMU kumoha 103 series (emerald)
+JNR Commuter-type EMU kumoha 103 series / emerald
 jnr_kuha481-300-front
 JNR InterCity-type EMU kuha 481 series
 jnr_kuha481-300-back
@@ -104,7 +108,7 @@ JNR InterCity-type EMU moha 484 series
 jnr_moha485-300
 JNR InterCity-type EMU moha 485 series
 jnr_saro481
-JNR InterCity-type EMU saro 481 series [2nd class]
+JNR InterCity-type EMU saro 481 series [1st class]
 jnr_sashi481
 JNR InterCity-type EMU sashi 481 series [catering]
 jnr_dd51
@@ -120,17 +124,17 @@ JNR seki 3000 series [Coal]
 jnr_chiki1500
 JNR chiki 1500 series [Long]
 jnr_ohafu61
-"JNR Carriage ohafu 61 series [3rd class
+"JNR Carriage ohafu 61 series [2nd class
 jnr_naha20
-JNR Carriage naha 20 series [2nd class]
+JNR Carriage naha 20 series [1st class]
 jnr_nahane20
-JNR Carriage nahane 20 series [2nd class sleeper]
+JNR Carriage nahane 20 series [1st class sleeper]
 jnr_nahanefu22_back
-"JNR Carriage nahanefu 22 series (back) [2nd class sleeper
+"JNR Carriage nahanefu 22 series (back) [1st class sleeper
 jnr_nahanefu22_front
-"JNR Carriage nahanefu 22 series (front) [2nd class sleeper
+"JNR Carriage nahanefu 22 series (front) [1st class sleeper
 jnr_oyu61
-JNR TPO Carriage oyu 61 series [Mail]
+JNR TPO Carriage oyu 61 series [Traveling post office]
 nagoya_2000
 Nagoya city tram 2000 series
 tokyomonorail_100_front
@@ -180,9 +184,9 @@ Atami railway 0-4-0T SL
 okinawa_sl
 Okinawa prefectural railway SL 0-4-2T
 kato-diesel-P
-Kato works P series DL (skyblue)
+Kato works P series DL / skyblue
 kato-diesel-P-green
-Kato works P series DL (green)
+Kato works P series DL / green
 kusakaru-hoha30
 Kusakaru electric railway hoha 30 series [3rd class passenger]
 kusakaru-kowafu30
