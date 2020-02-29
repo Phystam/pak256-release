@@ -199,7 +199,6 @@
 %1$s Ayase %2$s
 %1$s Kameari %2$s
 %1$s Kanamachi %2$s
-
 #Sobu line
 %1$s Asakusa-bashi %2$s
 %1$s Ryogoku %2$s

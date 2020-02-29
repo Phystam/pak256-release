@@ -36,9 +36,13 @@ JNR Express-type DMU Express kiro 28 series [1st class]
 jnr_kiro28-cooler
  冷房付き]"
 jnr_kiyu25-front
-JNR TPO-type DMU kiyu 25 series [Mail]
+Ministry of Posts and Telecommunications DMU kiyu 25 series [Traveling post office]
 jnr_kiyu25-back
-JNR TPO-type DMU kiyu 25 series [Mail] (back)
+Ministry of Posts and Telecommunications DMU kiyu 25 series [Traveling post office] (back)
+jnr_kumoyuni74-shonan
+JNR Commuter-type EMU kumoyuni 74 series [Mail] / Shonan color
+jnr_kumoyuni74-yokosuka
+JNR Commuter-type EMU kumoyuni 74 series [Mail] / Yokosuka color
 jnr_kumoha103-front-skyblue
 JNR Commuter-type EMU kumoha 103 series / sky blue
 jnr_kuha103-front-skyblue
@@ -99,6 +103,68 @@ jnr_moha102-emerald
 JNR Commuter-type EMU kumoha 103 series / emerald
 jnr_saha103-emerald
 JNR Commuter-type EMU kumoha 103 series / emerald
+jnr_kuha111-front-shonan
+JNR Suburban-type EMU kuha 111 series / Shonan color
+jnr_kuha111-back-shonan
+JNR Suburban-type EMU kuha 111 series (back) / Shonan color
+jnr_moha110-shonan
+JNR Suburban-type EMU moha 110 series / Shonan color
+jnr_moha111-shonan
+JNR Suburban-type EMU moha 111 series / Shonan color
+jnr_kuha111-front-shonan-air
+JNR Suburban-type EMU kuha 111 series / Shonan color
+jnr_kuha111-back-shonan-air
+JNR Suburban-type EMU kuha 111 series (back) / Shonan color
+jnr_moha112-shonan
+JNR Suburban-type EMU moha 112 series / Shonan color
+jnr_moha113-shonan
+JNR Suburban-type EMU moha 113 series / Shonan color
+jnr_saro110-shonan
+JNR Suburban-type EMU saro 110 series [1st class] / Shonan color
+jnr_saro111-shonan
+JNR Suburban-type EMU saro 111 series [1st class] / Shonan color
+jnr_saha111-shonan
+JNR Suburban-type EMU saha 111 series / Shonan color
+jnr_kuha111-front-yokosuka
+JNR Suburban-type EMU kuha 111 series / Yokosuka color
+jnr_kuha111-back-yokosuka
+JNR Suburban-type EMU kuha 111 series (back) / Yokosuka color
+jnr_moha110-yokosuka
+JNR Suburban-type EMU moha 110 series / yokosuka color
+jnr_moha111-yokosuka
+JNR Suburban-type EMU moha 111 series / yokosuka color
+jnr_kuha111-front-yokosuka-air
+JNR Suburban-type EMU kuha 111 series / Yokosuka color
+jnr_kuha111-back-yokosuka-air
+JNR Suburban-type EMU kuha 111 series (back) / Yokosuka color
+jnr_moha112-yokosuka
+JNR Suburban-type EMU moha 112 series / Yokosuka color
+jnr_moha113-yokosuka
+JNR Suburban-type EMU moha 113 series / Yokosuka color
+jnr_saro110-yokosuka
+JNR Suburban-type EMU saro 110 series [1st class] / Yokosuka color
+jnr_saro111-yokosuka
+JNR Suburban-type EMU saro 111 series [1st class] / Yokosuka color
+jnr_saha111-yokosuka
+JNR Suburban-type EMU saha 111 series / Yokosuka color
+jnr_kuha165-front-shonan
+JNR Suburban-type EMU kuha 165 series / Shonan color
+jnr_kuha165-back-shonan
+JNR Suburban-type EMU kuha 165 series (back) / Shonan color
+jnr_kumoha165-back-shonan
+JNR Suburban-type EMU kumoha 165 series / Shonan color
+jnr_moha164-shonan
+JNR Suburban-type EMU moha 164 series / Shonan color
+jnr_moha165-shonan
+JNR Suburban-type EMU moha 165 series / Shonan color
+jnr_saha165-shonan
+JNR Suburban-type EMU saha 165 series / Shonan color
+jnr_saro165-shonan
+JNR Suburban-type EMU saro 165 series / Shonan color
+jnr_sahashi165-shonan
+JNR Suburban-type EMU saro 165 series [Soba buffet car] / Shonan color
+jnr_sahashi165-back-shonan
+JNR Suburban-type EMU saro 165 series (back) [Soba buffet car] / Shonan color
 jnr_kuha481-300-front
 JNR InterCity-type EMU kuha 481 series
 jnr_kuha481-300-back
@@ -113,6 +179,10 @@ jnr_sashi481
 JNR InterCity-type EMU sashi 481 series [catering]
 jnr_dd51
 JNR DL DD51 series
+jnr_ef65-general
+JNR EL EF65 series #0 / general color
+jnr_ef65-express
+JNR EL EF65 series #500 / intercity express color
 jnr_wamu80000
 JNR wamu 80000 series [Box]
 jnr_remu5000
@@ -134,9 +204,13 @@ jnr_nahanefu22_back
 jnr_nahanefu22_front
 "JNR Carriage nahanefu 22 series (front) [1st class sleeper
 jnr_oyu61
-JNR TPO Carriage oyu 61 series [Traveling post office]
+Ministry of Posts and Telecommunications Carriage oyu 61 series [Traveling post office]
 nagoya_2000
 Nagoya city tram 2000 series
+nagoya_3000-front
+Nagoya city tram 3000 series
+nagoya_3000-back
+Nagoya city tram 3000 series (back)
 tokyomonorail_100_front
 Tokyo monorail EMU 100 series
 tokyomonorail_100_back

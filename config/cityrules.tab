@@ -27,7 +27,27 @@ industry_increase_every = 7500
 # Note: the rougher the desired landscape, the lower that this number should be.
 #
 # With low minimum_building_density, must raise renovation_percentage to avoid sprawl
-renovation_percentage = 30
+#renovation_percentage = 30
+
+
+#
+#
+renovation_influence_type=2
+renovation_count_village=5
+renovation_count_city=10
+renovation_count_capital=15
+renovation_count_increase_every=2000
+renovation_count_maximum=25
+
+proportional_renovation_radius=1
+renovation_range_proportions_village=50
+renovation_range_proportions_city=40
+renovation_range_proportions_capital=40
+split_renovation_ranges=1
+renovation_range_proportions_res=60
+renovation_range_proportions_com=75
+renovation_range_proportions_ind=50
+renovation_distance_chance=0
 
 # cities will not grow further along existing roads, if the buildings density is lower (in percent)
 # It's surprisingly easy to get stuck at 21 with "poorly located" cities full of geographical obstacles

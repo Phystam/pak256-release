@@ -24,13 +24,13 @@ Countryside station platform w/ crossing w/o roof bothside
 platform_countryside_crossing_oneside
 Countryside station platform w/ crossing w/o roof oneside
 platform_modern_bothside
-Countryside station platform w/o roof bothside
+Urban station platform w/o roof bothside
 platform_modern_oneside
-Countryside station platform w/o roof oneside
+Urban station platform w/o roof oneside
 platform_modern_bothside_roof
-Countryside station platform w/o roof bothside
+Urban station platform w/ roof bothside
 platform_modern_oneside_roof
-Countryside station platform w/o roof oneside
+Urban station platform w/ roof oneside
 platform_countryside_bothside_roof
 Countryside station platform w/ roof bothside
 platform_countryside_oneside_roof
@@ -69,6 +69,10 @@ platform_tram_stop_bothside
 Tram stop bothside
 platform_monorail-station-osaka
 Monorail station
+platform_modern_bothside-monorail-underground
+Underground monorail station bothside
+platform_modern_oneside-monorail-underground
+Underground monorail station oneside
 station_small_wooden_station1
 Small wooden station 1
 station_small_postoffice1

@@ -27,8 +27,6 @@ signal_track_4_aspect_blocksignal
 4-aspect block signal
 signal_track_4_aspect_calling-on-signal
 4-aspect home signal with call-on signal
-signal_track_4_aspect_calling-on-signal-underground
-4-aspect home signal with call-on signal for underground
 signal_track_4_aspect_homesignal
 4-aspect home junction signal
 signal_track_5_aspect_startsignal
@@ -82,17 +80,17 @@ Semaphore distant signal
 signal_semaphore_stop_calling-on
 Semaphore home signal with call-on signal
 signal_absolute_color_distant
-Color light distant signal
+Color-light distant signal
 signal_absolute_homedistant
-Color light combined signal
+Color-light combined signal
 signal_absolute_color_selective_homedistant
-Color light combined junction signal
+Color-light combined junction signal
 signal_absolute_color_stop
-Color light starting/home signal
+Color-light starting/home signal
 signal_absolute_color_homesignal
-Color light home junction signal
+Color-light home junction signal
 signal_mechanical_shuntsignal
-Mechanical shunt signal
+Mechanical shunting signal
 signal_disc_2_aspect_startsignal
 2-aspect disc block signal
 signal_semaphore_timeinterval_signal
@@ -173,6 +171,10 @@ signal_road_cross_old
 Guide sign [Direction and distance] (oneway)
 signal_road_guide_106A
 Guide sign [Direction and distance] 
+signal_road_guide_112A
+Guide sign [Direction and exit] (oneway)
+signal_road_guide_103B
+Guide sign [Direction to an interchange]
 signal_road_national_route
 Guide sign [National route number] 
 signal_navigate-sign

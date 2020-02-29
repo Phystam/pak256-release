@@ -27,8 +27,6 @@ signal_track_4_aspect_blocksignal
 4灯式閉塞信号機
 signal_track_4_aspect_calling-on-signal
 4灯式場内信号機(誘導信号機付き)
-signal_track_4_aspect_calling-on-signal-underground
-地下用4灯式場内信号機(誘導信号機付き)
 signal_track_4_aspect_homesignal
 4灯式場内多進路信号機
 signal_track_5_aspect_startsignal
@@ -142,9 +140,9 @@ signal_cab_signal_monorail
 signal_cab_home_signal_monorail
 信号地上整合器(多進路)
 signal_cab_signal_atc_block
-ATC地上子
+ATC地上装置
 signal_cab_signal_atc_home
-ATC地上子(多進路)
+ATC地上装置(多進路)
 signal_moving_block_atacs
 ATACS無線基地局
 signal_moving_block_atacs_home
@@ -173,6 +171,10 @@ signal_road_cross_old
 案内標識 [方面、方向及び距離] (一方通行)
 signal_road_guide_106A
 案内標識 [方面及び距離]
+signal_road_guide_112A
+案内標識 [方面及び出口] (一方通行)
+signal_road_guide_103B
+案内標識 [入口の方向]
 signal_road_national_route
 案内標識 [国道番号]
 signal_navigate-sign

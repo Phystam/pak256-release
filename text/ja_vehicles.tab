@@ -36,9 +36,13 @@ jnr_kiro28
 jnr_kiro28-cooler
 "国鉄 キロ28形 急行形気動車 [一等車
 jnr_kiyu25-front
-国鉄 キユ25形 郵便気動車
+郵政省 キユ25形 郵便気動車
 jnr_kiyu25-back
-国鉄 キユ25形 郵便気動車 (後)
+郵政省 キユ25形 郵便気動車 (後)
+jnr_kumoyuni74-shonan
+国鉄 クモユニ74形 通勤形電車 [郵便荷物電動車] (湘南色)
+jnr_kumoyuni74-yokosuka
+国鉄 クモユニ74形 通勤形電車 [郵便荷物電動車] (横須賀色)
 jnr_kumoha103-front-skyblue
 国鉄 クモハ103形 通勤形電車 (スカイブルー)
 jnr_kuha103-front-skyblue
@@ -99,6 +103,68 @@ jnr_moha102-emerald
 国鉄 モハ102形 通勤形電車 (エメラルド)
 jnr_saha103-emerald
 国鉄 サハ103形 通勤形電車 (エメラルド)
+jnr_kuha111-front-shonan
+国鉄 クハ111形 近郊形電車 300番台 (湘南色)
+jnr_kuha111-back-shonan
+国鉄 クハ111形 近郊形電車 0番台 (湘南色)
+jnr_moha110-shonan
+国鉄 モハ110形 近郊形電車 (湘南色)
+jnr_moha111-shonan
+国鉄 モハ111形 近郊形電車 (湘南色)
+jnr_kuha111-front-shonan-air
+国鉄 クハ111形 近郊形電車 300番台 (湘南色)
+jnr_kuha111-back-shonan-air
+国鉄 クハ111形 近郊形電車 0番台 (湘南色)
+jnr_moha112-shonan
+国鉄 モハ112形 近郊形電車 (湘南色)
+jnr_moha113-shonan
+国鉄 モハ113形 近郊形電車 (湘南色)
+jnr_saro110-shonan
+国鉄 サロ110形 近郊形電車 [グリーン車] (湘南色)
+jnr_saro111-shonan
+国鉄 サロ111形 近郊形電車 [グリーン車] (湘南色)
+jnr_saha111-shonan
+国鉄 サハ111形 近郊形電車 (湘南色)
+jnr_kuha111-front-yokosuka
+国鉄 クハ111形 近郊形電車 300番台 (横須賀色)
+jnr_kuha111-back-yokosuka
+国鉄 クハ111形 近郊形電車 0番台(横須賀色)
+jnr_moha110-yokosuka
+国鉄 モハ110形 近郊形電車 (横須賀色)
+jnr_moha111-yokosuka
+国鉄 モハ111形 近郊形電車 (横須賀色)
+jnr_kuha111-front-yokosuka-air
+国鉄 クハ111形 近郊形電車 300番台 (横須賀色)
+jnr_kuha111-back-yokosuka-air
+国鉄 クハ111形 近郊形電車 0番台(横須賀色)
+jnr_moha112-yokosuka
+国鉄 モハ112形 近郊形電車 (横須賀色)
+jnr_moha113-yokosuka
+国鉄 モハ113形 近郊形電車 (横須賀色)
+jnr_saro110-yokosuka
+国鉄 サロ110形 近郊形電車 [グリーン車] (横須賀色)
+jnr_saro111-yokosuka
+国鉄 サロ111形 近郊形電車 [グリーン車] (横須賀色)
+jnr_saha111-yokosuka
+国鉄 サハ111形 近郊形電車 (横須賀色)
+jnr_kuha165-front-shonan
+国鉄 クハ165形 急行形電車 (湘南色)
+jnr_kuha165-back-shonan
+国鉄 クハ165形 急行形電車 (湘南色) （後)
+jnr_kumoha165-back-shonan
+国鉄 クモハ165形 急行形電車 (湘南色)
+jnr_moha164-shonan
+国鉄 モハ164形 急行形電車 (湘南色)
+jnr_moha165-shonan
+国鉄 モハ165形 急行形電車 (湘南色)
+jnr_saha165-shonan
+国鉄 サハ165形 急行形電車 (湘南色)
+jnr_saro165-shonan
+国鉄 サロ165形 急行形電車 (湘南色)
+jnr_sahashi165-shonan
+国鉄 サハシ165形 急行形電車 (湘南色) [そばビュッフェ合造車]
+jnr_sahashi165-back-shonan
+国鉄 サハシ165形 急行形電車 (湘南色) (後) [そばビュッフェ合造車]
 jnr_kuha481-300-front
 国鉄 クハ481形 特急形電車 300番台
 jnr_kuha481-300-back
@@ -112,7 +178,11 @@ jnr_saro481
 jnr_sashi481
 国鉄 サシ481形 特急形電車 [食堂車]
 jnr_dd51
-国鉄 DD51形 ディーゼル機関車 500番台
+国鉄 DD51形 500番台 ディーゼル機関車
+jnr_ef65-general
+国鉄 EF65形 0番台 電気機関車 一般色
+jnr_ef65-express
+国鉄 EF65形 500番台 電気機関車 特急色
 jnr_wamu80000
 国鉄 ワム80000形 貨車 [有蓋車]
 jnr_remu5000
@@ -134,9 +204,13 @@ jnr_nahanefu22_back
 jnr_nahanefu22_front
 国鉄 ナハネフ22形 寝台客車 [2等緩急車]
 jnr_oyu61
-国鉄 オユ61形 郵便客車
+郵政省 オユ61形 郵便客車
 nagoya_2000
 名古屋市電 2000形 電車
+nagoya_3000-front
+名古屋市電 3000形 電車
+nagoya_3000-back
+名古屋市電 3000形 電車 (後)
 tokyomonorail_100_front
 東京モノレール 100形 電車
 tokyomonorail_100_back
