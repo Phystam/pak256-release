@@ -22,7 +22,99 @@ vehicle_road_fusou_fu_cool
 vehicle_road_fusou_fu_dryvan
 三菱ふそうFU [ドライバン]
 jnr_kiha40
-国鉄 キハ40形 一般形気動車 500番台
+国鉄 キハ40形 500番台 一般形気動車
+jnr_kiha20-200-old
+国鉄 キハ20形 200番台 一般形気動車 (標準色)
+jnr_kiha20-200
+国鉄 キハ20形 200番台 一般形気動車 (一般色)
+jnr_kiha20-200-shutoken
+国鉄 キハ20形 200番台 一般形気動車 (首都圏色)
+jnr_kiha25-200-front-old
+国鉄 キハ25形 200番台 一般形気動車 (標準色)
+jnr_kiha25-200-back-old
+国鉄 キハ25形 200番台 一般形気動車 (標準色) (後)
+jnr_kiha25-200-front
+国鉄 キハ25形 200番台 一般形気動車 (一般色)
+jnr_kiha25-200-back
+国鉄 キハ25形 200番台 一般形気動車 (一般色) (後)
+jnr_kiha25-200-front-shutoken
+国鉄 キハ25形 200番台 一般形気動車 (首都圏色)
+jnr_kiha25-200-back-shutoken
+国鉄 キハ25形 200番台 一般形気動車 (首都圏色) (後)
+jnr_kihayuni26-front-old
+国鉄 キハユニ26形 一般形気動車 [座席郵便荷物合造車] (標準色)
+jnr_kihayuni26-back-old
+国鉄 キハユニ26形 一般形気動車 [座席郵便荷物合造車] (標準色) (後)
+jnr_kihayuni26-front
+国鉄 キハユニ26形 一般形気動車 [座席郵便荷物合造車] (一般色)
+jnr_kihayuni26-back
+国鉄 キハユニ26形 一般形気動車 [座席郵便荷物合造車] (一般色) (後)
+jnr_kihayuni26-front-shutoken
+国鉄 キハユニ26形 一般形気動車 [座席郵便荷物合造車] (首都圏色)
+jnr_kihayuni26-back-shutoken
+国鉄 キハユニ26形 一般形気動車 [座席郵便荷物合造車] (首都圏色) (後)
+jnr_kihayuni26-front-mail
+国鉄 キハユニ26形 一般形気動車 [郵便ダミー画像]
+jnr_kihayuni26-back-mail
+国鉄 キハユニ26形 一般形気動車 [郵便ダミー画像]
+jnr_kiha52-old
+国鉄 キハ52形 一般形気動車 (標準色)
+jnr_kiha52
+国鉄 キハ52形 一般形気動車 (一般色)
+jnr_kiha52-shutoken
+国鉄 キハ52形 一般形気動車 (首都圏色)
+jnr_kiha52-100
+国鉄 キハ52形 100番台 一般形気動車 (一般色)
+jnr_kiha52-100-shutoken
+国鉄 キハ52形 100番台 一般形気動車 (首都圏色)
+jnr_kiha55-front-junkyu
+国鉄 キハ55形 準急形気動車 (準急色)
+jnr_kiha55-back-junkyu
+国鉄 キハ55形 準急形気動車 (準急色) (後)
+jnr_kiha55-front-express
+国鉄 キハ55形 準急形気動車 (急行色)
+jnr_kiha55-back-express
+国鉄 キハ55形 準急形気動車 (急行色) (後)
+jnr_kiha55-front-shutoken
+国鉄 キハ55形 準急形気動車 (急行色)
+jnr_kiha55-back-shutoken
+国鉄 キハ55形 準急形気動車 (急行色) (後)
+jnr_kiro25-front-junkyu
+国鉄 キロ25形 準急形気動車 [一等車] (準急色)
+jnr_kiro25-back-junkyu
+国鉄 キロ25形 準急形気動車 [一等車] (準急色) (後)
+jnr_kiroha25-front-junkyu
+国鉄 キロハ25形 準急形気動車 [一・二等合造車] (準急色)
+jnr_kiroha25-back-junkyu
+国鉄 キロハ25形 準急形気動車 [一・二等合造車] (準急色) (後)
+jnr_kiha26-front-junkyu
+国鉄 キハ26形 準急形気動車 (準急色)
+jnr_kiha26-back-junkyu
+国鉄 キハ26形 準急形気動車 (準急色) (後)
+jnr_kiha26-front-express
+国鉄 キハ26形 準急形気動車 (急行色)
+jnr_kiha26-back-express
+国鉄 キハ26形 準急形気動車 (急行色) (後)
+jnr_kiha26-front-shutoken
+国鉄 キハ26形 準急形気動車 (首都圏色)
+jnr_kiha26-back-shutoken
+国鉄 キハ26形 準急形気動車 (首都圏色) (後)
+jnr_kiha26-300-front-express
+国鉄 キハ26形 300番台 準急形気動車 (急行色)
+jnr_kiha26-300-back-express
+国鉄 キハ26形 300番台 準急形気動車 (急行色) (後)
+jnr_kiha26-400-front-express
+国鉄 キハ26形 400番台 準急形気動車 (急行色)
+jnr_kiha26-400-back-express
+国鉄 キハ26形 400番台 準急形気動車 (急行色) (後)
+jnr_kiha26-600-front-express
+国鉄 キハ26形 600番台 準急形気動車 (急行色)
+jnr_kiha26-600-back-express
+国鉄 キハ26形 600番台 準急形気動車 (急行色) (後)
+jnr_kiha26-600-front-shutoken
+国鉄 キハ26形 600番台 一般形気動車 (首都圏色)
+jnr_kiha26-600-back-shutoken
+国鉄 キハ26形 600番台 一般形気動車 (首都圏色) (後)
 jnr_kiha58-front
 国鉄 キハ58形 急行形気動車
 jnr_kiha58-back

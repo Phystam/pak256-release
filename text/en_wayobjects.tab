@@ -15,6 +15,10 @@ wayobj_center_pole
 Twoway highway centerline
 wayobj_center_pole_wo_guard
 Twoway highway centerline w/o fence
+wayobj_expway_fenceA-front
+Twoway highway centerline w/o fence
+wayobj_expway_fenceA-back
+Twoway highway centerline w/o fence
 wayobj_touchdown-zone-marking-single
 Touchdown zone marking (single)
 wayobj_aiming-point-marking-single

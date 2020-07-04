@@ -69,8 +69,6 @@ platform_tram_stop_bothside
 市電停留所(両側)
 platform_monorail-station-osaka
 モノレール駅
-platform_monorail_station_tokyomono-noroof
-屋根なしモノレール乗降場
 platform_modern_bothside-monorail-underground
 地下用モノレールホーム(両側)
 platform_modern_oneside-monorail-underground

@@ -23,6 +23,98 @@ vehicle_road_fusou_fu_dryvan
 Mitsubishi Fuso FU [Dry]
 jnr_kiha40
 JNR General-type DMU kiha 40 series
+jnr_kiha20-200-old
+JNR General-type DMU kiha 20 series #200 / standard color
+jnr_kiha20-200
+JNR General-type DMU kiha 20 series #200 / general color
+jnr_kiha20-200-shutoken
+JNR General-type DMU kiha 20 series #200 / orange
+jnr_kiha25-200-front-old
+JNR General-type DMU kiha 25 series #200 / standard color
+jnr_kiha25-200-back-old
+JNR General-type DMU kiha 25 series #200 (back) / standard color
+jnr_kiha25-200-front
+JNR General-type DMU kiha 25 series #200 / general color
+jnr_kiha25-200-back
+JNR General-type DMU kiha 25 series #200 (back) / general color
+jnr_kiha25-200-front-shutoken
+JNR General-type DMU kiha 25 series #200 / orange
+jnr_kiha25-200-back-shutoken
+JNR General-type DMU kiha 25 series #200 (back) / orange
+jnr_kihayuni26-front-old
+JNR General-type DMU kihayuni 26 series [passenger and mail] / standard color
+jnr_kihayuni26-back-old
+JNR General-type DMU kihayuni 26 series [passenger and mail] (back) / standard color
+jnr_kihayuni26-front
+JNR General-type DMU kihayuni 26 series [passenger and mail] / general color
+jnr_kihayuni26-back
+JNR General-type DMU kihayuni 26 series [passenger and mail] (back) / general color
+jnr_kihayuni26-front-shutoken
+JNR General-type DMU kihayuni 26 series [passenger and mail] / orange
+jnr_kihayuni26-back-shutoken
+JNR General-type DMU kihayuni 26 series [passenger and mail] (back) / orange
+jnr_kihayuni26-front-mail
+JNR General-type DMU kihayuni 26 series [dummy image]
+jnr_kihayuni26-back-mail
+JNR General-type DMU kihayuni 26 series [dummy image]
+jnr_kiha52-old
+JNR General-type DMU kiha 52 series / standard color
+jnr_kiha52
+JNR General-type DMU kiha 52 series / general color
+jnr_kiha52-shutoken
+JNR General-type DMU kiha 52 series / orange
+jnr_kiha52-100
+JNR General-type DMU kiha 52 series #100 / general color
+jnr_kiha52-100-shutoken
+JNR General-type DMU kiha 52 series #100 / orange
+jnr_kiha55-front-junkyu
+JNR Semi-Express-type DMU kiha 55 series / semi-express color
+jnr_kiha55-back-junkyu
+JNR Semi-Express-type DMU kiha 55 series (back) / semi-express color
+jnr_kiha55-front-express
+JNR Semi-Express-type DMU kiha 55 series / express color
+jnr_kiha55-back-express
+JNR Semi-Express-type DMU kiha 55 series (back) / express color
+jnr_kiha55-front-shutoken
+JNR Semi-Express-type DMU kiha 55 series / express color
+jnr_kiha55-back-shutoken
+JNR Semi-Express-type DMU kiha 55 series (back) / express color
+jnr_kiro25-front-junkyu
+JNR Semi-Express-type DMU kiro 25 series [1st class] / semi-express color
+jnr_kiro25-back-junkyu
+JNR Semi-Express-type DMU kiro 25 series [1st class] (back) / semi-express color
+jnr_kiroha25-front-junkyu
+"JNR Semi-Express-type DMU kiroha 25 series [1st class
+jnr_kiroha25-back-junkyu
+"JNR Semi-Express-type DMU kiroha 25 series [1st class
+jnr_kiha26-front-junkyu
+JNR Semi-Express-type DMU kiha 26 series / semi-express color
+jnr_kiha26-back-junkyu
+JNR Semi-Express-type DMU kiha 26 series (back) / semi-express color
+jnr_kiha26-front-express
+JNR Semi-Express-type DMU kiha 26 series / semi-express color
+jnr_kiha26-back-express
+JNR Semi-Express-type DMU kiha 26 series (back) / semi-express color
+jnr_kiha26-front-shutoken
+JNR Semi-Express-type DMU kiha 26 series / semi-express color
+jnr_kiha26-back-shutoken
+JNR Semi-Express-type DMU kiha 26 series (back) / semi-express color
+jnr_kiha26-300-front-express
+JNR Semi-Express-type DMU kiha 26 series #300 / express color
+jnr_kiha26-300-back-express
+JNR Semi-Express-type DMU kiha 26 series #300 (back) / express color
+jnr_kiha26-400-front-express
+JNR Semi-Express-type DMU kiha 26 series #400 / express color
+jnr_kiha26-400-back-express
+JNR Semi-Express-type DMU kiha 26 series #400 (back) / express color
+jnr_kiha26-600-front-express
+JNR Semi-Express-type DMU kiha 26 series #600 / express color
+jnr_kiha26-600-back-express
+JNR Semi-Express-type DMU kiha 26 series #600 (back) / express color
+jnr_kiha26-600-front-shutoken
+JNR General-type DMU kiha 26 series #600 / orange
+jnr_kiha26-600-back-shutoken
+JNR General-type DMU kiha 26 series #600 (back) / orange
 jnr_kiha58-front
 JNR Express-type DMU Express kiha 58 series
 jnr_kiha58-back

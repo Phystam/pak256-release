@@ -15,6 +15,10 @@ wayobj_center_pole
 暫定2車線中央分離帯(ガードレール付き)
 wayobj_center_pole_wo_guard
 暫定2車線中央分離帯(ガードレール無し)
+wayobj_expway_fenceA-front
+首都高防音壁(後)
+wayobj_expway_fenceA-back
+首都高防音壁(前)
 wayobj_touchdown-zone-marking-single
 接地帯標識(2本)
 wayobj_aiming-point-marking-single
