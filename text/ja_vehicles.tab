@@ -271,6 +271,8 @@ jnr_sashi481
 国鉄 サシ481形 特急形電車 [食堂車]
 jnr_dd51
 国鉄 DD51形 500番台 ディーゼル機関車
+jnr_de10
+国鉄 DE10形 ディーゼル機関車
 jnr_ef65-general
 国鉄 EF65形 0番台 電気機関車 一般色
 jnr_ef65-express
@@ -340,7 +342,7 @@ tokyomonorail_800_back
 vehicle_arp3
 FRP漁船
 vehicle_kamome_no3
-第三かもめ
+今治高速船 第三かもめ
 vehicle_air_ys11
 YS-11
 jeffrey_L

@@ -5,6 +5,8 @@
 #------------------------------------------#
 tunnel_road_concrete
 コンクリート道路トンネル
+tunnel_expway_concrete
+高速道路トンネル
 tunnel_track_concrete
 コンクリート鉄道トンネル
 tunnel_monorail_concrete

@@ -9,6 +9,8 @@ station_road_busstop-suburban
 旧式バス停(屋根なし)
 station_road_busstop-post-with-waiting-room
 待合室・ポスト付きバス停
+station_road_tollgate
+料金徴収所
 station_road_truck_parking_area
 積卸区域
 station_road_truck_parking_area2
@@ -75,6 +77,18 @@ platform_modern_oneside-monorail-underground
 地下用モノレールホーム(片側)
 station_small_wooden_station1
 小型木造標準駅舎1
+station_brick_warehouse
+赤レンガ倉庫(小)
+station_brick_warehouse_medium
+赤レンガ倉庫(中)
+station_brick_warehouse_large
+赤レンガ倉庫(大)
+station_brick_warehouse_harbor
+赤レンガ倉庫(小)
+station_brick_warehouse_medium_harbor
+赤レンガ倉庫(中)
+station_brick_warehouse_large_harbor
+赤レンガ倉庫(大)
 station_small_postoffice1
 小型集配普通郵便局
 station_medium_postoffice1

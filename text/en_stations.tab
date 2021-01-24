@@ -9,6 +9,8 @@ station_road_busstop-suburban
 Regular bus stop [suburban type]
 station_road_busstop-post-with-waiting-room
 Regular bus stop and mail post with waiting room [suburban type]
+station_road_tollgate
+Toll gate
 station_road_truck_parking_area
 Truck parking area
 station_road_truck_parking_area2
@@ -75,6 +77,18 @@ platform_modern_oneside-monorail-underground
 Underground monorail station oneside
 station_small_wooden_station1
 Small wooden station 1
+station_brick_warehouse
+Red brick warehouse (Small)
+station_brick_warehouse_medium
+Red brick warehouse (Medium)
+station_brick_warehouse_large
+Red brick warehouse (Large)
+station_brick_warehouse_harbor
+Red brick warehouse (Small)
+station_brick_warehouse_medium_harbor
+Red brick warehouse (Medium)
+station_brick_warehouse_large_harbor
+Red brick warehouse (Large)
 station_small_postoffice1
 General post office 1
 station_medium_postoffice1

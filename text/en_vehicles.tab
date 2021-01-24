@@ -271,6 +271,8 @@ jnr_sashi481
 JNR InterCity-type EMU sashi 481 series [catering]
 jnr_dd51
 JNR DL DD51 series
+jnr_de10
+JNR DL DE10 series
 jnr_ef65-general
 JNR EL EF65 series #0 / general color
 jnr_ef65-express
@@ -340,7 +342,7 @@ Tokyo monorail EMU 800 series (back)
 vehicle_arp3
 FRP fishing boat
 vehicle_kamome_no3
-Kamome No.3
+Imabari Kamome No.3
 vehicle_air_ys11
 YS-11
 jeffrey_L

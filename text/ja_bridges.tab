@@ -5,6 +5,8 @@
 #------------------------------------------#
 way_archbridge
 道路アーチ橋
+way_expway-bridge
+高速道路用上路ガーダー橋
 track_girderbridge
 鉄道ガーダー橋
 narrowgaugetrack_girderbridge

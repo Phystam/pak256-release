@@ -67,6 +67,38 @@ signal_end-of-choose-sign_narrowgauge
 End of choose sign
 signal_slow-sign
 Slow signal (temporary)
+signal_road_oneway
+No entry
+signal_road_caution
+Caution sign
+signal_road_oneway2
+Oneway
+signal_road_oneway3
+Oneway paint
+signal_road_choose
+Stop choose sign
+signal_road_end_of_choose
+End of choose sign
+signal_private_gate
+Private gate
+signal_expway_min50
+Motor vehicles only / min. speed limit 50km/h
+signal_road_cross
+"Guide sign [Direction
+signal_road_cross_old
+Guide sign [Direction and distance] (oneway)
+signal_road_guide_106A
+Guide sign [Direction and distance] 
+signal_road_guide_112A
+Guide sign [Direction and exit] (oneway)
+signal_road_guide_115-500m
+Guide sign [Toll gate] (oneway)
+signal_road_guide_103B
+Guide sign [Direction to an interchange]
+signal_road_national_route
+Guide sign [National route number] 
+signal_navigate-sign
+Guidance sign (oneway)
 signal_semaphore_startsignal
 Semaphore starting/home signal
 signal_semaphore_homesignal
@@ -149,33 +181,3 @@ signal_moving_block_atacs_home
 ATACS signal transponder (Junction)
 signal_road_roadsignal
 Traffic light (horizontal)
-signal_road_oneway
-No entry
-signal_road_caution
-Caution sign
-signal_road_oneway2
-Oneway
-signal_road_oneway3
-Oneway paint
-signal_road_choose
-Stop choose sign
-signal_road_end_of_choose
-End of choose sign
-signal_private_gate
-Private gate
-signal_expway_min50
-Motor vehicles only / min. speed limit 50km/h
-signal_road_cross
-"Guide sign [Direction
-signal_road_cross_old
-Guide sign [Direction and distance] (oneway)
-signal_road_guide_106A
-Guide sign [Direction and distance] 
-signal_road_guide_112A
-Guide sign [Direction and exit] (oneway)
-signal_road_guide_103B
-Guide sign [Direction to an interchange]
-signal_road_national_route
-Guide sign [National route number] 
-signal_navigate-sign
-Guidance sign (oneway)

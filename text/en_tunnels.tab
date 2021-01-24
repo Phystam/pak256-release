@@ -5,6 +5,8 @@
 #------------------------------------------#
 tunnel_road_concrete
 Concrete road tunnel
+tunnel_expway_concrete
+Concrete expressway tunnel
 tunnel_track_concrete
 Concrete track tunnel
 tunnel_monorail_concrete
