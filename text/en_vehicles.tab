@@ -22,323 +22,417 @@ Mitsubishi Fuso FU [Cool]
 vehicle_road_fusou_fu_dryvan
 Mitsubishi Fuso FU [Dry]
 jnr_kiha40
-JNR General-type DMU kiha 40 series
+JNR Class KiHa 40 General-type DMU 
 jnr_kiha20-200-old
-JNR General-type DMU kiha 20 series #200 / standard color
+JNR Class KiHa 20 General-type DMU / standard color
 jnr_kiha20-200
-JNR General-type DMU kiha 20 series #200 / general color
+JNR Class KiHa 20 General-type DMU / general color
 jnr_kiha20-200-shutoken
-JNR General-type DMU kiha 20 series #200 / orange
+JNR Class KiHa 20 General-type DMU / orange
 jnr_kiha25-200-front-old
-JNR General-type DMU kiha 25 series #200 / standard color
+JNR Class KiHa 25 General-type DMU / standard color
 jnr_kiha25-200-back-old
-JNR General-type DMU kiha 25 series #200 (back) / standard color
+JNR Class KiHa 25 General-type DMU (rear) / standard color
 jnr_kiha25-200-front
-JNR General-type DMU kiha 25 series #200 / general color
+JNR Class KiHa 25 General-type DMU  / general color
 jnr_kiha25-200-back
-JNR General-type DMU kiha 25 series #200 (back) / general color
+JNR Class KiHa 25 General-type DMU (rear) / general color
 jnr_kiha25-200-front-shutoken
-JNR General-type DMU kiha 25 series #200 / orange
+JNR Class KiHa 25 General-type DMU / orange
 jnr_kiha25-200-back-shutoken
-JNR General-type DMU kiha 25 series #200 (back) / orange
+JNR Class KiHa 25 General-type DMU (rear) / orange
 jnr_kihayuni26-front-old
-JNR General-type DMU kihayuni 26 series [passenger and mail] / standard color
+JNR Class KiHaYuNi 26 General-type DMU [passenger/mail composite] / standard color
 jnr_kihayuni26-back-old
-JNR General-type DMU kihayuni 26 series [passenger and mail] (back) / standard color
+JNR Class KiHaYuNi 26 General-type DMU [passenger/mail composite] (rear) / standard color
 jnr_kihayuni26-front
-JNR General-type DMU kihayuni 26 series [passenger and mail] / general color
+JNR Class KiHaYuNi 26 General-type DMU [passenger/mail composite] / general color
 jnr_kihayuni26-back
-JNR General-type DMU kihayuni 26 series [passenger and mail] (back) / general color
+JNR Class KiHaYuNi 26 General-type DMU [passenger/mail composite] (rear) / general color
 jnr_kihayuni26-front-shutoken
-JNR General-type DMU kihayuni 26 series [passenger and mail] / orange
+JNR Class KiHaYuNi 26 General-type DMU [passenger/mail composite] / orange
 jnr_kihayuni26-back-shutoken
-JNR General-type DMU kihayuni 26 series [passenger and mail] (back) / orange
+JNR Class KiHaYuNi 26 General-type DMU [passenger/mail composite] (rear) / orange
 jnr_kihayuni26-front-mail
-JNR General-type DMU kihayuni 26 series [dummy image]
+JNR Class KiHaYuNi 26 General-type DMU [dummy]
 jnr_kihayuni26-back-mail
-JNR General-type DMU kihayuni 26 series [dummy image]
+JNR Class KiHaYuNi 26 General-type DMU [dummy]
 jnr_kiha52-old
-JNR General-type DMU kiha 52 series / standard color
+JNR Class KiHa 52 General-type DMU / standard color
 jnr_kiha52
-JNR General-type DMU kiha 52 series / general color
+JNR Class KiHa 52 General-type DMU / general color
 jnr_kiha52-shutoken
-JNR General-type DMU kiha 52 series / orange
+JNR Class KiHa 52 General-type DMU / orange
 jnr_kiha52-100
-JNR General-type DMU kiha 52 series #100 / general color
+JNR Class KiHa 52 General-type DMU / general color
 jnr_kiha52-100-shutoken
-JNR General-type DMU kiha 52 series #100 / orange
+JNR Class KiHa 52 General-type DMU / orange
 jnr_kiha55-front-junkyu
-JNR Semi-Express-type DMU kiha 55 series / semi-express color
+JNR Class KiHa 55 Semi-Express-type DMU / semi-express color
 jnr_kiha55-back-junkyu
-JNR Semi-Express-type DMU kiha 55 series (back) / semi-express color
+JNR Class KiHa 55  Semi-Express-type DMU (rear) / semi-express color
 jnr_kiha55-front-express
-JNR Semi-Express-type DMU kiha 55 series / express color
+JNR Class KiHa 55 Semi-Express-type DMU / express color
 jnr_kiha55-back-express
-JNR Semi-Express-type DMU kiha 55 series (back) / express color
+JNR Class KiHa 55 Semi-Express-type DMU (rear) / express color
 jnr_kiha55-front-shutoken
-JNR Semi-Express-type DMU kiha 55 series / express color
+JNR Class KiHa 55 Semi-Express-type DMU / express color
 jnr_kiha55-back-shutoken
-JNR Semi-Express-type DMU kiha 55 series (back) / express color
+JNR Class KiHa 55 Semi-Express-type DMU (rear) / express color
 jnr_kiro25-front-junkyu
-JNR Semi-Express-type DMU kiro 25 series [1st class] / semi-express color
+JNR Class KiRo 25 Semi-Express-type DMU [1st class] / semi-express color
 jnr_kiro25-back-junkyu
-JNR Semi-Express-type DMU kiro 25 series [1st class] (back) / semi-express color
+JNR Class KiRo 25 Semi-Express-type DMU [1st class] (rear) / semi-express color
 jnr_kiroha25-front-junkyu
-"JNR Semi-Express-type DMU kiroha 25 series [1st class
+JNR Class KiRoHa 25 Semi-Express-type DMU [1st/2nd class composite] / semi-express color
 jnr_kiroha25-back-junkyu
-"JNR Semi-Express-type DMU kiroha 25 series [1st class
+JNR Class KiRoHa 25 Semi-Express-type DMU [1st/2nd class composite] (rear) / semi-express color
 jnr_kiha26-front-junkyu
-JNR Semi-Express-type DMU kiha 26 series / semi-express color
+JNR Class KiHa 26 Semi-Express-type DMU / semi-express color
 jnr_kiha26-back-junkyu
-JNR Semi-Express-type DMU kiha 26 series (back) / semi-express color
+JNR Class KiHa 26 Semi-Express-type DMU (rear) / semi-express color
 jnr_kiha26-front-express
-JNR Semi-Express-type DMU kiha 26 series / semi-express color
+JNR Class KiHa 26 Semi-Express-type DMU / semi-express color
 jnr_kiha26-back-express
-JNR Semi-Express-type DMU kiha 26 series (back) / semi-express color
+JNR Class KiHa 26 Semi-Express-type DMU (rear) / semi-express color
 jnr_kiha26-front-shutoken
-JNR Semi-Express-type DMU kiha 26 series / semi-express color
+JNR Class KiHa 26 Semi-Express-type DMU / semi-express color
 jnr_kiha26-back-shutoken
-JNR Semi-Express-type DMU kiha 26 series (back) / semi-express color
+JNR Class KiHa 26 Semi-Express-type DMU (rear) / semi-express color
 jnr_kiha26-300-front-express
-JNR Semi-Express-type DMU kiha 26 series #300 / express color
+JNR Class KiHa 26-300 Semi-Express-type DMU / express color
 jnr_kiha26-300-back-express
-JNR Semi-Express-type DMU kiha 26 series #300 (back) / express color
+JNR Class KiHa 26-300 Semi-Express-type DMU (rear) / express color
 jnr_kiha26-400-front-express
-JNR Semi-Express-type DMU kiha 26 series #400 / express color
+JNR Class KiHa 26-400 Semi-Express-type DMU / express color
 jnr_kiha26-400-back-express
-JNR Semi-Express-type DMU kiha 26 series #400 (back) / express color
+JNR Class KiHa 26-400 Semi-Express-type DMU (rear) / express color
 jnr_kiha26-600-front-express
-JNR Semi-Express-type DMU kiha 26 series #600 / express color
+JNR Class KiHa 26-600 Semi-Express-type DMU / express color
 jnr_kiha26-600-back-express
-JNR Semi-Express-type DMU kiha 26 series #600 (back) / express color
+JNR Class KiHa 26-600 Semi-Express-type DMU (rear) / express color
 jnr_kiha26-600-front-shutoken
-JNR General-type DMU kiha 26 series #600 / orange
+JNR Class KiHa 26-600 Semi-Express-type DMU / orange
 jnr_kiha26-600-back-shutoken
-JNR General-type DMU kiha 26 series #600 (back) / orange
+JNR Class KiHa 26-600 Semi-Express-type DMU (rear) / orange
 jnr_kiha58-front
-JNR Express-type DMU Express kiha 58 series
+JNR Class KiHa 58 Express-type DMU
 jnr_kiha58-back
-JNR Express-type DMU Express kiha 58 series (back)
+JNR Class KiHa 58 Express-type DMU (rear)
 jnr_kiha28-front
-JNR Express-type DMU Express kiha 28 series
+JNR Class KiHa 28 Express-type DMU
 jnr_kiha28-back
-JNR Express-type DMU Express kiha 28 series (back)
+JNR Class KiHa 28 Express-type DMU (rear)
+jnr_kiha65-front
+JNR Class KiHa 65 Express-type DMU
+jnr_kiha65-back
+JNR Class KiHa 65 Express-type DMU (rear)
 jnr_kiro28
-JNR Express-type DMU Express kiro 28 series [1st class]
+JNR Class KiRo 28 Express-type DMU [1st class]
 jnr_kiro28-cooler
  冷房付き]"
 jnr_kiyu25-front
-Ministry of Posts and Telecommunications DMU kiyu 25 series [Traveling post office]
+MPT Class KiYu 25 DMU [Traveling post office]
 jnr_kiyu25-back
-Ministry of Posts and Telecommunications DMU kiyu 25 series [Traveling post office] (back)
+MPT Class KiYu 25 DMU [Traveling post office] (rear)
 jnr_kumoyuni74-shonan
-JNR Commuter-type EMU kumoyuni 74 series [Mail] / Shonan color
+JNR KuMoYuNi 74 Commuter-type EMU [Mail] / Shonan color
 jnr_kumoyuni74-yokosuka
-JNR Commuter-type EMU kumoyuni 74 series [Mail] / Yokosuka color
+JNR KuMoYuNi 74 Commuter-type EMU [Mail] / Yokosuka color
 jnr_kumoha103-front-skyblue
-JNR Commuter-type EMU kumoha 103 series / sky blue
+JNR KuMoHa 103 Commuter-type EMU / sky blue
 jnr_kuha103-front-skyblue
-JNR Commuter-type EMU kumoha 103 series / sky blue
+JNR KuHa 103 Commuter-type EMU / sky blue
 jnr_kuha103-back-skyblue
-JNR Commuter-type EMU kumoha 103 series (back) / sky blue
+JNR KuHa 103 Commuter-type EMU (rear) / sky blue
 jnr_moha103-skyblue
-JNR Commuter-type EMU kumoha 103 series / sky blue
+JNR MoHa 103 Commuter-type EMU / sky blue
 jnr_moha102-skyblue
-JNR Commuter-type EMU kumoha 103 series / sky blue
+JNR MoHa 102 Commuter-type EMU / sky blue
 jnr_saha103-skyblue
-JNR Commuter-type EMU kumoha 103 series / sky blue
+JNR SaHa 103 Commuter-type EMU / sky blue
 jnr_kumoha103-front-limegreen
-JNR Commuter-type EMU kumoha 103 series / lime green
+JNR KuMoHa 103 Commuter-type EMU / lime green
 jnr_kuha103-front-limegreen
-JNR Commuter-type EMU kumoha 103 series / lime green
+JNR KuHa 103 Commuter-type EMU / lime green
 jnr_kuha103-back-limegreen
-JNR Commuter-type EMU kumoha 103 series (back) / lime green
+JNR KuHa 103 Commuter-type EMU (rear) / lime green
 jnr_moha103-limegreen
-JNR Commuter-type EMU kumoha 103 series / lime green
+JNR MoHa 103 Commuter-type EMU / lime green
 jnr_moha102-limegreen
-JNR Commuter-type EMU kumoha 103 series / lime green
+JNR MoHa 102 Commuter-type EMU / lime green
 jnr_saha103-limegreen
-JNR Commuter-type EMU kumoha 103 series / lime green
+JNR SaHa 103 Commuter-type EMU / lime green
 jnr_kumoha103-front-canaria
-JNR Commuter-type EMU kumoha 103 series / canaria
+JNR KuMoHa 103 Commuter-type EMU / canaria
 jnr_kuha103-front-canaria
-JNR Commuter-type EMU kumoha 103 series / canaria
+JNR KuHa 103 Commuter-type EMU / canaria
 jnr_kuha103-back-canaria
-JNR Commuter-type EMU kumoha 103 series (back) / canaria
+JNR KuHa 103 Commuter-type EMU (rear) / canaria
 jnr_moha103-canaria
-JNR Commuter-type EMU kumoha 103 series / canaria
+JNR MoHa 103 Commuter-type EMU / canaria
 jnr_moha102-canaria
-JNR Commuter-type EMU kumoha 103 series / canaria
+JNR MoHa 102 Commuter-type EMU / canaria
 jnr_saha103-canaria
-JNR Commuter-type EMU kumoha 103 series / canaria
+JNR SaHa 103 Commuter-type EMU / canaria
 jnr_kumoha103-front-orange
-JNR Commuter-type EMU kumoha 103 series / orange
+JNR KuMoHa 103 Commuter-type EMU / orange
 jnr_kuha103-front-orange
-JNR Commuter-type EMU kumoha 103 series / orange
+JNR KuHa 103 Commuter-type EMU / orange
 jnr_kuha103-back-orange
-JNR Commuter-type EMU kumoha 103 series (back) / orange
+JNR KuHa 103 Commuter-type EMU (rear) / orange
 jnr_moha103-orange
-JNR Commuter-type EMU kumoha 103 series / orange
+JNR MoHa 103 Commuter-type EMU / orange
 jnr_moha102-orange
-JNR Commuter-type EMU kumoha 103 series / orange
+JNR MoHa 102 Commuter-type EMU / orange
 jnr_saha103-orange
-JNR Commuter-type EMU kumoha 103 series / orange
+JNR SaHa 103 Commuter-type EMU / orange
 jnr_kumoha103-front-emerald
-JNR Commuter-type EMU kumoha 103 series / emerald
+JNR KuMoHa 103 Commuter-type EMU / emerald
 jnr_kuha103-front-emerald
-JNR Commuter-type EMU kumoha 103 series / emerald
+JNR KuHa 103 Commuter-type EMU / emerald
 jnr_kuha103-back-emerald
-JNR Commuter-type EMU kumoha 103 series (back) / emerald
+JNR KuHa 103 Commuter-type EMU (rear) / emerald
 jnr_moha103-emerald
-JNR Commuter-type EMU kumoha 103 series / emerald
+JNR MoHa 103 Commuter-type EMU / emerald
 jnr_moha102-emerald
-JNR Commuter-type EMU kumoha 103 series / emerald
+JNR MoHa 102 Commuter-type EMU / emerald
 jnr_saha103-emerald
-JNR Commuter-type EMU kumoha 103 series / emerald
+JNR SaHa 103 Commuter-type EMU / emerald
 jnr_kuha111-front-shonan
-JNR Suburban-type EMU kuha 111 series / Shonan color
+JNR KuHa 111 Suburban-type EMU / Shonan color
 jnr_kuha111-back-shonan
-JNR Suburban-type EMU kuha 111 series (back) / Shonan color
+JNR KuHa 111 Suburban-type EMU (rear) / Shonan color
 jnr_moha110-shonan
-JNR Suburban-type EMU moha 110 series / Shonan color
+JNR MoHa 110 Suburban-type EMU / Shonan color
 jnr_moha111-shonan
-JNR Suburban-type EMU moha 111 series / Shonan color
+JNR MoHa 111 Suburban-type EMU / Shonan color
 jnr_kuha111-front-shonan-air
-JNR Suburban-type EMU kuha 111 series / Shonan color
+JNR KuHa 111 Suburban-type EMU / Shonan color
 jnr_kuha111-back-shonan-air
-JNR Suburban-type EMU kuha 111 series (back) / Shonan color
+JNR KuHa 111 Suburban-type EMU (rear) / Shonan color
 jnr_moha112-shonan
-JNR Suburban-type EMU moha 112 series / Shonan color
+JNR MoHa 112 Suburban-type EMU / Shonan color
 jnr_moha113-shonan
-JNR Suburban-type EMU moha 113 series / Shonan color
+JNR MoHa 113 Suburban-type EMU / Shonan color
 jnr_saro110-shonan
-JNR Suburban-type EMU saro 110 series [1st class] / Shonan color
+JNR SaRo 110 Suburban-type EMU [1st class] / Shonan color
 jnr_saro111-shonan
-JNR Suburban-type EMU saro 111 series [1st class] / Shonan color
+JNR SaRo 111 Suburban-type EMU [1st class] / Shonan color
 jnr_saha111-shonan
-JNR Suburban-type EMU saha 111 series / Shonan color
+JNR SaHa 111 Suburban-type EMU / Shonan color
 jnr_kuha111-front-yokosuka
-JNR Suburban-type EMU kuha 111 series / Yokosuka color
+JNR KuHa 111 Suburban-type EMU / Yokosuka color
 jnr_kuha111-back-yokosuka
-JNR Suburban-type EMU kuha 111 series (back) / Yokosuka color
+JNR KuHa 111 Suburban-type EMU (rear) / Yokosuka color
 jnr_moha110-yokosuka
-JNR Suburban-type EMU moha 110 series / yokosuka color
+JNR MoHa 110 Suburban-type EMU / yokosuka color
 jnr_moha111-yokosuka
-JNR Suburban-type EMU moha 111 series / yokosuka color
+JNR MoHa 111 Suburban-type EMU / yokosuka color
 jnr_kuha111-front-yokosuka-air
-JNR Suburban-type EMU kuha 111 series / Yokosuka color
+JNR KuHa 111 Suburban-type EMU / Yokosuka color
 jnr_kuha111-back-yokosuka-air
-JNR Suburban-type EMU kuha 111 series (back) / Yokosuka color
+JNR KuHa 111 Suburban-type EMU (rear) / Yokosuka color
 jnr_moha112-yokosuka
-JNR Suburban-type EMU moha 112 series / Yokosuka color
+JNR MoHa 112 Suburban-type EMU / Yokosuka color
 jnr_moha113-yokosuka
-JNR Suburban-type EMU moha 113 series / Yokosuka color
+JNR MoHa 113 Suburban-type EMU / Yokosuka color
 jnr_saro110-yokosuka
-JNR Suburban-type EMU saro 110 series [1st class] / Yokosuka color
+JNR SaRo 110 Suburban-type EMU [1st class] / Yokosuka color
 jnr_saro111-yokosuka
-JNR Suburban-type EMU saro 111 series [1st class] / Yokosuka color
+JNR SaRo 111 Suburban-type EMU [1st class] / Yokosuka color
 jnr_saha111-yokosuka
-JNR Suburban-type EMU saha 111 series / Yokosuka color
+JNR SaHa 111 Suburban-type EMU / Yokosuka color
 jnr_kuha165-front-shonan
-JNR Suburban-type EMU kuha 165 series / Shonan color
+JNR KuHa 165 Suburban-type EMU / Shonan color
 jnr_kuha165-back-shonan
-JNR Suburban-type EMU kuha 165 series (back) / Shonan color
+JNR KuHa 165 Suburban-type EMU (rear) / Shonan color
 jnr_kumoha165-back-shonan
-JNR Suburban-type EMU kumoha 165 series / Shonan color
+JNR KuMoHa 165 Suburban-type EMU / Shonan color
 jnr_moha164-shonan
-JNR Suburban-type EMU moha 164 series / Shonan color
+JNR MoHa 164 Suburban-type EMU / Shonan color
 jnr_moha165-shonan
-JNR Suburban-type EMU moha 165 series / Shonan color
+JNR MoHa 165 Suburban-type EMU / Shonan color
 jnr_saha165-shonan
-JNR Suburban-type EMU saha 165 series / Shonan color
+JNR SaHa 165 Suburban-type EMU / Shonan color
 jnr_saro165-shonan
-JNR Suburban-type EMU saro 165 series / Shonan color
+JNR SaRo 165 Suburban-type EMU / Shonan color
 jnr_sahashi165-shonan
-JNR Suburban-type EMU saro 165 series [Soba buffet car] / Shonan color
+JNR SaHaShi 165 Suburban-type EMU [Soba buffet] / Shonan color
 jnr_sahashi165-back-shonan
-JNR Suburban-type EMU saro 165 series (back) [Soba buffet car] / Shonan color
+JNR SaHaShi 165 Suburban-type EMU (rear) [Soba buffet] / Shonan color
+jnr_kuha201-orange
+JNR KuHa 201 Commuter-type EMU / orange
+jnr_kuha200-orange
+JNR KuHa 200 Commuter-type EMU / orange
+jnr_moha201-orange
+JNR KuMoHa 201 Commuter-type EMU / orange
+jnr_moha200-orange
+JNR KuMoHa 200 Commuter-type EMU / orange
+jnr_saha201-orange
+JNR KuMoHa 201 Commuter-type EMU / orange
+jnr_kuha201-canaria
+JNR KuHa 201 Commuter-type EMU / canaria
+jnr_kuha200-canaria
+JNR KuHa 200 Commuter-type EMU / canaria
+jnr_moha201-canaria
+JNR KuMoHa 201 Commuter-type EMU / canaria
+jnr_moha200-canaria
+JNR KuMoHa 200 Commuter-type EMU / canaria
+jnr_saha201-canaria
+JNR KuMoHa 201 Commuter-type EMU / canaria
+jnr_kuha201-skyblue
+JNR KuHa 201 Commuter-type EMU / skyblue
+jnr_kuha200-skyblue
+JNR KuHa 200 Commuter-type EMU / skyblue
+jnr_moha201-skyblue
+JNR KuMoHa 201 Commuter-type EMU / skyblue
+jnr_moha200-skyblue
+JNR KuMoHa 200 Commuter-type EMU / skyblue
+jnr_saha201-skyblue
+JNR KuMoHa 201 Commuter-type EMU / skyblue
 jnr_kuha481-300-front
-JNR InterCity-type EMU kuha 481 series
+JNR KuHa 481 Intercity-type EMU 
 jnr_kuha481-300-back
-JNR InterCity-type EMU kuha 481 series (back)
+JNR KuHa 481 Intercity-type EMU (rear)
 jnr_moha484-300
-JNR InterCity-type EMU moha 484 series
+JNR MoHa 484 Intercity-type EMU
 jnr_moha485-300
-JNR InterCity-type EMU moha 485 series
+JNR MoHa 485 Intercity-type EMU
 jnr_saro481
-JNR InterCity-type EMU saro 481 series [1st class]
+JNR SaRo 481 Intercity-type EMU [1st class]
 jnr_sashi481
-JNR InterCity-type EMU sashi 481 series [catering]
+JNR SaShi 481 Intercity-type EMU [Restaurant]
 jnr_dd51
-JNR DL DD51 series
+JNR Class DD51
 jnr_de10
-JNR DL DE10 series
+JNR Class DE10
+jnr_ef58-bluetrain
+JNR Class EF58 / sleeping intercity express color
+jnr_ef58-general
+JNR Class EF58 / general color
+jnr_ef58-standard
+JNR Class EF58 / standard color
 jnr_ef65-general
-JNR EL EF65 series #0 / general color
+JNR Class EF65-0 / general color
 jnr_ef65-express
-JNR EL EF65 series #500 / intercity express color
+JNR Class EF65-500 / intercity express color
 jnr_wamu80000
-JNR wamu 80000 series [Box]
+JNR WaMu 80000 [Box]
 jnr_remu5000
-JNR remu 5000 series [Refrigerator]
+JNR ReMu 5000 [Refrigerator]
 jnr_yo5000
-JNR yo 5000 series [Brake]
+JNR Yo 5000 [Brake]
 jnr_seki3000
-JNR seki 3000 series [Coal]
+JNR SeKi 3000 [Coal]
 jnr_chiki1500
-JNR chiki 1500 series [Long]
+JNR ChiKi 1500 [Long]
 jnr_ohafu61
-"JNR Carriage ohafu 61 series [2nd class
-jnr_naha20
-JNR Carriage naha 20 series [1st class]
-jnr_nahane20
-JNR Carriage nahane 20 series [1st class sleeper]
-jnr_nahanefu22_back
-"JNR Carriage nahanefu 22 series (back) [1st class sleeper
-jnr_nahanefu22_front
-"JNR Carriage nahanefu 22 series (front) [1st class sleeper
+JNR OHaFu 61 brake carriage (rear)
+jnr_ohafu61-front
+JNR OHaFu 61 brake carriage
+jnr_oha61
+JNR OHa 61 carriage
+jnr_oro61
+JNR ORo 61 carriage [1st class]
 jnr_oyu61
-Ministry of Posts and Telecommunications Carriage oyu 61 series [Traveling post office]
+MPT OYu 61 mail carriage [Traveling post office]
+jnr_suha43-brown
+JNR SuHa 43 carriage / brown
+jnr_suha43-blue
+JNR SuHa 43 carriage / blue
+jnr_suha43-brown1
+JNR SuHa 43 carriage / brown
+jnr_oha47-brown
+JNR OHa 47 carriage / brown
+jnr_oha47-blue
+JNR OHa 47 carriage / blue
+jnr_suhafu42-front-brown
+JNR SuHaFu 42 carriage / brown
+jnr_suhafu42-front-blue
+JNR SuHaFu 42 carriage / blue
+jnr_suhafu42-front-brown1
+JNR SuHaFu 42 carriage / brown
+jnr_suhafu42-back-brown
+JNR SuHaFu 42 carriage (rear) / brown
+jnr_suhafu42-back-blue
+JNR SuHaFu 42 carriage (rear) / blue
+jnr_suhafu42-back-brown1
+JNR SuHaFu 42 carriage (rear) / brown
+jnr_naha20
+JNR NaHa 20 Intercity-type carriage
+jnr_naro20
+JNR NaRo 20 Intercity-type carriage [1st class]
+jnr_nahane20
+JNR NaHaNe 20 Intercity-type sleeping carriage
+jnr_nahafu20
+JNR NaHaFu 20 Intercity-type brake carriage
+jnr_nahanefu22
+JNR NaHaNeFu 22 Intercity-type sleeping brake carriage
+jnr_kani21
+JNR KaNi 21 Intercity-type power supply/mail carriage
+jnr_narone21
+JNR NaRoNe 21 Intercity-type sleeping carriage [1st class]
+jnr_narone20
+JNR NaRoNe 20 Intercity-type sleeping carriage [1st class compartment]
+jnr_nashi20
+JNR NaShi 20 Intercity-type restaurant carriage
+jnr_oha12
+JNR OHa 12 Express-type carriage
+jnr_suhafu12-back
+JNR SuHaFu 12 Express-type brake carriage (rear)
+jnr_suhafu12-front
+JNR SuHaFu 12 Express-type brake carriage
+jnr_ohafu13-back
+JNR OHaFu 13 Express-type brake carriage (rear)
+jnr_ohafu13-front
+JNR OHaFu 13 Express-type brake carriage
+jnr_oha50
+JNR OHa 12 General-type carriage
+jnr_ohafu50
+JNR OHaFu 50 General-type brake carriage
+jnr_mani50
+JNR MaNi 50 General-type mail carriage
 nagoya_2000
 Nagoya city tram 2000 series
 nagoya_3000-front
 Nagoya city tram 3000 series
 nagoya_3000-back
-Nagoya city tram 3000 series (back)
+Nagoya city tram 3000 series (rear)
 tokyomonorail_100_front
-Tokyo monorail EMU 100 series
+Tokyo monorail Class 100 EMU
 tokyomonorail_100_back
-Tokyo monorail EMU 100 series (back)
+Tokyo monorail Class 100 EMU (rear)
 tokyomonorail_200_100
-Tokyo monorail EMU 200 series
+Tokyo monorail 200 EMU
 tokyomonorail_200_300_350
-Tokyo monorail EMU 200 series
+Tokyo monorail 200 EMU
 tokyomonorail_200_350_300
-Tokyo monorail EMU 200 series
+Tokyo monorail 200 EMU
 tokyomonorail_300_front
-Tokyo monorail EMU 300 series
+Tokyo monorail Class 300 EMU
 tokyomonorail_300_back
-Tokyo monorail EMU 300 series (back)
+Tokyo monorail Class 300 EMU (rear)
 tokyomonorail_350_front
-Tokyo monorail EMU 350 series
+Tokyo monorail 350 EMU
 tokyomonorail_350_back
-Tokyo monorail EMU 350 series (back)
+Tokyo monorail 350 EMU (rear)
 tokyomonorail_500_front
-Tokyo monorail EMU 500 series
+Tokyo monorail Class 500 EMU
 tokyomonorail_500_back
-Tokyo monorail EMU 500 series (back)
+Tokyo monorail Class 500 EMU (rear)
 tokyomonorail_600_front
-Tokyo monorail EMU 600 series
+Tokyo monorail Class 600 EMU
 tokyomonorail_600_back
-Tokyo monorail EMU 600 series (back)
+Tokyo monorail Class 600 EMU (rear)
 tokyomonorail_700mc1_front
-Tokyo monorail EMU 700 series
+Tokyo monorail Class 700 EMU
 tokyomonorail_700mc1_back
-Tokyo monorail EMU 700 series (back)
+Tokyo monorail Class 700 EMU (rear)
 tokyomonorail_800_front
-Tokyo monorail EMU 800 series
+Tokyo monorail Class 800 EMU
 tokyomonorail_800_back
-Tokyo monorail EMU 800 series (back)
+Tokyo monorail Class 800 EMU (rear)
 vehicle_arp3
 FRP fishing boat
 vehicle_kamome_no3
@@ -346,29 +440,29 @@ Imabari Kamome No.3
 vehicle_air_ys11
 YS-11
 jeffrey_L
-Kusakaru electric railway EL deki 12 series
+Kusakaru electric railway EL Class DeKi 12
 atami_sl
-Atami railway 0-4-0T SL
+Atami railway SL 0-4-0T
 okinawa_sl
 Okinawa prefectural railway SL 0-4-2T
 kato-diesel-P
-Kato works P series DL / skyblue
+Kato works DL Class P / skyblue
 kato-diesel-P-green
-Kato works P series DL / green
+Kato works DL Class P / green
 kusakaru-hoha30
-Kusakaru electric railway hoha 30 series [3rd class passenger]
+Kusakaru electric railway HoHa 30 series [3rd class passenger]
 kusakaru-kowafu30
-Kusakaru electric railway kowafu 30 series [Box]
+Kusakaru electric railway KoWaFu 30 series [Box]
 kusakaru-hoto100
-Kusakaru electric railway hoto 100 series [Coal]
+Kusakaru electric railway HoTo 100 series [Coal]
 kiso-unzai
 Kiso forest railway Flatcar
 kusakaru-to20
-Kusakaru electric railway to 20 series [Coal]
+Kusakaru electric railway To 20 [Coal]
 kusakaru-moha100
-Kusakaru electric railway EMU moha 100 series [3rd class passenger]
+Kusakaru electric railway MoHa 100 EMU
 kubiki-hoji3
-Kubiki railway DMU hoji 3 series [3rd class passenger]
+Kubiki railway HoJi 3 DMU
 citycar_toyota_crown_s5_city
 Toyota crown S5 green
 citycar_toyota_crown_s5_police

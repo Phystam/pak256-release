@@ -960,12 +960,12 @@ town_road_speed_limit = 30
 # to the meters_per_tile setting) at which a tilting train can traverse a corner faster than
 # a non-tilting train. 
 
-corner_force_divider_road=5
-corner_force_divider_track=10
-corner_force_divider_tram=8
-corner_force_divider_monorail=10
-corner_force_divider_maglev=10
-corner_force_divider_narrowgauge=10
+corner_force_divider_road=2
+corner_force_divider_track=3
+corner_force_divider_tram=2
+corner_force_divider_monorail=3
+corner_force_divider_maglev=3
+corner_force_divider_narrowgauge=3
 
 curve_friction_factor_road=0
 curve_friction_factor_track=0
@@ -1133,8 +1133,24 @@ citycar_life = 1375
 # Pak128 default = 155 (orange)
 # Pak128.Britain default = 158 (yellow)
 # カーソルの半透明色
-cursor_overlay_color = 20
+cursor_overlay_color = #3A75CA
 special_color[13]=255,127,63,255,127,63
+
+# The below settings give an offset in pixels per direction for each vehicle 
+# when it is in a reversed state. This allows paksets whose vehicle alignments are
+# not fully centered to have vehicles reversing algorithmically and allowing them
+# to be properly aligned in game when they are reversed. 
+# 
+# By default, all of these values are 0.
+#
+reverse_base_offset_south = -12, 6, 0
+reverse_base_offset_west = -12, -6, 0
+reverse_base_offset_southwest = -17, 0, 0
+reverse_base_offset_southeast = 0, 8, 0
+reverse_base_offset_north = 12, -6, 0
+reverse_base_offset_east = 12, 6, 0
+reverse_base_offset_northeast = 17, 0, 0
+reverse_base_offset_northwest = 0, -8, 0
 ################################### River settings ##################################
 
 # rivers:

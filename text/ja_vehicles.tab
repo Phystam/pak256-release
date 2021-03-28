@@ -123,6 +123,10 @@ jnr_kiha28-front
 国鉄 キハ28形 急行形気動車
 jnr_kiha28-back
 国鉄 キハ28形 急行形気動車 (後)
+jnr_kiha65-front
+国鉄 キハ65形 急行形気動車
+jnr_kiha65-back
+国鉄 キハ65形 急行形気動車 (後)
 jnr_kiro28
 国鉄 キロ28形 急行形気動車 [一等車]
 jnr_kiro28-cooler
@@ -257,6 +261,36 @@ jnr_sahashi165-shonan
 国鉄 サハシ165形 急行形電車 (湘南色) [そばビュッフェ合造車]
 jnr_sahashi165-back-shonan
 国鉄 サハシ165形 急行形電車 (湘南色) (後) [そばビュッフェ合造車]
+jnr_kuha201-orange
+国鉄 クハ201形 通勤形電車 (オレンジ)
+jnr_kuha200-orange
+国鉄 クハ200形 通勤形電車 (オレンジ)
+jnr_moha201-orange
+国鉄 モハ201形 通勤形電車 (オレンジ)
+jnr_moha200-orange
+国鉄 モハ200形 通勤形電車 (オレンジ)
+jnr_saha201-orange
+国鉄 サハ201形 通勤形電車 (オレンジ)
+jnr_kuha201-canaria
+国鉄 クハ201形 通勤形電車 (カナリア)
+jnr_kuha200-canaria
+国鉄 クハ200形 通勤形電車 (カナリア)
+jnr_moha201-canaria
+国鉄 モハ201形 通勤形電車 (カナリア)
+jnr_moha200-canaria
+国鉄 モハ200形 通勤形電車 (カナリア)
+jnr_saha201-canaria
+国鉄 サハ201形 通勤形電車 (カナリア)
+jnr_kuha201-skyblue
+国鉄 クハ201形 通勤形電車 (スカイブルー)
+jnr_kuha200-skyblue
+国鉄 クハ200形 通勤形電車 (スカイブルー)
+jnr_moha201-skyblue
+国鉄 モハ201形 通勤形電車 (スカイブルー)
+jnr_moha200-skyblue
+国鉄 モハ200形 通勤形電車 (スカイブルー)
+jnr_saha201-skyblue
+国鉄 サハ201形 通勤形電車 (スカイブルー)
 jnr_kuha481-300-front
 国鉄 クハ481形 特急形電車 300番台
 jnr_kuha481-300-back
@@ -273,10 +307,16 @@ jnr_dd51
 国鉄 DD51形 500番台 ディーゼル機関車
 jnr_de10
 国鉄 DE10形 ディーゼル機関車
+jnr_ef58-bluetrain
+国鉄 EF58形 電気機関車 (ブルートレイン色)
+jnr_ef58-general
+国鉄 EF58形 電気機関車 (一般色)
+jnr_ef58-standard
+国鉄 EF58形 電気機関車 (標準色)
 jnr_ef65-general
-国鉄 EF65形 0番台 電気機関車 一般色
+国鉄 EF65形 0番台 電気機関車 (一般色)
 jnr_ef65-express
-国鉄 EF65形 500番台 電気機関車 特急色
+国鉄 EF65形 500番台 電気機関車 (特急色)
 jnr_wamu80000
 国鉄 ワム80000形 貨車 [有蓋車]
 jnr_remu5000
@@ -286,19 +326,73 @@ jnr_yo5000
 jnr_seki3000
 国鉄 セキ3000形 貨車 [石炭車]
 jnr_chiki1500
-国鉄 チキ1500形 貨車 [長物車]
+鉄道省 チキ1500形 貨車 [長物車]
 jnr_ohafu61
-国鉄 オハフ61形 一般形客車 [3等座席緩急車]
-jnr_naha20
-国鉄 ナハ20形 客車 [2等座席車]
-jnr_nahane20
-国鉄 ナハネ20形 寝台客車 [2等車]
-jnr_nahanefu22_back
-国鉄 ナハネフ22形 寝台客車 (後) [2等緩急車]
-jnr_nahanefu22_front
-国鉄 ナハネフ22形 寝台客車 [2等緩急車]
+国鉄 オハフ61形 一般形客車 (後)
+jnr_ohafu61-front
+国鉄 オハフ61形 一般形客車
+jnr_oha61
+国鉄 オハ61形 一般形客車
+jnr_oro61
+国鉄 オロ61形 一般形客車 [1等車]
 jnr_oyu61
 郵政省 オユ61形 郵便客車
+jnr_suha43-brown
+国鉄 スハ43形 一般形客車 (ぶどう色2号)
+jnr_suha43-blue
+国鉄 スハ43形 一般形客車 (青色)
+jnr_suha43-brown1
+国鉄 スハ43形 一般形客車 (ぶどう色1号)
+jnr_oha47-brown
+国鉄 オハ47形 一般形客車 (ぶどう色)
+jnr_oha47-blue
+国鉄 オハ47形 一般形客車 (青色)
+jnr_suhafu42-front-brown
+国鉄 スハフ42形 一般形客車 (ぶどう色2号)
+jnr_suhafu42-front-blue
+国鉄 スハフ42形 一般形客車 (青色)
+jnr_suhafu42-front-brown1
+国鉄 スハフ42形 一般形客車 (ぶどう色1号)
+jnr_suhafu42-back-brown
+国鉄 スハフ42形 一般形客車 (ぶどう色2号) (後)
+jnr_suhafu42-back-blue
+国鉄 スハフ42形 一般形客車 (青色) (後)
+jnr_suhafu42-back-brown1
+国鉄 スハフ42形 一般形客車 (ぶどう色1号) (後)
+jnr_naha20
+国鉄 ナハ20形 客車 [3等座席車]
+jnr_naro20
+国鉄 ナロ20形 客車 [2等座席車]
+jnr_nahane20
+国鉄 ナハネ20形 客車 [3等寝台車]
+jnr_nahafu20
+国鉄 ナハフ20形 客車 [3等座席緩急車]
+jnr_nahanefu22
+国鉄 ナハネフ22形 客車 [3等寝台緩急車]
+jnr_kani21
+国鉄 カニ21形 客車 [電源荷物車]
+jnr_narone21
+国鉄 ナロネ21形 客車 [2等寝台車]
+jnr_narone20
+国鉄 ナロネ20形 客車 [2等個室寝台車]
+jnr_nashi20
+国鉄 ナシ20形 客車 [食堂車]
+jnr_oha12
+国鉄 オハ12形 急行形客車
+jnr_suhafu12-back
+国鉄 スハフ12形 急行形客車 (後) [座席緩急車]
+jnr_suhafu12-front
+国鉄 スハフ12形 急行形客車 [座席緩急車]
+jnr_ohafu13-back
+国鉄 オハフ13形 急行形客車 (後) [座席緩急車]
+jnr_ohafu13-front
+国鉄 オハフ13形 急行形客車 [座席緩急車]
+jnr_oha50
+国鉄 オハ50形 一般形客車
+jnr_ohafu50
+国鉄 オハフ50形 一般形客車
+jnr_mani50
+国鉄 マニ50形 一般形客車 [荷物車]
 nagoya_2000
 名古屋市電 2000形 電車
 nagoya_3000-front
@@ -318,7 +412,7 @@ tokyomonorail_200_350_300
 tokyomonorail_300_front
 東京モノレール 300形 電車
 tokyomonorail_300_back
-東京モノレール 100形 電車 (後)
+東京モノレール 300形 電車 (後)
 tokyomonorail_350_front
 東京モノレール 350形 電車
 tokyomonorail_350_back

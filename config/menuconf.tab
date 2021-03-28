@@ -159,7 +159,7 @@ simple_tool[1]=1,W
 simple_tool[2]=2,c
 simple_tool[3]=3
 simple_tool[4]=4,z
-simple_tool[5]=5,P
+simple_tool[5]=5,
 simple_tool[6]=6
 # simple tool 7 needs a parameter
 simple_tool[8]=7,>
@@ -738,10 +738,11 @@ toolbar[40][0]=-,128,, #Rail & Tram Icon
 toolbar[40][1]=-,143,, #Port Icon
 toolbar[40][2]=buildings(34,3)
 toolbar[40][3]=buildings(11,3)
-toolbar[40][4]=buildings(36,3)
-toolbar[40][5]=-,128,, #Rail & Tram Icon
-toolbar[40][6]=-,144,, #Depot Icon
-toolbar[40][7]=buildings(33,3)
+toolbar[40][4]=buildings(35,3)
+toolbar[40][5]=buildings(36,3)
+toolbar[40][6]=-,128,, #Rail & Tram Icon
+toolbar[40][7]=-,144,, #Depot Icon
+toolbar[40][8]=buildings(33,3)
 
 ###################################################
 ########## PART 8 Air WayTools #############
